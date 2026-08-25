@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""GitHub bot: fetch starred repos → classified Vietnamese Markdown (Astro-ready)."""
+"""GitHub bot: starred repos → Vietnamese Markdown files (index + per-category)."""
 
 from __future__ import annotations
 
 import json
 import os
-import re
 import time
 import urllib.request
 from collections import defaultdict
@@ -14,6 +13,7 @@ from pathlib import Path
 
 USERNAME = os.environ.get("GH_USERNAME", "bombap")
 OUT_DIR = Path(os.environ.get("STARRED_OUT", "."))
+RAW_FALLBACK = Path(os.environ.get("STARRED_RAW_FALLBACK", "/workspace/src/data/stars.raw.json"))
 
 CATEGORIES = [
     ("video-seedance", "Video / Seedance / Shorts", "Pipeline video, short drama, storyboard, editor.", ["seedance", "short-video", "short video", "shorts", "storyboard", "drama", "tiktok", "toonflow", "moneyprinter", "pixelle", "openmontage", "huobao", "arcreel", "waoowaoo", "printfilm", "tvc-director", "handdrawn", "book-video", "clipsketch", "tooscut", "ai-video", "short-drama", "short drama"]),
@@ -29,22 +29,8 @@ CATEGORIES = [
     ("other", "Khác", "Repo không khớp các nhóm trên.", []),
 ]
 
-ROLE = {
-    "video-seedance": "Công cụ / pipeline sản xuất video, short drama hoặc Seedance.",
-    "skills-prompt": "Skill hoặc bộ prompt giúp agent làm việc có tay nghề hơn.",
-    "image-design": "Công cụ tạo ảnh, design, motion hoặc poster.",
-    "cloud-workers": "Hạ tầng edge, Cloudflare Workers hoặc AI gateway.",
-    "rag-search": "Tìm kiếm, crawl, RAG hoặc xử lý tài liệu.",
-    "agent-llm": "Framework / SDK để dựng agent và ứng dụng LLM.",
-    "frontend-ui": "Thư viện giao diện, editor hoặc starter frontend.",
-    "selfhost-ops": "Phần mềm tự host, DevOps hoặc nền tảng SaaS.",
-    "crypto-web3": "Công cụ crypto, Solana hoặc on-chain.",
-    "learning": "Tài liệu học, awesome list hoặc cookbook.",
-    "other": "Repo kỹ thuật đã bookmark.",
-}
 
-
-def classify(repo):
+def classify(repo: dict) -> str:
     hay = " ".join(
         [
             repo.get("fullName") or repo.get("full_name") or "",
@@ -62,9 +48,9 @@ def classify(repo):
     return "other"
 
 
-def fetch_starred():
+def fetch_starred() -> list[dict]:
     token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
-    repos = []
+    repos: list[dict] = []
     page = 1
     while True:
         url = f"https://api.github.com/users/{USERNAME}/starred?per_page=100&page={page}"
@@ -76,8 +62,12 @@ def fetch_starred():
                 **({"Authorization": f"Bearer {token}"} if token else {}),
             },
         )
-        with urllib.request.urlopen(req, timeout=60) as r:
-            batch = json.loads(r.read().decode())
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                batch = json.loads(r.read().decode())
+        except Exception as exc:
+            print("fetch failed:", exc)
+            break
         if not batch:
             break
         for repo in batch:
@@ -105,7 +95,17 @@ def fetch_starred():
     return repos
 
 
-def fmt_date(iso):
+def load_repos() -> list[dict]:
+    live = fetch_starred()
+    if live:
+        return live
+    if RAW_FALLBACK.exists():
+        print("using fallback", RAW_FALLBACK)
+        return json.loads(RAW_FALLBACK.read_text(encoding="utf-8"))
+    raise SystemExit("No starred repos")
+
+
+def fmt_date(iso: str) -> str:
     if not iso:
         return "—"
     try:
@@ -115,112 +115,128 @@ def fmt_date(iso):
         return iso[:10]
 
 
-def render_repo(r, cid):
-    desc = (r.get("description") or "").strip()
-    role = ROLE[cid]
-    about = f"{desc}\n\n*{role}*" if desc else f"*{role}* Chưa có mô tả trên GitHub."
+def cell(text: str, limit: int = 160) -> str:
+    s = (text or "").replace("\r", "").replace("\n", " ").replace("|", "\\|")
+    s = s.replace("<", "<").replace(">", ">").strip()
+    if not s:
+        return "—"
+    if len(s) <= limit:
+        return s
+    clipped = s[: limit - 1]
+    if " " in clipped:
+        clipped = clipped.rsplit(" ", 1)[0]
+    return clipped + "…"
+
+
+def repo_row(r: dict) -> str:
+    url = r.get("url") or f"https://github.com/{r['fullName']}"
+    name = cell(r["fullName"], 80)
+    archived = " · archive" if r.get("archived") else ""
+    desc = cell(r.get("description") or "")
     topics = r.get("topics") or []
-    topic_line = ", ".join(f"`{t}`" for t in topics[:8]) if topics else "—"
-    archived = " · **đã archive**" if r.get("archived") else ""
-    homepage = r.get("homepage") or ""
-    home = f"\n- **Website:** {homepage}" if homepage.startswith("http") else ""
-    license_ = r.get("license") or ""
-    lic = f"\n- **License:** `{license_}`" if license_ and license_ != "NOASSERTION" else ""
-    forks = r.get("forks")
-    fork_line = f"\n- **Fork:** {forks:,}" if forks else ""
-    return f"""### [{r['fullName']}]({r.get('url') or 'https://github.com/' + r['fullName']})
-
-{about}
-
-- **Ngôn ngữ:** `{r.get('language') or '—'}`
-- **Stars:** {int(r.get('stars') or 0):,}
-- **Cập nhật code:** {fmt_date(r.get('updatedAt') or '')}{archived}{fork_line}{lic}{home}
-- **Topics:** {topic_line}
-"""
+    if topics and desc != "—":
+        tags = " ".join(f"`{t}`" for t in topics[:4])
+        desc = f"{desc} {tags}"
+    elif topics:
+        desc = " ".join(f"`{t}`" for t in topics[:6])
+    lang = cell(r.get("language") or "—", 24)
+    stars = f"{int(r.get('stars') or 0):,}"
+    updated = fmt_date(r.get("updatedAt") or "")
+    return f"| [{name}]({url}){archived} | {desc} | {lang} | {stars} | {updated} |"
 
 
-def build_markdown(repos):
-    grouped = defaultdict(list)
+def table(repos: list[dict]) -> str:
+    header = "| Repo | Mô tả | Ngôn ngữ | Stars | Cập nhật |\n| --- | --- | --- | ---: | --- |"
+    rows = "\n".join(repo_row(r) for r in repos)
+    return f"{header}\n{rows}"
+
+
+def group_repos(repos: list[dict]) -> dict[str, list[dict]]:
+    grouped: dict[str, list[dict]] = defaultdict(list)
     for r in repos:
         grouped[classify(r)].append(r)
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    for cid, items in grouped.items():
+        items.sort(key=lambda x: int(x.get("stars") or 0), reverse=True)
+    return grouped
+
+
+def build_index(repos: list[dict], grouped: dict[str, list[dict]]) -> str:
+    now = datetime.now(timezone.utc)
     used = [c for c in CATEGORIES if grouped.get(c[0])]
-    toc = "\n".join(
-        f"- [{name}](#{cid}) — {len(grouped[cid])} repo · {blurb}"
-        for cid, name, blurb, _ in used
-    )
-    sections = []
+    rows = []
     for cid, name, blurb, _ in used:
-        items = sorted(grouped[cid], key=lambda x: int(x.get("stars") or 0), reverse=True)
-        body = "\n".join(render_repo(r, cid) for r in items)
-        sections.append(f"## {name}\n\n*{blurb}*\n\n{body}")
+        n = len(grouped[cid])
+        rows.append(
+            f"| {name} | [{cid}.md](./src/content/stars/{cid}.md) | {n} | {blurb} |"
+        )
+    body = "\n".join(rows)
     return f"""---
 title: "Repo đã star của {USERNAME}"
-description: "Danh sách GitHub starred, phân loại tiếng Việt, cập nhật bởi GitHub Actions."
-publishDate: {datetime.now(timezone.utc).strftime("%Y-%m-%d")}
+description: "Mục lục Markdown do GitHub bot tổng hợp từ starred repos."
+publishDate: {now.strftime("%Y-%m-%d")}
 language: vi
-layout: ../../layouts/MarkdownLayout.astro
 ---
 
 # Repo đã star của `{USERNAME}`
 
-*Cập nhật: {now}*  
-*Bot GitHub Actions · {len(repos)} repository · {len(used)} nhóm*
+Tổng hợp **tự động** bởi GitHub Actions (02:00 giờ Việt Nam mỗi ngày, hoặc chạy tay `workflow_dispatch`).
 
-{toc}
+Mỗi nhóm là **một file Markdown** trong [`src/content/stars/`](https://github.com/{USERNAME}/sao-github/tree/main/src/content/stars). Trang xem đọc các file đó trực tiếp từ GitHub.
 
----
+*Cập nhật: {now.strftime("%Y-%m-%d %H:%M UTC")}*  
+*{len(repos)} repository · {len(used)} nhóm · bot `generate_starred.py`*
 
-{chr(10).join(sections)}
+| Nhóm | File Markdown | Số repo | Nội dung |
+| --- | --- | ---: | --- |
+{body}
 """
 
 
-def build_category_pages(repos):
-    grouped = defaultdict(list)
-    for r in repos:
-        grouped[classify(r)].append(r)
-    pages = {}
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    for cid, name, blurb, _ in CATEGORIES:
-        items = grouped.get(cid)
-        if not items:
-            continue
-        items = sorted(items, key=lambda x: int(x.get("stars") or 0), reverse=True)
-        body = "\n".join(render_repo(r, cid) for r in items)
-        pages[f"src/content/stars/{cid}.md"] = f"""---
+def build_category_page(cid: str, name: str, blurb: str, items: list[dict], now: datetime) -> str:
+    return f"""---
 title: "{name}"
 description: "{blurb}"
-publishDate: {now}
+publishDate: {now.strftime("%Y-%m-%d")}
 draft: false
 language: vi
 category: "{name}"
 count: {len(items)}
 ---
 
+← [Mục lục · STARRED_REPOS.md](../../STARRED_REPOS.md)
+
 # {name}
 
 {blurb}
 
-**{len(items)}** repository.
+**{len(items)}** repository · sắp xếp theo số star · nguồn GitHub starred của `{USERNAME}`.
 
-{body}
+{table(items)}
 """
-    return pages
 
 
-def main():
-    repos = fetch_starred()
-    if not repos:
-        raise SystemExit("No starred repos fetched")
+def main() -> None:
+    repos = load_repos()
+    grouped = group_repos(repos)
+    now = datetime.now(timezone.utc)
     out = OUT_DIR
-    (out / "src/content/stars").mkdir(parents=True, exist_ok=True)
-    md = build_markdown(repos)
-    (out / "STARRED_REPOS.md").write_text(md, encoding="utf-8")
-    for path, content in build_category_pages(repos).items():
-        p = out / path
-        p.parent.mkdir(parents=True, exist_ok=True)
-        p.write_text(content, encoding="utf-8")
-    print("wrote", out / "STARRED_REPOS.md", "chars", len(md), "repos", len(repos))
+    stars_dir = out / "src" / "content" / "stars"
+    stars_dir.mkdir(parents=True, exist_ok=True)
+
+    index = build_index(repos, grouped)
+    (out / "STARRED_REPOS.md").write_text(index, encoding="utf-8")
+
+    written = 1
+    for cid, name, blurb, _ in CATEGORIES:
+        items = grouped.get(cid)
+        if not items:
+            continue
+        path = stars_dir / f"{cid}.md"
+        path.write_text(build_category_page(cid, name, blurb, items, now), encoding="utf-8")
+        written += 1
+        print("wrote", path, "repos", len(items), "chars", path.stat().st_size)
+
+    print("wrote", out / "STARRED_REPOS.md", "chars", len(index), "files", written, "repos", len(repos))
 
 
 if __name__ == "__main__":
