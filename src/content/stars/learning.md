@@ -18,5 +18,5 @@ Cookbook, awesome list, handbook.
 
 | Repo | Mô tả | Ngôn ngữ | Stars | Cập nhật |
 | --- | --- | --- | ---: | --- |
-| [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026 `awesome` `awesome-list` `censorship` `checklist` | TypeScript | 22,177 | 25/08/2026 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 `awesome` `awesome-list` `deepseek-harness` `dsh` | Python | 12,352 | 25/08/2026 |
+| [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026 `awesome` `awesome-list` `censorship` `checklist` | TypeScript | 22,182 | 25/08/2026 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 `awesome` `awesome-list` `deepseek-harness` `dsh` | Python | 12,637 | 25/08/2026 |
