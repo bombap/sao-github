@@ -31,7 +31,7 @@ Phần mềm quản lý dự án mã mở, giao diện gọn, tự host và ưu 
 
 *Mô tả gốc:* 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 
-`TypeScript` · **8,523** stars · 26/08/2026
+`TypeScript` · **8,549** stars · 26/08/2026
 
 `hono` `issue-management` `issue-tracker` `jira-alternative` `kanban` `linear-alternative`
 
@@ -41,7 +41,7 @@ Nền tảng vibe coding mã mở trên Cloudflare: mô tả ý tưởng, agent 
 
 *Mô tả gốc:* An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 
-`TypeScript` · **5,332** stars · 25/08/2026
+`TypeScript` · **5,334** stars · 26/08/2026
 
 `ai` `cloudflare-workers` `coding-agent` `durable-objects` `text-to-app` `vibe-coding`
 
@@ -51,7 +51,7 @@ Backend trực quan nhẹ (dữ liệu, auth, media, workflow) theo Web Standard
 
 *Mô tả gốc:* Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 
-`TypeScript` · **3,752** stars · 24/08/2026
+`TypeScript` · **3,751** stars · 26/08/2026
 
 ### [tinylibs/tinypool](https://github.com/tinylibs/tinypool)
 
@@ -77,7 +77,7 @@ Công cụ Python quét các subreddit về AI, phân tích bài/ảnh/video/web
 
 *Mô tả gốc:* Stay ahead of AI trends with automated Reddit insights! 🚀 This tool scans AI-related Reddit communities in English & Chinese, using Reddit Official API, DeepSeek R1 by OpenRouter to analyze posts, summarize key discussions, and track trends. Daily rankings hot topics—catch emerging trends before they go mainstream! (Updated every 6 AM CDT)
 
-`Python` · **861** stars · 25/08/2026
+`Python` · **861** stars · 26/08/2026
 
 `ai` `deepseek-r1` `ranking` `reports` `trend`
 
@@ -87,7 +87,7 @@ Provider TypeScript nối Vercel AI SDK với OpenRouter để gọi chat/comple
 
 *Mô tả gốc:* The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 
-`TypeScript` · **677** stars · 24/08/2026
+`TypeScript` · **681** stars · 26/08/2026
 
 `ai` `vercel-ai-sdk`
 
@@ -97,7 +97,7 @@ Bộ khung backend TypeScript dùng Hono trên Cloudflare Workers, có sẵn API
 
 *Mô tả gốc:* Easily create scalable, monetisable backend APIs with Hono + Cloudflare workers. All the batteries included.
 
-`TypeScript` · **555** stars · 25/08/2026
+`TypeScript` · **554** stars · 26/08/2026
 
 `better-auth` `cloudflare-d1` `cloudflare-workers` `drizzle-orm` `hono`
 
@@ -107,7 +107,7 @@ Công cụ quản lý SSH chạy trên Cloudflare Workers/Edge, có dashboard k�
 
 *Mô tả gốc:* A web-based SSH solution that can be deployed on Cloudflare Workers.
 
-`TypeScript` · **506** stars · 25/08/2026
+`TypeScript` · **507** stars · 26/08/2026
 
 ### [alwaysnomads/better-hono](https://github.com/alwaysnomads/better-hono)
 
