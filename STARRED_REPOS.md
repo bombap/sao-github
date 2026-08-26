@@ -1,18 +1,16 @@
 ---
 title: "Repo đã star của bombap"
-description: "Mục lục Markdown do GitHub bot tổng hợp từ starred repos."
-publishDate: 2026-08-25
+description: "Danh sách GitHub starred, tóm tắt tiếng Việt từ README."
+publishDate: 2026-08-26
 language: vi
 ---
 
 # Repo đã star của `bombap`
 
-Tổng hợp **tự động** bởi GitHub Actions (02:00 giờ Việt Nam mỗi ngày, hoặc chạy tay `workflow_dispatch`).
+Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI đọc README của từng repo.
 
-Mỗi nhóm là **một file Markdown** trong [`src/content/stars/`](https://github.com/bombap/sao-github/tree/main/src/content/stars). Trang xem đọc các file đó trực tiếp từ GitHub.
-
-*Cập nhật: 2026-08-25 19:35 UTC*  
-*317 repository · 11 nhóm · bot `generate_starred.py`*
+*Cập nhật: 2026-08-26T02:27:14Z*  
+*317 repository · 11 nhóm · 309 đã có tóm tắt AI*
 
 | Nhóm | File Markdown | Số repo | Nội dung |
 | --- | --- | ---: | --- |

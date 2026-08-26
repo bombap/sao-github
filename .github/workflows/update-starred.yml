@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Generate markdown
+      - name: Generate markdown + catalog
         env:
           GH_USERNAME: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add STARRED_REPOS.md src/content/stars
+          git add STARRED_REPOS.md catalog.json src/content/stars
           if git diff --staged --quiet; then
             echo "No changes"
           else
