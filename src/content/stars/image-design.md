@@ -1,10 +1,10 @@
 ---
 title: "Ảnh / Design / Motion"
 description: "Tạo ảnh, poster editorial, motion, design system."
-publishDate: 2026-08-26
+publishDate: 2026-08-28
 language: vi
 category: "Ảnh / Design / Motion"
-count: 17
+count: 18
 ---
 
 ← [Mục lục · STARRED_REPOS.md](../../STARRED_REPOS.md)
@@ -13,7 +13,7 @@ count: 17
 
 Tạo ảnh, poster editorial, motion, design system.
 
-**17** repository · tóm tắt tiếng Việt từ README.
+**18** repository · tóm tắt tiếng Việt từ README.
 
 ### [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 
@@ -21,7 +21,7 @@ Bảng trắng ảo kiểu vẽ tay, mã mở, hỗ trợ cộng tác realtime v
 
 *Mô tả gốc:* Virtual whiteboard for sketching hand-drawn like diagrams
 
-`TypeScript` · **130,578** stars · 26/08/2026
+`TypeScript` · **130,667** stars · 28/08/2026
 
 `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest` `productivity`
 
@@ -29,7 +29,7 @@ Bảng trắng ảo kiểu vẽ tay, mã mở, hỗ trợ cộng tác realtime v
 
 Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 
-`TypeScript` · **49,972** stars · 26/08/2026
+`TypeScript` · **49,997** stars · 28/08/2026
 
 `canvas` `collaboration` `design` `diagram` `drawing` `infinite`
 
@@ -39,7 +39,7 @@ Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email,
 
 *Mô tả gốc:* Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
-`Ruby` · **36,243** stars · 26/08/2026
+`Ruby` · **36,265** stars · 28/08/2026
 
 `actioncable` `chat-widget` `conversation` `customer-support` `dashboard` `design`
 
@@ -49,7 +49,7 @@ Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email,
 
 *Mô tả gốc:* A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 
-`TypeScript` · **35,311** stars · 26/08/2026
+`TypeScript` · **35,347** stars · 28/08/2026
 
 `ai` `diagrams` `productivity`
 
@@ -59,7 +59,7 @@ Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email,
 
 *Mô tả gốc:* 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 
-`TypeScript` · **15,501** stars · 26/08/2026
+`TypeScript` · **15,506** stars · 27/08/2026
 
 `ai-ppt-maker` `ai-slide-builder` `ai-slides` `editable-pptx` `llm` `nanobananapro`
 
@@ -69,7 +69,7 @@ Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email,
 
 *Mô tả gốc:* Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 
-`TypeScript` · **10,088** stars · 26/08/2026
+`TypeScript` · **10,091** stars · 28/08/2026
 
 `alternative` `converter` `data-manipulation` `developer-tools` `devtools` `frontend`
 
@@ -79,7 +79,7 @@ Bộ component Vue (hỗ trợ cả Vue 2/3 và dùng ngoài Vue) để xem trư
 
 *Mô tả gốc:* 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
 
-`JavaScript` · **5,696** stars · 26/08/2026
+`JavaScript` · **5,699** stars · 28/08/2026
 
 `docx` `docx-preview` `excel` `pdf` `pdf-preview` `pdf-viewer`
 
@@ -87,7 +87,7 @@ Bộ component Vue (hỗ trợ cả Vue 2/3 và dùng ngoài Vue) để xem trư
 
 Skill Codex biến một tấm ảnh thành layout dọc: giữ vùng ảnh gốc, thêm panel trừu tượng suy ra từ bố cục/màu, kèm tiêu đề tiếng Anh. Phù hợp làm tác phẩm biên tập cá nhân hoặc học tập, không phải filter hay vẽ lại ảnh.
 
-`—` · **4,867** stars · 26/08/2026
+`—` · **4,964** stars · 28/08/2026
 
 ### [MengTo/threeui](https://github.com/MengTo/threeui)
 
@@ -95,7 +95,7 @@ Catalog mã nguồn mở các component UI tương tác (ThreeUI Community), xem
 
 *Mô tả gốc:* Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-`HTML` · **4,169** stars · 26/08/2026
+`HTML` · **4,330** stars · 28/08/2026
 
 `react` `shaders` `threejs` `ui-components` `webgl`
 
@@ -113,7 +113,7 @@ Skill giúp agent thiết kế chuyển động, sinh chuỗi khung hình rồi 
 
 *Mô tả gốc:* Create smooth, responsive interactive web animations.
 
-`Python` · **2,041** stars · 26/08/2026
+`Python` · **2,055** stars · 28/08/2026
 
 ### [morsoli/aimangastudio](https://github.com/morsoli/aimangastudio)
 
@@ -121,7 +121,7 @@ Công cụ AI làm manga từ kịch bản, phân vai/phong cách, phân cảnh 
 
 *Mô tả gốc:* 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。访问地址：https://aimangastudio.liduos.com/
 
-`TypeScript` · **1,446** stars · 26/08/2026
+`TypeScript` · **1,451** stars · 28/08/2026
 
 ### [tong-io/tongflow](https://github.com/tong-io/tongflow)
 
@@ -129,15 +129,23 @@ Studio workflow GenAI đa phương thức mã nguồn mở: nối chữ, ảnh, 
 
 *Mô tả gốc:* TongFlow — Multimodal GenAI Studio
 
-`TypeScript` · **938** stars · 26/08/2026
+`TypeScript` · **955** stars · 28/08/2026
 
 `3d` `agent` `ai` `ai-tools` `aigc` `canvas`
+
+### [tianjiangqiji/nova-image-studio](https://github.com/tianjiangqiji/nova-image-studio)
+
+自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，UI设计模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局
+
+`TypeScript` · **363** stars · 27/08/2026
+
+`banana` `gpt-image` `gpt-image-2` `image-editing` `image-generation` `nano-banana`
 
 ### [Yu-0312/editorial-vision-studio](https://github.com/Yu-0312/editorial-vision-studio)
 
 Quy trình “đạo diễn hình” cho AI: chọn mục đích và preset, lập ngôn ngữ thị giác rồi mới ra prompt cho các model ảnh. Dùng khi làm poster, postcard, chủ đề thương hiệu hay bộ ảnh cùng một hệ thống biên tập.
 
-`—` · **213** stars · 26/08/2026
+`—` · **212** stars · 27/08/2026
 
 ### [shenpeiheng/ai-smart-draw](https://github.com/shenpeiheng/ai-smart-draw)
 
