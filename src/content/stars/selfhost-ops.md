@@ -1,7 +1,7 @@
 ---
 title: "Self-host / DevOps / SaaS"
 description: "PaaS, ERP, CMS, automation, starter kit."
-publishDate: 2026-08-28
+publishDate: 2026-08-29
 language: vi
 category: "Self-host / DevOps / SaaS"
 count: 5
@@ -21,7 +21,7 @@ Danh sách chọn lọc phần mềm tự do để tự host trên server thay c
 
 *Mô tả gốc:* A list of Free Software network services and web applications which can be hosted on your own servers
 
-`—` · **315,633** stars · 28/08/2026
+`—` · **315,805** stars · 29/08/2026
 
 `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -31,7 +31,7 @@ PaaS mã nguồn mở tự host, thay Heroku/Netlify/Vercel, quản lý server, 
 
 *Mô tả gốc:* An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-`PHP` · **61,122** stars · 28/08/2026
+`PHP` · **61,163** stars · 29/08/2026
 
 `coolify` `databases` `deployment` `docker` `docker-compose` `inertiajs`
 
@@ -41,7 +41,7 @@ Hệ ERP mã nguồn mở bao quát kế toán, đơn hàng, kho, sản xuất, 
 
 *Mô tả gốc:* Free and Open Source Enterprise Resource Planning (ERP)
 
-`Python` · **38,579** stars · 28/08/2026
+`Python` · **38,615** stars · 29/08/2026
 
 `accounting` `asset-management` `crm` `distribution` `erp` `erpnext`
 
@@ -51,7 +51,7 @@ Boilerplate SaaS Next.js miễn phí (thay ShipFast) với auth, thanh toán, em
 
 *Mô tả gốc:* Open Source Next.js Saas Boilerplate
 
-`TypeScript` · **1,690** stars · 25/08/2026
+`TypeScript` · **1,689** stars · 28/08/2026
 
 `boilerplate` `nextjs` `saas` `typescript`
 
