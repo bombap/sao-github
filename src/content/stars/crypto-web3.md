@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **694** stars · 28/08/2026
+`TypeScript` · **693** stars · 29/08/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 

@@ -21,7 +21,7 @@ Template monorepo SaaS full-stack với React 19, tRPC, Drizzle/Neon, Better Aut
 
 *Mô tả gốc:* Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 
-`TypeScript` · **23,671** stars · 28/08/2026
+`TypeScript` · **23,670** stars · 29/08/2026
 
 `better-auth` `boilerplate` `bun` `cloudflare` `cloudflare-workers` `drizzle-orm`
 
@@ -31,7 +31,7 @@ Phần mềm quản lý dự án mã mở, giao diện gọn, tự host và ưu 
 
 *Mô tả gốc:* 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 
-`TypeScript` · **8,635** stars · 29/08/2026
+`TypeScript` · **8,717** stars · 29/08/2026
 
 `hono` `issue-management` `issue-tracker` `jira-alternative` `kanban` `linear-alternative`
 
@@ -41,7 +41,7 @@ Nền tảng vibe coding mã mở trên Cloudflare: mô tả ý tưởng, agent 
 
 *Mô tả gốc:* An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 
-`TypeScript` · **5,336** stars · 28/08/2026
+`TypeScript` · **5,338** stars · 29/08/2026
 
 `ai` `cloudflare-workers` `coding-agent` `durable-objects` `text-to-app` `vibe-coding`
 
@@ -69,7 +69,7 @@ Bộ scaffold docs Astro đưa layout, component và content vào repo dưới d
 
 *Mô tả gốc:* Docs for humans and agents, built on Astro
 
-`TypeScript` · **944** stars · 28/08/2026
+`TypeScript` · **947** stars · 29/08/2026
 
 ### [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends)
 
@@ -77,7 +77,7 @@ Công cụ Python quét các subreddit về AI, phân tích bài/ảnh/video/web
 
 *Mô tả gốc:* Stay ahead of AI trends with automated Reddit insights! 🚀 This tool scans AI-related Reddit communities in English & Chinese, using Reddit Official API, DeepSeek R1 by OpenRouter to analyze posts, summarize key discussions, and track trends. Daily rankings hot topics—catch emerging trends before they go mainstream! (Updated every 6 AM CDT)
 
-`Python` · **861** stars · 28/08/2026
+`Python` · **861** stars · 29/08/2026
 
 `ai` `deepseek-r1` `ranking` `reports` `trend`
 
@@ -107,7 +107,7 @@ Công cụ quản lý SSH chạy trên Cloudflare Workers/Edge, có dashboard k�
 
 *Mô tả gốc:* A web-based SSH solution that can be deployed on Cloudflare Workers.
 
-`TypeScript` · **508** stars · 28/08/2026
+`TypeScript` · **508** stars · 29/08/2026
 
 ### [alwaysnomads/better-hono](https://github.com/alwaysnomads/better-hono)
 
@@ -123,7 +123,7 @@ Template khởi động API với Hono, Better Auth, Drizzle và deploy Cloudfla
 
 Octafuse Gateway是可自托管的开源 AI Gateway：把多供应商、多账号、多 API Key 收成一个 Base URL、一个 API Key，并带路由、预算、计费与审计。
 
-`TypeScript` · **255** stars · 28/08/2026
+`TypeScript` · **258** stars · 29/08/2026
 
 ### [xyTom/cap-worker](https://github.com/xyTom/cap-worker)
 
@@ -141,7 +141,7 @@ Gateway API AI serverless (Vercel/Cloudflare) hoặc CLI local, một endpoint c
 
 *Mô tả gốc:* Serverless AI API Gateway /   Vercel  / Cloudflare / Multiple Provider / Fallback Chain
 
-`TypeScript` · **126** stars · 18/08/2026
+`TypeScript` · **127** stars · 29/08/2026
 
 `ai` `api-gateway` `api-relay` `edge-runtime` `llm` `llm-gateway`
 
@@ -223,7 +223,7 @@ Cổng AI mã nguồn mở chạy trên Cloudflare Workers: định tuyến mult
 
 *Mô tả gốc:* Open-source AI gateway on Cloudflare Workers, in TypeScript: OpenAI/Anthropic-compatible chat with SSE streaming, Files + Batch APIs, provider routing with circuit breaking and failover, virtual API keys, per-tenant Durable Object storage, quotas/wallets/budgets, guardrails, response cache, MCP server, durable metering, contract-driven Admin API.
 
-`TypeScript` · **22** stars · 28/08/2026
+`TypeScript` · **22** stars · 29/08/2026
 
 `agentic-gateway` `ai` `ai-agent` `ai-gateway` `ai-tools` `aigateway`
 

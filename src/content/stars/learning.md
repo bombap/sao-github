@@ -21,7 +21,7 @@ Bộ checklist 300+ mẹo bảo vệ đời sống số, kèm site lọc theo th
 
 *Mô tả gốc:* 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 
-`TypeScript` · **22,205** stars · 29/08/2026
+`TypeScript` · **22,207** stars · 29/08/2026
 
 `awesome` `awesome-list` `censorship` `checklist` `cybersecurity` `defense`
 
@@ -31,7 +31,7 @@ Danh sách chọn lọc plugin cộng đồng cho DeepSeek Harness (dsh), cài b
 
 *Mô tả gốc:* A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-`Python` · **13,401** stars · 29/08/2026
+`Python` · **13,537** stars · 29/08/2026
 
 `awesome` `awesome-list` `deepseek-harness` `dsh` `dsh-plugin`
 

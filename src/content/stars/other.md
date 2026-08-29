@@ -21,7 +21,7 @@ Kho playlist IPTV công khai từ khắp nơi trên thế giới, chỉ gồm li
 
 *Mô tả gốc:* Collection of publicly available IPTV channels from all over the world
 
-`TypeScript` · **136,923** stars · 29/08/2026
+`TypeScript` · **137,017** stars · 29/08/2026
 
 `iptv` `m3u` `playlist` `streams` `tv`
 
@@ -31,7 +31,7 @@ Không gian làm việc all-in-one mã mở, ưu tiên local-first: gộp tài l
 
 *Mô tả gốc:* There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
-`TypeScript` · **71,981** stars · 29/08/2026
+`TypeScript` · **71,998** stars · 29/08/2026
 
 `app` `crdt` `editor` `electron` `knowledge-base` `markdown`
 
@@ -41,7 +41,7 @@ Dự án giáo dục mô phỏng quỹ đầu tư với các agent AI đưa ra q
 
 *Mô tả gốc:* An AI Hedge Fund Team
 
-`Python` · **63,077** stars · 28/08/2026
+`Python` · **63,084** stars · 29/08/2026
 
 ### [videojs/video.js](https://github.com/videojs/video.js)
 
@@ -59,7 +59,7 @@ Trình phát video HTML5 mã nguồn mở cho web, hỗ trợ HLS/DASH và hệ 
 
 *Mô tả gốc:* Pear 🍐 is extension for music player
 
-`TypeScript` · **33,226** stars · 29/08/2026
+`TypeScript` · **33,245** stars · 29/08/2026
 
 `desktop-app` `electron` `linux` `mac` `macosx` `music`
 
@@ -69,7 +69,7 @@ Nền tảng mã nguồn mở all-in-one cho quản lý dự án, chat, CRM, HRM
 
 *Mô tả gốc:* Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
-`TypeScript` · **27,485** stars · 29/08/2026
+`TypeScript` · **27,491** stars · 29/08/2026
 
 `applicant-tracking-system` `chat-application` `crm` `crm-platform` `hrms` `human-resources`
 
@@ -79,7 +79,7 @@ Trình đọc tin thời gian thực giao diện gọn, lấy tin nóng từ nhi
 
 *Mô tả gốc:* Elegant reading of real-time and hottest news
 
-`TypeScript` · **21,528** stars · 29/08/2026
+`TypeScript` · **21,533** stars · 29/08/2026
 
 `elegant` `news`
 
@@ -89,7 +89,7 @@ Mã nguồn ứng dụng Bluesky Social (React Native/TypeScript) cho web, iOS v
 
 *Mô tả gốc:* The Bluesky Social application for Web, iOS, and Android
 
-`TypeScript` · **18,247** stars · 28/08/2026
+`TypeScript` · **18,255** stars · 29/08/2026
 
 ### [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 
@@ -97,7 +97,7 @@ Biến repo GitHub (công khai hoặc private) thành sơ đồ kiến trúc tư
 
 *Mô tả gốc:* Free, simple, fast interactive diagrams for any GitHub repository
 
-`TypeScript` · **15,926** stars · 28/08/2026
+`TypeScript` · **15,927** stars · 29/08/2026
 
 `ai` `code` `github` `system-design`
 
@@ -107,7 +107,7 @@ Framework multi-agent tự lập kế hoạch, viết và kiểm thử phần m�
 
 *Mô tả gốc:* Autonomous multi-session AI coding
 
-`TypeScript` · **14,541** stars · 28/08/2026
+`TypeScript` · **14,542** stars · 29/08/2026
 
 ### [star-history/star-history](https://github.com/star-history/star-history)
 
@@ -115,7 +115,7 @@ Công cụ vẽ biểu đồ lịch sử star của repo GitHub theo thời gian
 
 *Mô tả gốc:* The de facto GitHub star history graph.
 
-`TypeScript` · **9,439** stars · 29/08/2026
+`TypeScript` · **9,438** stars · 29/08/2026
 
 `github` `github-star` `github-star-history` `github-trending` `graph` `history`
 
@@ -125,7 +125,7 @@ Thư viện schema nhỏ gọn, type-safe để validate và suy luận kiểu d
 
 *Mô tả gốc:* The modular and type safe schema library for validating structural data 🤖
 
-`TypeScript` · **8,969** stars · 29/08/2026
+`TypeScript` · **8,972** stars · 29/08/2026
 
 `bundle-size` `form-validation` `modular` `parsing` `runtime` `runtime-validation`
 
@@ -135,7 +135,7 @@ Helium là thư viện Python bọc Selenium, điều khiển Chrome/Firefox b�
 
 *Mô tả gốc:* Lighter web automation with Python
 
-`Python` · **8,323** stars · 27/08/2026
+`Python` · **8,324** stars · 29/08/2026
 
 `chrome` `firefox` `helium` `python` `python3` `selenium`
 
@@ -179,7 +179,7 @@ Thư viện TypeScript chuyển file DOCX sang HTML, ưu tiên giữ ngữ nghĩ
 
 *Mô tả gốc:* Docx rendering library
 
-`TypeScript` · **2,068** stars · 28/08/2026
+`TypeScript` · **2,070** stars · 29/08/2026
 
 `docx` `javascript`
 
@@ -189,7 +189,7 @@ Kho ví dụ, bài tập và thư viện mã nguồn mở cho khóa AI Hero, hư
 
 *Mô tả gốc:* AI Hero's open-source examples and course material. Learn AI Engineering with a single repo.
 
-`TypeScript` · **1,791** stars · 28/08/2026
+`TypeScript` · **1,793** stars · 29/08/2026
 
 `ai` `typescript`
 
@@ -199,7 +199,7 @@ Kho ví dụ, bài tập và thư viện mã nguồn mở cho khóa AI Hero, hư
 
 *Mô tả gốc:* Ergonomically designed, AI-powered homework solver. | 符合人体工程学设计、人工智能驱动的作业助手 | 平庸者的苦工到此为止，这是来自外星的效率补丁 (by Gemini)
 
-`TypeScript` · **1,684** stars · 28/08/2026
+`TypeScript` · **1,686** stars · 29/08/2026
 
 `ai` `gemini` `homework` `homework-helper` `homework-solver` `self-learning`
 
@@ -215,7 +215,7 @@ Kho ví dụ, bài tập và thư viện mã nguồn mở cho khóa AI Hero, hư
 
 Hệ thống dịch giọng nói chạy hoàn toàn offline trên thiết bị, dùng Gemma 4/LiteRT-LM kèm giao diện web tối ưu màn hình nhỏ. Phù hợp Raspberry Pi 5 hoặc kiosk cầm tay cần micro, loa và dịch realtime không phụ thuộc mạng.
 
-`JavaScript` · **1,353** stars · 28/08/2026
+`JavaScript` · **1,364** stars · 29/08/2026
 
 ### [basementstudio/xmcp](https://github.com/basementstudio/xmcp)
 
@@ -223,7 +223,7 @@ Framework TypeScript để dựng và triển khai MCP server, tự đăng ký t
 
 *Mô tả gốc:* The TypeScript MCP framework
 
-`TypeScript` · **1,323** stars · 28/08/2026
+`TypeScript` · **1,324** stars · 29/08/2026
 
 `framework` `mcp` `modelcontextprotocol` `typescript`
 
@@ -231,7 +231,7 @@ Framework TypeScript để dựng và triển khai MCP server, tự đăng ký t
 
 Kho mẫu và hướng dẫn tạo wrap tùy chỉnh cho hình 3D xe Tesla trong Paint Shop. Dùng khi muốn thiết kế skin riêng rồi tải lên xe qua app hoặc USB.
 
-`—` · **1,185** stars · 28/08/2026
+`—` · **1,190** stars · 29/08/2026
 
 ### [hylarucoder/ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover)
 
@@ -271,7 +271,7 @@ Bộ gõ tiếng Việt miễn phí, nhẹ và ổn định cho macOS (có bản
 
 *Mô tả gốc:* Gõ Nhanh - Bộ gõ tiếng Việt hiện đại, hiệu suất cao dành cho macOS.
 
-`Rust` · **753** stars · 29/08/2026
+`Rust` · **754** stars · 29/08/2026
 
 ### [moeru-ai/xsai](https://github.com/moeru-ai/xsai)
 
@@ -279,7 +279,7 @@ SDK AI cực nhẹ, tương thích OpenAI, chạy được trên browser, edge v
 
 *Mô tả gốc:* 🤖💬 extra-small AI SDK.
 
-`TypeScript` · **650** stars · 20/08/2026
+`TypeScript` · **650** stars · 29/08/2026
 
 `ai` `ollama` `openai` `typescript` `xsai`
 
@@ -325,7 +325,7 @@ Nền tảng quản lý sản phẩm mã mở, thay thế nhẹ cho Productboard
 
 Thư viện hàng nghìn icon hai tông màu (Lucide, Heroicons, Iconoir) có animation hover thuần CSS, xuất ra React, Vue, Svelte và nhiều định dạng khác. Phù hợp khi cần icon động nhẹ, không phụ thuộc thư viện animation JavaScript.
 
-`JavaScript` · **240** stars · 17/08/2026
+`JavaScript` · **241** stars · 29/08/2026
 
 ### [Scodive/ResearchGPT](https://github.com/Scodive/ResearchGPT)
 
@@ -339,7 +339,7 @@ Trợ lý nghiên cứu dùng LLM để gợi ý hướng đề tài, lập kế
 
 本地运行、完全开源、BYOK的AI无限画布，支持生图生视频等工作流，LibTV和TapNow开源替代品
 
-`TypeScript` · **191** stars · 29/08/2026
+`TypeScript` · **193** stars · 29/08/2026
 
 ### [celerforge/freenote](https://github.com/celerforge/freenote)
 
@@ -363,7 +363,7 @@ Công cụ MCP kết nối AI (Hugging Face) để sinh asset game 2D/3D từ m�
 
 *Mô tả gốc:* An MCP server for creating 2D/3D game assets from text using Hugging Face AI models.
 
-`JavaScript` · **150** stars · 27/08/2026
+`JavaScript` · **151** stars · 29/08/2026
 
 ### [xiaoweigege/akamai2.0-sensor_data](https://github.com/xiaoweigege/akamai2.0-sensor_data)
 
