@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-08-31
+publishDate: 2026-09-01
 language: vi
 category: "Crypto / Solana / Web3"
 count: 10
@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **693** stars · 31/08/2026
+`TypeScript` · **692** stars · 01/09/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
@@ -49,7 +49,7 @@ Triển khai cặp token ERC20–ERC721 liên kết (theo hướng ERC-7631): ch
 
 *Mô tả gốc:* Implementation of a co-joined ERC20 and ERC721 pair.
 
-`Solidity` · **552** stars · 31/08/2026
+`Solidity` · **552** stars · 01/09/2026
 
 ### [vybenetwork/solana-trades-api](https://github.com/vybenetwork/solana-trades-api)
 
