@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-09-01
+publishDate: 2026-09-02
 language: vi
 category: "Crypto / Solana / Web3"
 count: 10
@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **692** stars · 01/09/2026
+`TypeScript` · **692** stars · 02/09/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
@@ -61,19 +61,19 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 `api` `holders` `launchlab` `markets` `meteora` `pools`
 
+### [howardpen9/jetton-implementation-in-tact](https://github.com/howardpen9/jetton-implementation-in-tact)
+
+Mẫu hợp đồng Jetton (token chuẩn TON) viết bằng Tact, kèm lưu ý TEP-74 và luồng transfer qua ví Jetton của người gửi. Dành cho dev bắt đầu phát hành hoặc tùy biến token trên TON.
+
+`TypeScript` · **115** stars · 12/06/2026
+
 ### [cxcx-ai/solana-dex-parser](https://github.com/cxcx-ai/solana-dex-parser)
 
 Thư viện TypeScript parse giao dịch swap trên các DEX Solana như Jupiter, Raydium, Meteora. Dùng khi cần trích trade, thanh khoản, transfer từ transaction hoặc block.
 
 *Mô tả gốc:* Solana Dex Transaction Parser. A TypeScript library for parsing Solana DEX swap transactions. Supports multiple DEX protocols including Jupiter, Raydium, Meteora, PumpFun, and Moonshot.
 
-`TypeScript` · **115** stars · 25/08/2026
-
-### [howardpen9/jetton-implementation-in-tact](https://github.com/howardpen9/jetton-implementation-in-tact)
-
-Mẫu hợp đồng Jetton (token chuẩn TON) viết bằng Tact, kèm lưu ý TEP-74 và luồng transfer qua ví Jetton của người gửi. Dành cho dev bắt đầu phát hành hoặc tùy biến token trên TON.
-
-`TypeScript` · **115** stars · 12/06/2026
+`TypeScript` · **114** stars · 02/09/2026
 
 ### [tetsuroba/uniswap-universal-decoder](https://github.com/tetsuroba/uniswap-universal-decoder)
 
@@ -81,7 +81,7 @@ Giải mã hàm execute của Uniswap Universal Router về các lệnh swap V2/
 
 *Mô tả gốc:* Decode some of the most commonly used V2 and V3 swaps from the Uniswap Universal Execute function
 
-`JavaScript` · **42** stars · 05/05/2026
+`JavaScript` · **41** stars · 02/09/2026
 
 ### [dennohpeter/sandwicher](https://github.com/dennohpeter/sandwicher)
 
