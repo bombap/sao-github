@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-09-02
+publishDate: 2026-09-03
 language: vi
 category: "Crypto / Solana / Web3"
 count: 10
@@ -29,7 +29,7 @@ Bot MEV sandwich viết bằng Rust/Huff, mô phỏng và gửi sandwich Uniswap
 
 *Mô tả gốc:* Implementation of a competitive v2/v3 multi-meat MEV sandwich bot written using Rust and Huff.
 
-`Rust` · **869** stars · 20/08/2026 · **đã archive**
+`Rust` · **870** stars · 02/09/2026 · **đã archive**
 
 `evm` `huff` `mev` `rust` `sandwich`
 
@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **692** stars · 02/09/2026
+`TypeScript` · **694** stars · 03/09/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
