@@ -1,7 +1,7 @@
 ---
 title: "Repo đã star của bombap"
 description: "Danh sách GitHub starred, tóm tắt tiếng Việt từ README."
-publishDate: 2026-09-04
+publishDate: 2026-09-05
 language: vi
 ---
 
@@ -9,12 +9,12 @@ language: vi
 
 Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI đọc README của từng repo.
 
-*Cập nhật: 2026-09-04T21:18:41Z*  
-*342 repository · 11 nhóm · 307 đã có tóm tắt AI*
+*Cập nhật: 2026-09-05T21:01:58Z*  
+*343 repository · 11 nhóm · 307 đã có tóm tắt AI*
 
 | Nhóm | File Markdown | Số repo | Nội dung |
 | --- | --- | ---: | --- |
-| Video / Seedance / Shorts | [video-seedance.md](./src/content/stars/video-seedance.md) | 32 | Pipeline video, short drama, storyboard, editor. |
+| Video / Seedance / Shorts | [video-seedance.md](./src/content/stars/video-seedance.md) | 33 | Pipeline video, short drama, storyboard, editor. |
 | Agent Skills / Prompt | [skills-prompt.md](./src/content/stars/skills-prompt.md) | 47 | Skill, prompt, harness, anti-slop, viết tiếng người. |
 | Ảnh / Design / Motion | [image-design.md](./src/content/stars/image-design.md) | 19 | Tạo ảnh, poster editorial, motion, design system. |
 | Cloudflare / Gateway | [cloud-workers.md](./src/content/stars/cloud-workers.md) | 28 | Workers, Hono, AI gateway, serverless. |
