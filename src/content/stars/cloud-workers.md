@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare / Gateway"
 description: "Workers, Hono, AI gateway, serverless."
-publishDate: 2026-09-09
+publishDate: 2026-09-10
 language: vi
 category: "Cloudflare / Gateway"
 count: 28
@@ -31,7 +31,7 @@ Phần mềm quản lý dự án mã mở, giao diện gọn, tự host và ưu 
 
 *Mô tả gốc:* 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 
-`TypeScript` · **9,024** stars · 09/09/2026
+`TypeScript` · **9,038** stars · 10/09/2026
 
 `hono` `issue-management` `issue-tracker` `jira-alternative` `kanban` `linear-alternative`
 
@@ -41,7 +41,7 @@ Nền tảng vibe coding mã mở trên Cloudflare: mô tả ý tưởng, agent 
 
 *Mô tả gốc:* An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 
-`TypeScript` · **5,351** stars · 09/09/2026
+`TypeScript` · **5,353** stars · 10/09/2026
 
 `ai` `cloudflare-workers` `coding-agent` `durable-objects` `text-to-app` `vibe-coding`
 
@@ -51,13 +51,13 @@ Backend trực quan nhẹ (dữ liệu, auth, media, workflow) theo Web Standard
 
 *Mô tả gốc:* Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 
-`TypeScript` · **3,756** stars · 06/09/2026
+`TypeScript` · **3,758** stars · 10/09/2026
 
 ### [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
 
 Email for professionals and teams
 
-`TypeScript` · **2,862** stars · 09/09/2026
+`TypeScript` · **2,898** stars · 10/09/2026
 
 `cloudflare` `cloudflare-workers` `email`
 
@@ -77,7 +77,7 @@ Bộ scaffold docs Astro đưa layout, component và content vào repo dưới d
 
 *Mô tả gốc:* Docs for humans and agents, built on Astro
 
-`TypeScript` · **974** stars · 09/09/2026
+`TypeScript` · **976** stars · 10/09/2026
 
 ### [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends)
 
@@ -85,7 +85,7 @@ Công cụ Python quét các subreddit về AI, phân tích bài/ảnh/video/web
 
 *Mô tả gốc:* Stay ahead of AI trends with automated Reddit insights! 🚀 This tool scans AI-related Reddit communities in English & Chinese, using Reddit Official API, DeepSeek R1 by OpenRouter to analyze posts, summarize key discussions, and track trends. Daily rankings hot topics—catch emerging trends before they go mainstream! (Updated every 6 AM CDT)
 
-`Python` · **861** stars · 09/09/2026
+`Python` · **861** stars · 10/09/2026
 
 `ai` `deepseek-r1` `ranking` `reports` `trend`
 
@@ -93,7 +93,7 @@ Công cụ Python quét các subreddit về AI, phân tích bài/ảnh/video/web
 
 Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 
-`TypeScript` · **793** stars · 09/09/2026
+`TypeScript` · **800** stars · 10/09/2026
 
 `anti-bot` `anti-detection` `arr` `bun` `byparr` `camoufox`
 
@@ -103,7 +103,7 @@ Provider TypeScript nối Vercel AI SDK với OpenRouter để gọi chat/comple
 
 *Mô tả gốc:* The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 
-`TypeScript` · **683** stars · 07/09/2026
+`TypeScript` · **685** stars · 10/09/2026
 
 `ai` `vercel-ai-sdk`
 
@@ -113,7 +113,7 @@ Công cụ quản lý SSH chạy trên Cloudflare Workers/Edge, có dashboard k�
 
 *Mô tả gốc:* A web-based SSH solution that can be deployed on Cloudflare Workers.
 
-`TypeScript` · **562** stars · 09/09/2026
+`TypeScript` · **563** stars · 10/09/2026
 
 ### [supermemoryai/backend-api-kit](https://github.com/supermemoryai/backend-api-kit)
 
@@ -139,7 +139,7 @@ Template khởi động API với Hono, Better Auth, Drizzle và deploy Cloudfla
 
 Octafuse Gateway是可自托管的开源 AI Gateway：把多供应商、多账号、多 API Key 收成一个 Base URL、一个 API Key，并带路由、预算、计费与审计。
 
-`TypeScript` · **278** stars · 07/09/2026
+`TypeScript` · **279** stars · 10/09/2026
 
 ### [xyTom/cap-worker](https://github.com/xyTom/cap-worker)
 
@@ -147,7 +147,7 @@ Dịch vụ CAPTCHA chạy trên Cloudflare Workers dùng Proof of Work SHA-256,
 
 *Mô tả gốc:* Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.
 
-`HTML` · **196** stars · 08/09/2026
+`HTML` · **197** stars · 10/09/2026
 
 `captcha` `cloudflare` `cloudflare-workers` `ddos-protection` `proof-of-work` `recapcha`
 
@@ -219,7 +219,7 @@ API gateway AI trên Workers, gộp nhiều nhà cung cấp và tự chọn đư
 
 *Mô tả gốc:* Edge-native AI API gateway — cost-optimized routing across providers, multi-protocol support, built on Cloudflare Workers.
 
-`TypeScript` · **36** stars · 02/09/2026
+`TypeScript` · **37** stars · 10/09/2026
 
 `ai-gateway` `anthropic` `api-proxy` `cloudflare-workers` `edge-computing` `llm-routing`
 

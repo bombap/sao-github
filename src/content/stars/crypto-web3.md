@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-09-09
+publishDate: 2026-09-10
 language: vi
 category: "Crypto / Solana / Web3"
 count: 10
@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **695** stars · 09/09/2026
+`TypeScript` · **695** stars · 10/09/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
