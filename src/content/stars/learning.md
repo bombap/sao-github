@@ -1,7 +1,7 @@
 ---
 title: "Học tập / Awesome list"
 description: "Cookbook, awesome list, handbook."
-publishDate: 2026-09-10
+publishDate: 2026-09-11
 language: vi
 category: "Học tập / Awesome list"
 count: 2
@@ -21,7 +21,7 @@ Bộ checklist 300+ mẹo bảo vệ đời sống số, kèm site lọc theo th
 
 *Mô tả gốc:* 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 
-`TypeScript` · **22,297** stars · 10/09/2026
+`TypeScript` · **22,304** stars · 11/09/2026
 
 `awesome` `awesome-list` `censorship` `checklist` `cybersecurity` `defense`
 
@@ -31,7 +31,7 @@ Danh sách chọn lọc plugin cộng đồng cho DeepSeek Harness (dsh), cài b
 
 *Mô tả gốc:* A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-`Python` · **15,191** stars · 10/09/2026
+`Python` · **15,358** stars · 11/09/2026
 
 `awesome` `awesome-list` `deepseek-harness` `dsh` `dsh-plugin`
 

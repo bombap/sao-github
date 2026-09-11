@@ -1,7 +1,7 @@
 ---
 title: "Self-host / DevOps / SaaS"
 description: "PaaS, ERP, CMS, automation, starter kit."
-publishDate: 2026-09-10
+publishDate: 2026-09-11
 language: vi
 category: "Self-host / DevOps / SaaS"
 count: 5
@@ -21,7 +21,7 @@ Danh sách chọn lọc phần mềm tự do để tự host trên server thay c
 
 *Mô tả gốc:* A list of Free Software network services and web applications which can be hosted on your own servers
 
-`—` · **318,379** stars · 10/09/2026
+`—` · **318,578** stars · 11/09/2026
 
 `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -31,7 +31,7 @@ PaaS mã nguồn mở tự host, thay Heroku/Netlify/Vercel, quản lý server, 
 
 *Mô tả gốc:* An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-`PHP` · **61,662** stars · 10/09/2026
+`PHP` · **61,686** stars · 11/09/2026
 
 `coolify` `databases` `deployment` `docker` `docker-compose` `inertiajs`
 
@@ -41,7 +41,7 @@ Hệ ERP mã nguồn mở bao quát kế toán, đơn hàng, kho, sản xuất, 
 
 *Mô tả gốc:* Free and Open Source Enterprise Resource Planning (ERP)
 
-`Python` · **39,094** stars · 10/09/2026
+`Python` · **39,127** stars · 11/09/2026
 
 `accounting` `asset-management` `crm` `distribution` `erp` `erpnext`
 
@@ -61,5 +61,5 @@ Nền tảng ERP mã mở cho doanh nghiệp Việt: kế toán VAS (TT200), hó
 
 *Mô tả gốc:* VietERP Platform — Open-source ERP for Vietnamese enterprises
 
-`TypeScript` · **555** stars · 08/09/2026
+`TypeScript` · **555** stars · 11/09/2026
 
