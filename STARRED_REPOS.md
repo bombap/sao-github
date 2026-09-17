@@ -1,7 +1,7 @@
 ---
 title: "Repo đã star của bombap"
 description: "Danh sách GitHub starred, tóm tắt tiếng Việt từ README."
-publishDate: 2026-09-16
+publishDate: 2026-09-17
 language: vi
 ---
 
@@ -9,8 +9,8 @@ language: vi
 
 Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI đọc README của từng repo.
 
-*Cập nhật: 2026-09-16T21:58:26Z*  
-*356 repository · 11 nhóm · 305 đã có tóm tắt AI*
+*Cập nhật: 2026-09-17T22:00:16Z*  
+*357 repository · 11 nhóm · 305 đã có tóm tắt AI*
 
 | Nhóm | File Markdown | Số repo | Nội dung |
 | --- | --- | ---: | --- |
@@ -24,4 +24,4 @@ Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI 
 | Self-host / DevOps / SaaS | [selfhost-ops.md](./src/content/stars/selfhost-ops.md) | 5 | PaaS, ERP, CMS, automation, starter kit. |
 | Crypto / Solana / Web3 | [crypto-web3.md](./src/content/stars/crypto-web3.md) | 10 | DEX, protocol, bot, SDK on-chain. |
 | Học tập / Awesome list | [learning.md](./src/content/stars/learning.md) | 2 | Cookbook, awesome list, handbook. |
-| Khác | [other.md](./src/content/stars/other.md) | 56 | Repo không khớp các nhóm trên. |
+| Khác | [other.md](./src/content/stars/other.md) | 57 | Repo không khớp các nhóm trên. |
