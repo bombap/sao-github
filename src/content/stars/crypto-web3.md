@@ -1,10 +1,10 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-09-19
+publishDate: 2026-09-20
 language: vi
 category: "Crypto / Solana / Web3"
-count: 10
+count: 11
 ---
 
 ← [Mục lục · STARRED_REPOS.md](../../STARRED_REPOS.md)
@@ -13,7 +13,7 @@ count: 10
 
 DEX, protocol, bot, SDK on-chain.
 
-**10** repository · tóm tắt tiếng Việt từ README.
+**11** repository · tóm tắt tiếng Việt từ README.
 
 ### [libevm/subway](https://github.com/libevm/subway)
 
@@ -21,7 +21,7 @@ Ví dụ sandwich trên cặp Uniswap V2: đọc mempool, tính lãi/gas và b�
 
 *Mô tả gốc:* A practical example on how to perform sandwich attacks on Ethereum
 
-`Solidity` · **2,204** stars · 16/09/2026
+`Solidity` · **2,203** stars · 20/09/2026
 
 ### [mouseless0x/rusty-sando](https://github.com/mouseless0x/rusty-sando)
 
@@ -29,7 +29,7 @@ Bot MEV sandwich viết bằng Rust/Huff, mô phỏng và gửi sandwich Uniswap
 
 *Mô tả gốc:* Implementation of a competitive v2/v3 multi-meat MEV sandwich bot written using Rust and Huff.
 
-`Rust` · **870** stars · 02/09/2026 · **đã archive**
+`Rust` · **869** stars · 19/09/2026 · **đã archive**
 
 `evm` `huff` `mev` `rust` `sandwich`
 
@@ -92,6 +92,12 @@ Bot sandwich trên BSC: theo mempool và chèn giao dịch quanh các swap để
 `TypeScript` · **39** stars · 05/05/2026 · **đã archive**
 
 `blockchain` `bscscan` `ethereum` `ethersjs` `evm` `sandwich`
+
+### [modengsir/blender-video-workflows](https://github.com/modengsir/blender-video-workflows)
+
+两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
+
+`—` · **35** stars · 20/09/2026
 
 ### [andreystarkov/uniswap-pending-transactions-decoder](https://github.com/andreystarkov/uniswap-pending-transactions-decoder)
 
