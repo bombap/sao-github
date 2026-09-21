@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-09-20
+publishDate: 2026-09-21
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **696** stars · 18/09/2026
+`TypeScript` · **696** stars · 21/09/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
@@ -57,7 +57,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 *Mô tả gốc:* Solana Trades API
 
-`TypeScript` · **176** stars · 09/09/2026
+`TypeScript` · **175** stars · 21/09/2026
 
 `api` `holders` `launchlab` `markets` `meteora` `pools`
 
@@ -74,6 +74,12 @@ Thư viện TypeScript parse giao dịch swap trên các DEX Solana như Jupiter
 *Mô tả gốc:* Solana Dex Transaction Parser. A TypeScript library for parsing Solana DEX swap transactions. Supports multiple DEX protocols including Jupiter, Raydium, Meteora, PumpFun, and Moonshot.
 
 `TypeScript` · **114** stars · 02/09/2026
+
+### [modengsir/blender-video-workflows](https://github.com/modengsir/blender-video-workflows)
+
+两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
+
+`—` · **62** stars · 21/09/2026
 
 ### [tetsuroba/uniswap-universal-decoder](https://github.com/tetsuroba/uniswap-universal-decoder)
 
@@ -92,12 +98,6 @@ Bot sandwich trên BSC: theo mempool và chèn giao dịch quanh các swap để
 `TypeScript` · **39** stars · 05/05/2026 · **đã archive**
 
 `blockchain` `bscscan` `ethereum` `ethersjs` `evm` `sandwich`
-
-### [modengsir/blender-video-workflows](https://github.com/modengsir/blender-video-workflows)
-
-两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
-
-`—` · **35** stars · 20/09/2026
 
 ### [andreystarkov/uniswap-pending-transactions-decoder](https://github.com/andreystarkov/uniswap-pending-transactions-decoder)
 

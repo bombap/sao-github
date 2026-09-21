@@ -1,10 +1,10 @@
 ---
 title: "Agent Skills / Prompt"
 description: "Skill, prompt, harness, anti-slop, viết tiếng người."
-publishDate: 2026-09-20
+publishDate: 2026-09-21
 language: vi
 category: "Agent Skills / Prompt"
-count: 53
+count: 54
 ---
 
 ← [Mục lục · STARRED_REPOS.md](../../STARRED_REPOS.md)
@@ -13,7 +13,7 @@ count: 53
 
 Skill, prompt, harness, anti-slop, viết tiếng người.
 
-**53** repository · tóm tắt tiếng Việt từ README.
+**54** repository · tóm tắt tiếng Việt từ README.
 
 ### [f/prompts.chat](https://github.com/f/prompts.chat)
 
@@ -21,7 +21,7 @@ Thư viện prompt mã nguồn mở lớn cho ChatGPT, Claude, Gemini và các m
 
 *Mô tả gốc:* f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-`HTML` · **170,836** stars · 20/09/2026
+`HTML` · **170,916** stars · 21/09/2026
 
 `ai` `artificial-intelligence` `awesome-list` `chatgpt` `chatgpt-prompts` `claude`
 
@@ -31,7 +31,7 @@ Dify là nền tảng open-source làm app LLM với workflow trực quan, RAG, 
 
 *Mô tả gốc:* Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 
-`TypeScript` · **156,617** stars · 20/09/2026
+`TypeScript` · **156,763** stars · 21/09/2026
 
 `agent` `agentic-ai` `agentic-framework` `agentic-workflow` `ai` `automation`
 
@@ -41,7 +41,7 @@ Kho lưu system prompt và cấu hình model của nhiều công cụ AI coding.
 
 *Mô tả gốc:* FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-`—` · **143,754** stars · 20/09/2026
+`—` · **143,774** stars · 21/09/2026
 
 `ai` `bolt` `cluely` `copilot` `cursor` `cursorai`
 
@@ -51,7 +51,7 @@ Bộ sưu tập hơn 100 agent AI, skill cho coding agent và ứng dụng RAG m
 
 *Mô tả gốc:* 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
-`Python` · **139,147** stars · 20/09/2026
+`Python` · **139,315** stars · 21/09/2026
 
 `agents` `llms` `python` `rag`
 
@@ -61,7 +61,7 @@ Bộ công cụ mã nguồn mở cho quy trình phát triển theo đặc tả t
 
 *Mô tả gốc:* 💫 Toolkit to help you get started with Spec-Driven Development
 
-`Python` · **138,072** stars · 20/09/2026
+`Python` · **138,224** stars · 21/09/2026
 
 `ai` `copilot` `development` `engineering` `prd` `spec`
 
@@ -71,7 +71,7 @@ Bộ skill cho agent AI giúp giao diện sinh ra có layout, typography và chu
 
 *Mô tả gốc:* Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 
-`JavaScript` · **88,787** stars · 20/09/2026
+`JavaScript` · **89,038** stars · 21/09/2026
 
 `agent` `ai` `claude` `claude-code` `codex` `coding`
 
@@ -81,13 +81,13 @@ Bộ skill và lệnh thiết kế cho agent AI, kèm quy tắc kiểm tra giao 
 
 *Mô tả gốc:* The design language that makes your AI harness better at design.
 
-`JavaScript` · **69,372** stars · 20/09/2026
+`JavaScript` · **69,610** stars · 21/09/2026
 
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 
-`JavaScript` · **68,189** stars · 20/09/2026
+`JavaScript` · **69,074** stars · 21/09/2026
 
 `agent-skills` `architecture-as-code` `architecture-diagram` `claude-skill` `code-visualization` `codex`
 
@@ -97,7 +97,7 @@ Bộ skill marketing cho AI coding agent (Claude Code, Cursor, Codex…): tối 
 
 *Mô tả gốc:* Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-`JavaScript` · **50,988** stars · 20/09/2026
+`JavaScript` · **51,094** stars · 21/09/2026
 
 `claude` `codex` `marketing`
 
@@ -107,9 +107,15 @@ Bản clone ChatGPT tự host với agent, tool/MCP, memory và chia sẻ hội 
 
 *Mô tả gốc:* Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 
-`TypeScript` · **44,484** stars · 20/09/2026
+`TypeScript` · **44,579** stars · 21/09/2026
 
 `ai` `anthropic` `artifacts` `aws` `azure` `chatgpt`
+
+### [emilkowalski/skills](https://github.com/emilkowalski/skills)
+
+Skills for Designers and Engineers.
+
+`Markdown` · **39,930** stars · 21/09/2026
 
 ### [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 
@@ -117,7 +123,7 @@ Gói định tuyến kỹ năng cho agent AI khi gặp APK, binary, JS hay mục
 
 *Mô tả gốc:* Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
-`PowerShell` · **36,691** stars · 20/09/2026
+`PowerShell` · **36,803** stars · 21/09/2026
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
@@ -125,7 +131,7 @@ Thư viện prompt và template công nghiệp cho GPT-Image-2, kèm hàng trăm
 
 *Mô tả gốc:* Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 
-`JavaScript` · **32,989** stars · 20/09/2026
+`JavaScript` · **33,155** stars · 21/09/2026
 
 `agents` `ai-image-generation` `chatgpt` `dsh-plugin` `gpt-image-2` `image-prompts`
 
@@ -135,7 +141,7 @@ Skill thiết kế chống “AI slop” cho Claude Code, Cursor và Codex: ch�
 
 *Mô tả gốc:* Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
-`CSS` · **28,947** stars · 20/09/2026
+`CSS` · **28,990** stars · 21/09/2026
 
 ### [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
 
@@ -143,7 +149,7 @@ Hệ thống quản lý task cho quy trình dev nhờ AI, tích hợp Cursor/Cla
 
 *Mô tả gốc:* An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 
-`JavaScript` · **28,087** stars · 20/09/2026
+`JavaScript` · **28,087** stars · 21/09/2026
 
 `ai` `cursor` `cursor-ai` `cursorai` `lovable` `lovable-dev`
 
@@ -153,7 +159,7 @@ CLI và thư viện đánh giá prompt, agent, RAG đồng thời red-team ứng
 
 *Mô tả gốc:* Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
 
-`TypeScript` · **25,313** stars · 20/09/2026
+`TypeScript` · **25,341** stars · 21/09/2026
 
 `ci` `ci-cd` `cicd` `evaluation` `evaluation-framework` `llm`
 
@@ -163,7 +169,7 @@ Biến một phiên Claude Code thành studio làm game với hàng chục agent
 
 *Mô tả gốc:* Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
-`Shell` · **25,284** stars · 20/09/2026
+`Shell` · **25,336** stars · 21/09/2026
 
 `ai-agents` `ai-assisted-development` `anthropic` `claude` `claude-code` `game-design`
 
@@ -173,7 +179,7 @@ Skill thiết kế chạy bằng HTML thuần cho Claude Code và các agent tư
 
 *Mô tả gốc:* Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 
-`HTML` · **24,314** stars · 20/09/2026
+`HTML` · **24,350** stars · 21/09/2026
 
 ### [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
 
@@ -181,7 +187,7 @@ Thư viện hơn 400 prompt GPT Image 2 đã chọn lọc cho sinh ảnh, chỉn
 
 *Mô tả gốc:* GPT-Image-2 API and Prompts
 
-`Python` · **17,211** stars · 20/09/2026
+`Python` · **17,218** stars · 21/09/2026
 
 `ai-art` `api` `awesome-list` `awesome-lists` `chatgpt` `creative-tools`
 
@@ -191,7 +197,7 @@ Boilerplate SaaS mã nguồn mở trên Wasp (React/Node/Prisma) kèm auth, than
 
 *Mô tả gốc:* A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
 
-`MDX` · **15,956** stars · 20/09/2026
+`MDX` · **15,975** stars · 21/09/2026
 
 `ai` `authentication` `aws-s3` `boilerplate` `chatgpt` `full-stack`
 
@@ -201,7 +207,7 @@ Nền tảng xây và triển khai chatbot/trợ lý LLM kèm hub tích hợp, C
 
 *Mô tả gốc:* The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
-`TypeScript` · **14,919** stars · 20/09/2026
+`TypeScript` · **14,918** stars · 21/09/2026
 
 `agent` `ai` `botpress` `chatbot` `chatgpt` `gpt`
 
@@ -211,7 +217,7 @@ Công cụ quét code React để bắt lỗi state/effect, perf, a11y, bảo m�
 
 *Mô tả gốc:* Your agent writes bad React. This catches it
 
-`TypeScript` · **14,900** stars · 20/09/2026
+`TypeScript` · **14,910** stars · 21/09/2026
 
 `agents` `code-review` `doctor` `react` `skill`
 
@@ -221,7 +227,7 @@ Công cụ chắt lọc sách (và nội dung dài) thành bộ skill AI có th�
 
 *Mô tả gốc:* 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）
 
-`Python` · **10,368** stars · 20/09/2026
+`Python` · **10,423** stars · 21/09/2026
 
 `agent-workflows` `ai-skills` `automation` `book-to-skill` `knowledge-distillation` `prompt-engineering`
 
@@ -231,7 +237,7 @@ Skill cho coding agent tạo landing page 3D kiểu camera bay liên tục theo 
 
 *Mô tả gốc:* A skill that turn any brand into a scrollable 3D world landing page
 
-`JavaScript` · **9,400** stars · 20/09/2026
+`JavaScript` · **9,421** stars · 21/09/2026
 
 ### [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster)
 
@@ -239,13 +245,13 @@ Skill Codex biến chủ đề, câu chữ hay ảnh tham chiếu thành poster 
 
 *Mô tả gốc:* Codex skill for generating quiet minimal zine-style editorial poster prompts and images.
 
-`—` · **7,133** stars · 20/09/2026
+`—` · **7,146** stars · 21/09/2026
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
 Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 
-`TypeScript` · **6,026** stars · 20/09/2026
+`TypeScript` · **6,326** stars · 21/09/2026
 
 `agent` `browser-use` `dsh-plugin`
 
@@ -255,7 +261,7 @@ Skill cho AI agent để tạo linh vật IP kiểu neo-skeuomorphic: hình bón
 
 *Mô tả gốc:* A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 
-`—` · **5,370** stars · 20/09/2026
+`—` · **5,402** stars · 21/09/2026
 
 `codex` `codex-skill` `image-generation` `logo-design` `mascot-design`
 
@@ -265,13 +271,13 @@ Bộ CLI và kỹ năng bổ sung cho agent AI trong Cursor: tìm kiếm web, du
 
 *Mô tả gốc:* Give Cursor Agent an AI Team and Advanced Skills
 
-`TypeScript` · **4,825** stars · 20/09/2026
+`TypeScript` · **4,825** stars · 21/09/2026
 
 ### [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills)
 
 Chưa có tóm tắt tiếng Việt.
 
-`Python` · **4,012** stars · 20/09/2026
+`Python` · **4,098** stars · 21/09/2026
 
 ### [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)
 
@@ -279,7 +285,7 @@ Bộ quy tắc và script kiểm tra giúp bài tiếng Trung do AI viết bớt
 
 *Mô tả gốc:* 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
-`Python` · **3,755** stars · 20/09/2026
+`Python` · **3,767** stars · 21/09/2026
 
 `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
@@ -287,7 +293,7 @@ Bộ quy tắc và script kiểm tra giúp bài tiếng Trung do AI viết bớt
 
 A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
 
-`TypeScript` · **3,435** stars · 20/09/2026
+`TypeScript` · **3,522** stars · 21/09/2026
 
 ### [geeklee/srt-whiteboard-animation](https://github.com/geeklee/srt-whiteboard-animation)
 
@@ -295,7 +301,7 @@ Skill chuyển phụ đề SRT thành video whiteboard vẽ tay theo thứ tự 
 
 *Mô tả gốc:* 将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。
 
-`Python` · **3,389** stars · 20/09/2026
+`Python` · **3,411** stars · 21/09/2026
 
 `ai-skill` `hand-drawn` `opencv` `python` `srt` `subtitle`
 
@@ -313,7 +319,7 @@ Bộ component UI dựng trên shadcn/ui dành cho ứng dụng AI: chat, agent,
 
 De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
 
-`Python` · **2,711** stars · 20/09/2026
+`Python` · **2,751** stars · 21/09/2026
 
 `agent-skills` `ai-writing` `antigravity` `claude-code` `codex` `developer-tools`
 
@@ -321,13 +327,13 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.
 
-`Python` · **2,102** stars · 20/09/2026
+`Python` · **2,104** stars · 21/09/2026
 
 ### [aldegad/sprite-gen](https://github.com/aldegad/sprite-gen)
 
 Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.
 
-`Python` · **1,665** stars · 20/09/2026
+`Python` · **1,739** stars · 21/09/2026
 
 `2d-game` `ai-tools` `claude-code` `codex` `game-dev` `gamedev`
 
@@ -337,7 +343,7 @@ Giao diện chat mã nguồn mở, tự host, hỗ trợ nhiều model đám mâ
 
 *Mô tả gốc:* Open chat interface for all your models.
 
-`TypeScript` · **1,529** stars · 20/09/2026
+`TypeScript` · **1,528** stars · 21/09/2026
 
 `ai` `chat` `multi-model` `nextjs` `open-source` `prompt-kit`
 
@@ -345,13 +351,13 @@ Giao diện chat mã nguồn mở, tự host, hỗ trợ nhiều model đám mâ
 
 Claude Code skill：把内容套进内置手绘画风配方,产出可直接复制的生图提示词。内置儿童涂色/极简线条/蜡笔童涂/吉卜力/小豆人涂鸦 5 种已验证画风。
 
-`Python` · **1,246** stars · 20/09/2026
+`Python` · **1,275** stars · 21/09/2026
 
 ### [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)
 
 Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.
 
-`Shell` · **1,234** stars · 20/09/2026
+`Shell` · **1,250** stars · 21/09/2026
 
 ### [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template)
 
@@ -385,7 +391,7 @@ Nền tảng tối ưu, gỡ lỗi và chia sẻ prompt cho mô hình AI, kết 
 
 The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
 
-`JavaScript` · **580** stars · 20/09/2026
+`JavaScript` · **586** stars · 21/09/2026
 
 `agent-skills` `ai-design` `claude-code` `claude-skill` `claude-skills` `coding-agent`
 
@@ -395,7 +401,7 @@ Bộ skill agent mô-đun cho quy trình làm nội dung tự truyền thông: b
 
 *Mô tả gốc:* 通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite
 
-`Python` · **485** stars · 20/09/2026
+`Python` · **488** stars · 21/09/2026
 
 `agent-skills` `ai-agents` `claude-code` `claude-skills` `content-creation` `copywriting`
 
@@ -403,7 +409,7 @@ Bộ skill agent mô-đun cho quy trình làm nội dung tự truyền thông: b
 
 Skills for Film and Television Creation Agents|31 个影视创作评估策划Agent Skills｜AI影视自动化工作流｜竖屏短剧长剧IP改编｜情节题材提炼｜剧本小说IP创作策划评估｜人物小传｜拉片人物剧集故事五元素分析｜大纲生成｜
 
-`Python` · **415** stars · 20/09/2026
+`Python` · **417** stars · 21/09/2026
 
 `agents` `ai` `skills`
 
@@ -413,7 +419,7 @@ Skill AI chỉ lo chọn đề và viết tiêu đề WeChat theo công thức t
 
 *Mô tả gốc:* 从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。
 
-`—` · **253** stars · 20/09/2026
+`—` · **255** stars · 21/09/2026
 
 ### [sendaifun/skills](https://github.com/sendaifun/skills)
 
@@ -439,7 +445,7 @@ SDK TypeScript “opinionated” tự chọn và xâu chuỗi model phù hợp t
 
 视频创意改编 Agent Skill：参考视频 → 剧本 → 分镜 → 分段生成提示词。By qisi.
 
-`—` · **100** stars · 20/09/2026
+`—` · **102** stars · 20/09/2026
 
 ### [nati112/prompt-architect](https://github.com/nati112/prompt-architect)
 
