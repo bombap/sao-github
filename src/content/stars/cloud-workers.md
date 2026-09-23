@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare / Gateway"
 description: "Workers, Hono, AI gateway, serverless."
-publishDate: 2026-09-22
+publishDate: 2026-09-23
 language: vi
 category: "Cloudflare / Gateway"
 count: 29
@@ -21,7 +21,7 @@ Template monorepo SaaS full-stack với React 19, tRPC, Drizzle/Neon, Better Aut
 
 *Mô tả gốc:* Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 
-`TypeScript` · **23,687** stars · 22/09/2026
+`TypeScript` · **23,688** stars · 23/09/2026
 
 `better-auth` `boilerplate` `bun` `cloudflare` `cloudflare-workers` `drizzle-orm`
 
@@ -31,7 +31,7 @@ Phần mềm quản lý dự án mã mở, giao diện gọn, tự host và ưu 
 
 *Mô tả gốc:* 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 
-`TypeScript` · **9,157** stars · 22/09/2026
+`TypeScript` · **9,171** stars · 23/09/2026
 
 `hono` `issue-management` `issue-tracker` `jira-alternative` `kanban` `linear-alternative`
 
@@ -41,7 +41,7 @@ Nền tảng vibe coding mã mở trên Cloudflare: mô tả ý tưởng, agent 
 
 *Mô tả gốc:* An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 
-`TypeScript` · **5,379** stars · 22/09/2026
+`TypeScript` · **5,379** stars · 23/09/2026
 
 `ai` `cloudflare-workers` `coding-agent` `durable-objects` `text-to-app` `vibe-coding`
 
@@ -57,7 +57,7 @@ Backend trực quan nhẹ (dữ liệu, auth, media, workflow) theo Web Standard
 
 Email for professionals and teams
 
-`TypeScript` · **3,338** stars · 22/09/2026
+`TypeScript` · **3,391** stars · 23/09/2026
 
 `cloudflare` `cloudflare-workers` `email`
 
@@ -77,7 +77,7 @@ Bộ scaffold docs Astro đưa layout, component và content vào repo dưới d
 
 *Mô tả gốc:* Docs for humans and agents, built on Astro
 
-`TypeScript` · **991** stars · 22/09/2026
+`TypeScript` · **992** stars · 23/09/2026
 
 ### [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends)
 
@@ -85,7 +85,7 @@ Công cụ Python quét các subreddit về AI, phân tích bài/ảnh/video/web
 
 *Mô tả gốc:* Stay ahead of AI trends with automated Reddit insights! 🚀 This tool scans AI-related Reddit communities in English & Chinese, using Reddit Official API, DeepSeek R1 by OpenRouter to analyze posts, summarize key discussions, and track trends. Daily rankings hot topics—catch emerging trends before they go mainstream! (Updated every 6 AM CDT)
 
-`Python` · **863** stars · 22/09/2026
+`Python` · **864** stars · 23/09/2026
 
 `ai` `deepseek-r1` `ranking` `reports` `trend`
 
@@ -93,7 +93,7 @@ Công cụ Python quét các subreddit về AI, phân tích bài/ảnh/video/web
 
 Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 
-`TypeScript` · **830** stars · 22/09/2026
+`TypeScript` · **835** stars · 23/09/2026
 
 `anti-bot` `anti-detection` `arr` `bun` `byparr` `camoufox`
 
@@ -101,7 +101,7 @@ Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare,
 
 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account
 
-`JavaScript` · **789** stars · 22/09/2026
+`JavaScript` · **820** stars · 23/09/2026
 
 `awesome` `awesome-list` `cloudflare` `cloudflare-workers` `self-hosted`
 
@@ -155,7 +155,7 @@ Dịch vụ CAPTCHA chạy trên Cloudflare Workers dùng Proof of Work SHA-256,
 
 *Mô tả gốc:* Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.
 
-`HTML` · **198** stars · 11/09/2026
+`HTML` · **199** stars · 23/09/2026
 
 `captcha` `cloudflare` `cloudflare-workers` `ddos-protection` `proof-of-work` `recapcha`
 
@@ -165,7 +165,7 @@ Gateway API AI serverless (Vercel/Cloudflare) hoặc CLI local, một endpoint c
 
 *Mô tả gốc:* Serverless AI API Gateway /   Vercel  / Cloudflare / Multiple Provider / Fallback Chain
 
-`TypeScript` · **126** stars · 21/09/2026
+`TypeScript` · **127** stars · 23/09/2026
 
 `ai` `api-gateway` `api-relay` `edge-runtime` `llm` `llm-gateway`
 
@@ -183,7 +183,7 @@ Meta-framework full-stack trên Cloudflare: Next.js, Hono/tRPC, D1/Drizzle và B
 
 *Mô tả gốc:* The Ultimate Full-Stack Meta-Framework for Cloudflare
 
-`TypeScript` · **72** stars · 18/08/2026
+`TypeScript` · **71** stars · 23/09/2026
 
 `betterauth` `biomejs` `bun` `cloudflare-workers` `d1` `drizzle-orm`
 
