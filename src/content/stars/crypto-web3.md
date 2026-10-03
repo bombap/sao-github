@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-10-02
+publishDate: 2026-10-03
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -49,7 +49,7 @@ Triển khai cặp token ERC20–ERC721 liên kết (theo hướng ERC-7631): ch
 
 *Mô tả gốc:* Implementation of a co-joined ERC20 and ERC721 pair.
 
-`Solidity` · **553** stars · 01/10/2026
+`Solidity` · **554** stars · 03/10/2026
 
 ### [vybenetwork/solana-trades-api](https://github.com/vybenetwork/solana-trades-api)
 
