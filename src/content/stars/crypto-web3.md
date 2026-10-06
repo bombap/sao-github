@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **696** stars · 05/10/2026
+`TypeScript` · **696** stars · 06/10/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
@@ -49,7 +49,7 @@ Triển khai cặp token ERC20–ERC721 liên kết (theo hướng ERC-7631): ch
 
 *Mô tả gốc:* Implementation of a co-joined ERC20 and ERC721 pair.
 
-`Solidity` · **553** stars · 05/10/2026
+`Solidity` · **553** stars · 06/10/2026
 
 ### [vybenetwork/solana-trades-api](https://github.com/vybenetwork/solana-trades-api)
 
@@ -57,7 +57,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 *Mô tả gốc:* Solana Trades API
 
-`TypeScript` · **176** stars · 01/10/2026
+`TypeScript` · **175** stars · 06/10/2026
 
 `api` `holders` `launchlab` `markets` `meteora` `pools`
 
