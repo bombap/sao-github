@@ -1,7 +1,7 @@
 ---
 title: "Self-host / DevOps / SaaS"
 description: "PaaS, ERP, CMS, automation, starter kit."
-publishDate: 2026-10-10
+publishDate: 2026-10-11
 language: vi
 category: "Self-host / DevOps / SaaS"
 count: 5
@@ -21,7 +21,7 @@ Danh sách chọn lọc phần mềm tự do để tự host trên server thay c
 
 *Mô tả gốc:* A list of Free Software network services and web applications which can be hosted on your own servers
 
-`—` · **325,292** stars · 10/10/2026
+`—` · **325,631** stars · 11/10/2026
 
 `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -31,7 +31,7 @@ PaaS mã nguồn mở tự host, thay Heroku/Netlify/Vercel, quản lý server, 
 
 *Mô tả gốc:* An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-`PHP` · **62,832** stars · 10/10/2026
+`PHP` · **62,868** stars · 11/10/2026
 
 `coolify` `databases` `deployment` `docker` `docker-compose` `inertiajs`
 
@@ -41,7 +41,7 @@ Hệ ERP mã nguồn mở bao quát kế toán, đơn hàng, kho, sản xuất, 
 
 *Mô tả gốc:* Free and Open Source Enterprise Resource Planning (ERP)
 
-`Python` · **39,985** stars · 10/10/2026
+`Python` · **40,019** stars · 11/10/2026
 
 `accounting` `asset-management` `crm` `distribution` `erp` `erpnext`
 
