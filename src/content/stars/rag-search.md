@@ -1,7 +1,7 @@
 ---
 title: "RAG / Search / Data"
 description: "RAG, crawl, research, đọc tài liệu."
-publishDate: 2026-10-11
+publishDate: 2026-10-13
 language: vi
 category: "RAG / Search / Data"
 count: 40
@@ -21,7 +21,7 @@ API/open source để tìm kiếm, crawl và scrape web thành Markdown hoặc J
 
 *Mô tả gốc:* Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 
-`TypeScript` · **190,516** stars · 11/10/2026
+`TypeScript` · **190,870** stars · 13/10/2026
 
 `ai` `ai-agents` `ai-crawler` `ai-scraping` `ai-search` `crawler`
 
@@ -31,7 +31,7 @@ Langflow là nền tảng kéo-thả để thiết kế, thử và triển khai 
 
 *Mô tả gốc:* Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
-`Python` · **155,510** stars · 11/10/2026
+`Python` · **155,561** stars · 13/10/2026
 
 `agents` `chatgpt` `generative-ai` `large-language-models` `multiagent` `react-flow`
 
@@ -41,7 +41,7 @@ Engine RAG mã nguồn mở kết hợp retrieval với agent để dựng lớp
 
 *Mô tả gốc:* RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
-`Go` · **92,003** stars · 11/10/2026
+`Go` · **92,078** stars · 13/10/2026
 
 `agent-harness` `agentic-ai` `agentic-nagive` `agentic-retrieval` `agentic-search` `ai`
 
@@ -49,7 +49,7 @@ Engine RAG mã nguồn mở kết hợp retrieval với agent để dựng lớp
 
 Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 
-`Python` · **85,257** stars · 11/10/2026
+`Python` · **85,394** stars · 13/10/2026
 
 `ai` `ai-agents` `crawler` `data-extraction` `llm` `markdown`
 
@@ -59,7 +59,7 @@ Lớp bộ nhớ phổ quát cho agent AI, trích xuất và truy hồi sự ki�
 
 *Mô tả gốc:* The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 
-`Python` · **66,992** stars · 11/10/2026
+`Python` · **67,061** stars · 13/10/2026
 
 `agentic-memory` `agentic-memory-system` `agents` `ai` `ai-agents` `chatgpt`
 
@@ -69,7 +69,7 @@ Appwrite là nền tảng backend mã nguồn mở gộp auth, database, storage
 
 *Mô tả gốc:* The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 
-`TypeScript` · **57,641** stars · 11/10/2026
+`TypeScript` · **57,652** stars · 12/10/2026
 
 `android` `appwrite` `backend` `backend-as-a-service` `docker` `firebase`
 
@@ -79,7 +79,7 @@ Máy tính internet mã nguồn mở, tự host được, gom ứng dụng làm 
 
 *Mô tả gốc:* 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
-`TypeScript` · **43,670** stars · 11/10/2026
+`TypeScript` · **43,671** stars · 12/10/2026
 
 `cloud` `cloud-os` `cloud-storage` `desktop` `desktop-environment` `dropbox`
 
@@ -89,7 +89,7 @@ Marker chuyển PDF, ảnh và nhiều định dạng văn bản khác sang mark
 
 *Mô tả gốc:* Convert PDF to markdown + JSON quickly with high accuracy
 
-`Python` · **40,378** stars · 11/10/2026
+`Python` · **40,409** stars · 12/10/2026
 
 ### [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
@@ -97,7 +97,7 @@ Framework WebUI chuyển đổi/huấn luyện giọng nói dựa trên truy xu�
 
 *Mô tả gốc:* Easily train a good VC model with voice data <= 10 mins!
 
-`Python` · **38,687** stars · 11/10/2026
+`Python` · **38,705** stars · 12/10/2026
 
 `audio-analysis` `change` `conversational-ai` `conversion` `converter` `retrieval-model`
 
@@ -107,7 +107,7 @@ Công cụ dịch PDF khoa học giữ layout, công thức, biểu đồ và ch
 
 *Mô tả gốc:* [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
-`Python` · **37,491** stars · 11/10/2026
+`Python` · **37,515** stars · 13/10/2026
 
 `chinese` `document` `edit` `english` `japanese` `korean`
 
@@ -117,7 +117,7 @@ Vane là máy trả lời AI chạy trên máy của bạn, kết hợp tìm ki�
 
 *Mô tả gốc:* Vane is an AI-powered answering engine.
 
-`TypeScript` · **37,253** stars · 11/10/2026
+`TypeScript` · **37,283** stars · 12/10/2026
 
 `ai-agents` `ai-search-engine` `answering-engine` `artificial-intelligence` `llm` `machine-learning`
 
@@ -127,7 +127,7 @@ Không gian làm việc để thiết kế, triển khai và theo dõi AI agent 
 
 *Mô tả gốc:* Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 
-`TypeScript` · **29,807** stars · 11/10/2026
+`TypeScript` · **29,811** stars · 12/10/2026
 
 `agent-workflow` `agentic-workflow` `agents` `ai` `aiagents` `anthropic`
 
@@ -137,7 +137,7 @@ Framework dựng giao diện kéo-thả để soạn HTML/CSS cho trang web, ema
 
 *Mô tả gốc:* Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 
-`TypeScript` · **26,298** stars · 11/10/2026
+`TypeScript` · **26,301** stars · 12/10/2026
 
 `drag-and-drop` `framework` `no-code` `nocode` `page-builder` `site-builder`
 
@@ -147,7 +147,7 @@ Giao diện RAG mã nguồn mở để hỏi đáp trên tài liệu của bạn
 
 *Mô tả gốc:* An open-source RAG-based tool for chatting with your documents.
 
-`Python` · **25,800** stars · 11/10/2026
+`Python` · **25,799** stars · 12/10/2026
 
 `chatbot` `llms` `open-source` `rag`
 
@@ -157,7 +157,7 @@ Kho hơn 50 tutorial Jupyter về xây dựng GenAI agent, từ chatbot đơn gi
 
 *Mô tả gốc:* 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 
-`Jupyter Notebook` · **24,551** stars · 11/10/2026
+`Jupyter Notebook` · **24,564** stars · 12/10/2026
 
 `agentic-ai` `agents` `ai` `ai-agents` `autonomous-agents` `genai`
 
@@ -167,7 +167,7 @@ Thư viện Rust (kèm CLI, Node, Python, WASM) chuyển Word, PowerPoint, Excel
 
 *Mô tả gốc:* Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-`Rust` · **22,728** stars · 11/10/2026
+`Rust` · **22,779** stars · 12/10/2026
 
 ### [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 
@@ -175,7 +175,7 @@ Trợ lý AI agentic mã nguồn mở kết nối database, CSV/Excel và kho tr
 
 *Mô tả gốc:* open-source agentic AI data assistant for the next generation of AI + Data products.
 
-`Python` · **20,116** stars · 11/10/2026
+`Python` · **20,126** stars · 13/10/2026
 
 `agents` `bgi` `database` `deepseek` `gpt` `gpt-4`
 
@@ -185,7 +185,7 @@ Agent nghiên cứu sâu tối giản: lặp tìm kiếm, crawl web và dùng LL
 
 *Mô tả gốc:* An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 
-`TypeScript` · **19,780** stars · 11/10/2026
+`TypeScript` · **19,779** stars · 12/10/2026
 
 `agent` `ai` `gpt` `o3-mini` `research`
 
@@ -195,7 +195,7 @@ Nền tảng no-code mã nguồn mở để scrape, crawl và trích xuất dữ
 
 *Mô tả gốc:* Turn any website into a structured API. Extract, automate, search and monitor the web.
 
-`TypeScript` · **17,784** stars · 11/10/2026
+`TypeScript` · **17,811** stars · 12/10/2026
 
 `agents` `api` `automation` `browser-automation` `crawler` `crawling`
 
@@ -205,7 +205,7 @@ Client sao lưu mã nguồn mở (C#) tạo bản backup mã hóa AES, increment
 
 *Mô tả gốc:* Store securely encrypted backups in the cloud!
 
-`C#` · **15,081** stars · 11/10/2026
+`C#` · **15,085** stars · 13/10/2026
 
 `backup` `c-sharp` `client-only-backup` `cloud-backup` `cloud-storage-services` `duplicati`
 
@@ -215,7 +215,7 @@ Bộ công cụ all-in-one giúp freelancer và solo entrepreneur quản lý v�
 
 *Mô tả gốc:* Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 
-`TypeScript` · **15,074** stars · 11/10/2026
+`TypeScript` · **15,072** stars · 12/10/2026
 
 `finance` `nextjs` `supabase` `tailwind` `typescript`
 
@@ -225,7 +225,7 @@ Trình soạn thảo kéo-thả mã nguồn mở cho React, gắn component tự
 
 *Mô tả gốc:* The visual editor for React.
 
-`TypeScript` · **13,458** stars · 11/10/2026
+`TypeScript` · **13,470** stars · 12/10/2026
 
 `ai` `builder` `drag-and-drop` `draganddrop` `no-code` `nocode`
 
@@ -235,7 +235,7 @@ App Markdown local-first: ghi nhanh ý rời (chữ, giọng, ảnh, link) rồi
 
 *Mô tả gốc:* Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 
-`TypeScript` · **12,884** stars · 11/10/2026
+`TypeScript` · **12,889** stars · 12/10/2026
 
 `agent` `ai-notes` `knowledge-base` `knowledge-management` `llm` `local-first`
 
@@ -245,7 +245,7 @@ Công cụ tìm kiếm nghiên cứu dùng AI agent: phân rã câu hỏi, truy 
 
 *Mô tả gốc:* Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 
-`TypeScript` · **11,895** stars · 11/10/2026
+`TypeScript` · **11,895** stars · 12/10/2026
 
 `ai-search-engine` `minimalistic-ai-search-engine` `scira` `scira-ai` `search-engine`
 
@@ -255,7 +255,7 @@ Nền tảng TypeScript mã nguồn mở để xây dựng agent AI có bộ nh�
 
 *Mô tả gốc:* AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 
-`TypeScript` · **10,768** stars · 11/10/2026
+`TypeScript` · **10,773** stars · 13/10/2026
 
 `agents` `ai` `ai-agents` `ai-agents-framework` `aiagentframework` `chatbots`
 
@@ -263,7 +263,7 @@ Nền tảng TypeScript mã nguồn mở để xây dựng agent AI có bộ nh�
 
 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 
-`JavaScript` · **6,938** stars · 11/10/2026
+`JavaScript` · **6,939** stars · 12/10/2026
 
 `ai-search-engine` `gpt` `llm` `llms` `multi-agent-systems` `perplexity-ai`
 
@@ -283,7 +283,7 @@ Template Next.js mã nguồn mở để tạo ứng dụng kiểu Claude Artifac
 
 *Mô tả gốc:* Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 
-`TypeScript` · **6,384** stars · 11/10/2026
+`TypeScript` · **6,388** stars · 12/10/2026
 
 `ai` `ai-code-generation` `anthropic` `claude` `claude-ai` `code-interpreter`
 
@@ -293,7 +293,7 @@ Bản open-source mô phỏng Deep Research của OpenAI: kết hợp Firecrawl 
 
 *Mô tả gốc:* An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 
-`TypeScript` · **6,293** stars · 11/10/2026
+`TypeScript` · **6,294** stars · 12/10/2026
 
 ### [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
 
@@ -301,7 +301,7 @@ Tổng hợp case, bài viết và tài nguyên về kiếm thêm thu nhập nh�
 
 *Mô tả gốc:* ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 
-`CSS` · **5,910** stars · 11/10/2026
+`CSS` · **5,954** stars · 13/10/2026
 
 `awesome` `jobleap`
 
@@ -311,7 +311,7 @@ Tổng hợp case, bài viết và tài nguyên về kiếm thêm thu nhập nh�
 
 *Mô tả gốc:* The easiest way to use Agentic RAG in any enterprise
 
-`TypeScript` · **4,443** stars · 11/10/2026
+`TypeScript` · **4,444** stars · 12/10/2026
 
 `agentic` `agents` `ai` `docker` `llamaindex` `rag`
 
@@ -321,7 +321,7 @@ Hệ thống bộ nhớ dài hạn theo hồ sơ và timeline sự kiện ngư�
 
 *Mô tả gốc:* User Profile-Based Long-Term Memory for AI Chatbot Applications.
 
-`Python` · **2,928** stars · 11/10/2026
+`Python` · **2,930** stars · 12/10/2026
 
 `ai-companion` `ai-memory` `chatgpt` `llm-application` `llm-memory` `long-term-memory`
 
@@ -341,7 +341,7 @@ Thư viện TypeScript trừu tượng hóa việc gọi mô hình AI (text, obj
 
 *Mô tả gốc:* The TypeScript library for building AI applications.
 
-`TypeScript` · **1,320** stars · 08/10/2026 · **đã archive**
+`TypeScript` · **1,321** stars · 12/10/2026 · **đã archive**
 
 `ai` `artificial-intelligence` `chatbot` `claude` `dall-e` `embedding`
 

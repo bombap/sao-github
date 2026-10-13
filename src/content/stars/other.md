@@ -1,7 +1,7 @@
 ---
 title: "Khác"
 description: "Repo không khớp các nhóm trên."
-publishDate: 2026-10-11
+publishDate: 2026-10-13
 language: vi
 category: "Khác"
 count: 57
@@ -21,7 +21,7 @@ Kho playlist IPTV công khai từ khắp nơi trên thế giới, chỉ gồm li
 
 *Mô tả gốc:* Collection of publicly available IPTV channels from all over the world
 
-`TypeScript` · **140,572** stars · 11/10/2026
+`TypeScript` · **140,686** stars · 13/10/2026
 
 `iptv` `m3u` `playlist` `streams` `tv`
 
@@ -31,7 +31,7 @@ Không gian làm việc all-in-one mã mở, ưu tiên local-first: gộp tài l
 
 *Mô tả gốc:* There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
-`TypeScript` · **73,387** stars · 11/10/2026
+`TypeScript` · **73,425** stars · 13/10/2026
 
 `app` `crdt` `editor` `electron` `knowledge-base` `markdown`
 
@@ -41,7 +41,7 @@ Dự án giáo dục mô phỏng quỹ đầu tư với các agent AI đưa ra q
 
 *Mô tả gốc:* An AI Hedge Fund Team
 
-`Python` · **63,934** stars · 11/10/2026
+`Python` · **63,962** stars · 12/10/2026
 
 ### [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop)
 
@@ -49,7 +49,7 @@ Dự án giáo dục mô phỏng quỹ đầu tư với các agent AI đưa ra q
 
 *Mô tả gốc:* Pear 🍐 is extension for music player
 
-`TypeScript` · **33,719** stars · 11/10/2026
+`TypeScript` · **33,730** stars · 12/10/2026
 
 `desktop-app` `electron` `linux` `mac` `macosx` `music`
 
@@ -59,7 +59,7 @@ Nền tảng mã nguồn mở all-in-one cho quản lý dự án, chat, CRM, HRM
 
 *Mô tả gốc:* Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
-`TypeScript` · **27,872** stars · 11/10/2026
+`TypeScript` · **27,877** stars · 12/10/2026
 
 `applicant-tracking-system` `chat-application` `crm` `crm-platform` `hrms` `human-resources`
 
@@ -67,7 +67,7 @@ Nền tảng mã nguồn mở all-in-one cho quản lý dự án, chat, CRM, HRM
 
 Elegant reading of real-time and hottest news
 
-`TypeScript` · **22,008** stars · 11/10/2026
+`TypeScript` · **22,020** stars · 13/10/2026
 
 `elegant` `news`
 
@@ -77,7 +77,7 @@ Mã nguồn ứng dụng Bluesky Social (React Native/TypeScript) cho web, iOS v
 
 *Mô tả gốc:* The Bluesky Social application for Web, iOS, and Android
 
-`TypeScript` · **18,335** stars · 11/10/2026
+`TypeScript` · **18,337** stars · 12/10/2026
 
 ### [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant)
 
@@ -85,7 +85,7 @@ Framework multi-agent tự lập kế hoạch, viết và kiểm thử phần m�
 
 *Mô tả gốc:* Autonomous multi-session AI coding
 
-`TypeScript` · **14,578** stars · 11/10/2026
+`TypeScript` · **14,575** stars · 12/10/2026
 
 ### [star-history/star-history](https://github.com/star-history/star-history)
 
@@ -93,7 +93,7 @@ Công cụ vẽ biểu đồ lịch sử star của repo GitHub theo thời gian
 
 *Mô tả gốc:* The de facto GitHub star history graph.
 
-`TypeScript` · **9,584** stars · 11/10/2026
+`TypeScript` · **9,587** stars · 12/10/2026
 
 `github` `github-star` `github-star-history` `github-trending` `graph` `history`
 
@@ -103,7 +103,7 @@ Thư viện schema nhỏ gọn, type-safe để validate và suy luận kiểu d
 
 *Mô tả gốc:* The modular and type safe schema library for validating structural data 🤖
 
-`TypeScript` · **9,032** stars · 10/10/2026
+`TypeScript` · **9,034** stars · 12/10/2026
 
 `bundle-size` `form-validation` `modular` `parsing` `runtime` `runtime-validation`
 
@@ -113,7 +113,7 @@ Helium là thư viện Python bọc Selenium, điều khiển Chrome/Firefox b�
 
 *Mô tả gốc:* Lighter web automation with Python
 
-`Python` · **8,328** stars · 10/10/2026
+`Python` · **8,329** stars · 12/10/2026
 
 `chrome` `firefox` `helium` `python` `python3` `selenium`
 
@@ -121,13 +121,13 @@ Helium là thư viện Python bọc Selenium, điều khiển Chrome/Firefox b�
 
 Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
-`TypeScript` · **7,583** stars · 11/10/2026
+`TypeScript` · **7,605** stars · 12/10/2026
 
 ### [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor)
 
 Effort free video editing!
 
-`Nim` · **5,482** stars · 11/10/2026
+`Nim` · **5,491** stars · 13/10/2026
 
 `audio` `audio-editing` `audio-processing` `automatic` `nim` `video`
 
@@ -135,7 +135,7 @@ Effort free video editing!
 
 OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 
-`TypeScript` · **5,341** stars · 11/10/2026
+`TypeScript` · **5,348** stars · 12/10/2026
 
 ### [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health)
 
@@ -153,7 +153,7 @@ Công cụ mã nguồn mở tạo trang cá nhân từ CV PDF nhờ LLM, có xá
 
 *Mô tả gốc:* LinkedIn -> personal site generator
 
-`TypeScript` · **3,088** stars · 11/10/2026
+`TypeScript` · **3,091** stars · 12/10/2026
 
 ### [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff)
 
@@ -167,7 +167,7 @@ Công cụ mã nguồn mở tạo trang cá nhân từ CV PDF nhờ LLM, có xá
 
 Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt
 
-`Python` · **2,827** stars · 11/10/2026
+`Python` · **2,834** stars · 12/10/2026
 
 `deep-learning` `on-device-ml` `real-time` `speech-synthesis` `text-to-speech` `tts`
 
@@ -185,7 +185,7 @@ Thư viện TypeScript chuyển file DOCX sang HTML, ưu tiên giữ ngữ nghĩ
 
 *Mô tả gốc:* Docx rendering library
 
-`TypeScript` · **2,114** stars · 10/10/2026
+`TypeScript` · **2,117** stars · 12/10/2026
 
 `docx` `javascript`
 
@@ -195,7 +195,7 @@ Kho ví dụ, bài tập và thư viện mã nguồn mở cho khóa AI Hero, hư
 
 *Mô tả gốc:* AI Hero's open-source examples and course material. Learn AI Engineering with a single repo.
 
-`TypeScript` · **1,878** stars · 11/10/2026
+`TypeScript` · **1,880** stars · 12/10/2026
 
 `ai` `typescript`
 
@@ -213,7 +213,7 @@ Kho ví dụ, bài tập và thư viện mã nguồn mở cho khóa AI Hero, hư
 
 Kho mẫu và hướng dẫn tạo wrap tùy chỉnh cho hình 3D xe Tesla trong Paint Shop. Dùng khi muốn thiết kế skin riêng rồi tải lên xe qua app hoặc USB.
 
-`—` · **1,718** stars · 11/10/2026
+`—` · **1,731** stars · 13/10/2026
 
 ### [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat)
 
@@ -221,19 +221,19 @@ Kho mẫu và hướng dẫn tạo wrap tùy chỉnh cho hình 3D xe Tesla trong
 
 *Mô tả gốc:* AI机器人群聊
 
-`TypeScript` · **1,697** stars · 09/10/2026
+`TypeScript` · **1,698** stars · 12/10/2026
 
 ### [google-gemma/gemma-translator](https://github.com/google-gemma/gemma-translator)
 
 Hệ thống dịch giọng nói chạy hoàn toàn offline trên thiết bị, dùng Gemma 4/LiteRT-LM kèm giao diện web tối ưu màn hình nhỏ. Phù hợp Raspberry Pi 5 hoặc kiosk cầm tay cần micro, loa và dịch realtime không phụ thuộc mạng.
 
-`JavaScript` · **1,623** stars · 11/10/2026
+`JavaScript` · **1,624** stars · 12/10/2026
 
 ### [ashuoAI/SHUO-Canvas](https://github.com/ashuoAI/SHUO-Canvas)
 
 AI-CanvasPro
 
-`—` · **1,379** stars · 11/10/2026
+`—` · **1,377** stars · 12/10/2026
 
 ### [basementstudio/xmcp](https://github.com/basementstudio/xmcp)
 
@@ -241,7 +241,7 @@ Framework TypeScript để dựng và triển khai MCP server, tự đăng ký t
 
 *Mô tả gốc:* The TypeScript MCP framework
 
-`TypeScript` · **1,336** stars · 11/10/2026
+`TypeScript` · **1,338** stars · 12/10/2026
 
 `framework` `mcp` `modelcontextprotocol` `typescript`
 
@@ -267,7 +267,7 @@ Trợ lý tài chính mã nguồn mở: chat ngôn ngữ tự nhiên để tra d
 
 *Mô tả gốc:* The world's most powerful open-source financial AI assistant - Access institutional-grade financial data, run complex analyses, and create stunning visualizations, all through natural conversation.
 
-`TypeScript` · **903** stars · 09/10/2026
+`TypeScript` · **902** stars · 12/10/2026
 
 ### [SnowingFox/open-nof1.ai](https://github.com/SnowingFox/open-nof1.ai)
 
@@ -283,7 +283,7 @@ Bộ gõ tiếng Việt miễn phí, nhẹ và ổn định cho macOS (có bản
 
 *Mô tả gốc:* Gõ Nhanh - Bộ gõ tiếng Việt hiện đại, hiệu suất cao dành cho macOS.
 
-`Rust` · **763** stars · 11/10/2026
+`Rust` · **763** stars · 13/10/2026
 
 ### [moeru-ai/xsai](https://github.com/moeru-ai/xsai)
 
@@ -323,6 +323,12 @@ CLI trích nội dung chính từ HTML hoặc URL ra markdown/JSON sạch. Dùng
 
 `defuddle` `extraction` `html` `markdown` `md`
 
+### [opencoredev/bg0](https://github.com/opencoredev/bg0)
+
+Private, unlimited background removal that runs in your browser.
+
+`TypeScript` · **362** stars · 12/10/2026
+
 ### [haydenbleasel/eververse](https://github.com/haydenbleasel/eververse)
 
 Nền tảng quản lý sản phẩm mã mở, thay thế nhẹ cho Productboard/Cycle, hỗ trợ khám phá vấn đề, lên ý tưởng, ưu tiên tính năng và roadmap có AI. Dành cho team product muốn làm việc chung trên một monorepo Next.js.
@@ -333,17 +339,11 @@ Nền tảng quản lý sản phẩm mã mở, thay thế nhẹ cho Productboard
 
 `ai` `gantt` `initiatives` `product-management` `project-management` `roadmap`
 
-### [opencoredev/bg0](https://github.com/opencoredev/bg0)
-
-Private, unlimited background removal that runs in your browser.
-
-`TypeScript` · **361** stars · 09/10/2026
-
 ### [taruma/SceneFlow](https://github.com/taruma/SceneFlow)
 
 Sync screenplays with video. Evaluate AI-generated footage. Analyze script-to-screen fidelity.
 
-`TypeScript` · **355** stars · 11/10/2026
+`TypeScript` · **357** stars · 12/10/2026
 
 `ai` `filmmaking` `screenplay` `screenwriting`
 
@@ -357,13 +357,13 @@ Thư viện hàng nghìn icon hai tông màu (Lucide, Heroicons, Iconoir) có an
 
 3d assets api and mcp
 
-`TypeScript` · **282** stars · 11/10/2026
+`TypeScript` · **288** stars · 13/10/2026
 
 ### [ZeroLu/open-canvas](https://github.com/ZeroLu/open-canvas)
 
 本地运行、完全开源、BYOK的AI无限画布，支持生图生视频等工作流，LibTV和TapNow开源替代品
 
-`TypeScript` · **275** stars · 10/10/2026
+`TypeScript` · **276** stars · 12/10/2026
 
 ### [Scodive/ResearchGPT](https://github.com/Scodive/ResearchGPT)
 
@@ -443,7 +443,7 @@ Thư viện rate limit cho TypeScript/Bun hỗ trợ fixed/sliding window và to
 
 *Mô tả gốc:* A high-performance, flexible rate limiting library for TypeScript.
 
-`TypeScript` · **22** stars · 11/10/2026
+`TypeScript` · **23** stars · 12/10/2026
 
 `bun` `library` `rate-limit` `rate-limiter` `rate-limiting` `typescript`
 
