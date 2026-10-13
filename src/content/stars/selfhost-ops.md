@@ -21,7 +21,7 @@ Danh sách chọn lọc phần mềm tự do để tự host trên server thay c
 
 *Mô tả gốc:* A list of Free Software network services and web applications which can be hosted on your own servers
 
-`—` · **325,909** stars · 13/10/2026
+`—` · **326,190** stars · 13/10/2026
 
 `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -31,7 +31,7 @@ PaaS mã nguồn mở tự host, thay Heroku/Netlify/Vercel, quản lý server, 
 
 *Mô tả gốc:* An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-`PHP` · **62,906** stars · 13/10/2026
+`PHP` · **62,950** stars · 13/10/2026
 
 `coolify` `databases` `deployment` `docker` `docker-compose` `inertiajs`
 
@@ -41,7 +41,7 @@ Hệ ERP mã nguồn mở bao quát kế toán, đơn hàng, kho, sản xuất, 
 
 *Mô tả gốc:* Free and Open Source Enterprise Resource Planning (ERP)
 
-`Python` · **40,070** stars · 13/10/2026
+`Python` · **40,112** stars · 13/10/2026
 
 `accounting` `asset-management` `crm` `distribution` `erp` `erpnext`
 
@@ -51,7 +51,7 @@ Boilerplate SaaS Next.js miễn phí (thay ShipFast) với auth, thanh toán, em
 
 *Mô tả gốc:* Open Source Next.js Saas Boilerplate
 
-`TypeScript` · **1,701** stars · 12/10/2026
+`TypeScript` · **1,702** stars · 13/10/2026
 
 `boilerplate` `nextjs` `saas` `typescript`
 
