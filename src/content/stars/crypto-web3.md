@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-10-13
+publishDate: 2026-10-14
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -65,7 +65,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 Mẫu hợp đồng Jetton (token chuẩn TON) viết bằng Tact, kèm lưu ý TEP-74 và luồng transfer qua ví Jetton của người gửi. Dành cho dev bắt đầu phát hành hoặc tùy biến token trên TON.
 
-`TypeScript` · **115** stars · 12/06/2026
+`TypeScript` · **116** stars · 14/10/2026
 
 ### [cxcx-ai/solana-dex-parser](https://github.com/cxcx-ai/solana-dex-parser)
 

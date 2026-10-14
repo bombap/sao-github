@@ -1,7 +1,7 @@
 ---
 title: "Repo đã star của bombap"
 description: "Danh sách GitHub starred, tóm tắt tiếng Việt từ README."
-publishDate: 2026-10-13
+publishDate: 2026-10-14
 language: vi
 ---
 
@@ -9,8 +9,8 @@ language: vi
 
 Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI đọc README của từng repo.
 
-*Cập nhật: 2026-10-13T23:13:19Z*  
-*371 repository · 11 nhóm · 303 đã có tóm tắt AI*
+*Cập nhật: 2026-10-14T22:08:20Z*  
+*370 repository · 11 nhóm · 303 đã có tóm tắt AI*
 
 | Nhóm | File Markdown | Số repo | Nội dung |
 | --- | --- | ---: | --- |
@@ -19,7 +19,7 @@ Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI 
 | Ảnh / Design / Motion | [image-design.md](./src/content/stars/image-design.md) | 18 | Tạo ảnh, poster editorial, motion, design system. |
 | Cloudflare / Gateway | [cloud-workers.md](./src/content/stars/cloud-workers.md) | 30 | Workers, Hono, AI gateway, serverless. |
 | RAG / Search / Data | [rag-search.md](./src/content/stars/rag-search.md) | 40 | RAG, crawl, research, đọc tài liệu. |
-| Agent / LLM framework | [agent-llm.md](./src/content/stars/agent-llm.md) | 70 | Orchestration, multi-agent, SDK chat. |
+| Agent / LLM framework | [agent-llm.md](./src/content/stars/agent-llm.md) | 69 | Orchestration, multi-agent, SDK chat. |
 | Frontend / UI kit | [frontend-ui.md](./src/content/stars/frontend-ui.md) | 40 | React, Vue, shadcn, editor, canvas. |
 | Self-host / DevOps / SaaS | [selfhost-ops.md](./src/content/stars/selfhost-ops.md) | 5 | PaaS, ERP, CMS, automation, starter kit. |
 | Crypto / Solana / Web3 | [crypto-web3.md](./src/content/stars/crypto-web3.md) | 11 | DEX, protocol, bot, SDK on-chain. |

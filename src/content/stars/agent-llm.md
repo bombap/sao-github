@@ -1,10 +1,10 @@
 ---
 title: "Agent / LLM framework"
 description: "Orchestration, multi-agent, SDK chat."
-publishDate: 2026-10-13
+publishDate: 2026-10-14
 language: vi
 category: "Agent / LLM framework"
-count: 70
+count: 69
 ---
 
 ← [Mục lục · STARRED_REPOS.md](../../STARRED_REPOS.md)
@@ -13,7 +13,7 @@ count: 70
 
 Orchestration, multi-agent, SDK chat.
 
-**70** repository · tóm tắt tiếng Việt từ README.
+**69** repository · tóm tắt tiếng Việt từ README.
 
 ### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
@@ -21,7 +21,7 @@ Khung agent mã nguồn mở của DeepSeek: mọi thứ (model, tool, sandbox, 
 
 *Mô tả gốc:* DeepSeek Harness: Everything is a Plugin.
 
-`TypeScript` · **248,950** stars · 13/10/2026
+`TypeScript` · **249,654** stars · 14/10/2026
 
 `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -31,7 +31,7 @@ SDK full-stack để gắn agent vào giao diện người dùng: chat, Generati
 
 *Mô tả gốc:* The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 
-`TypeScript` · **38,003** stars · 13/10/2026
+`TypeScript` · **38,012** stars · 14/10/2026
 
 `agent` `agent-native` `agentic-ai` `agents` `ai` `ai-agent`
 
@@ -41,7 +41,7 @@ Công cụ lên lịch và quản lý bài đăng mạng xã hội có AI, analy
 
 *Mô tả gốc:* 📨 The ultimate agentic social media scheduling tool 🤖
 
-`TypeScript` · **37,148** stars · 13/10/2026
+`TypeScript` · **37,191** stars · 14/10/2026
 
 `nextjs` `open-source` `open-source-social-media-scheduling-tool` `oss` `postiz-cloud` `postiz-hosted`
 
@@ -51,7 +51,7 @@ Giao diện web để đặt tên, cấu hình mục tiêu và chạy AI agent t
 
 *Mô tả gốc:* 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
-`TypeScript` · **36,281** stars · 13/10/2026 · **đã archive**
+`TypeScript` · **36,278** stars · 14/10/2026 · **đã archive**
 
 `agent` `agentgpt` `agents` `agi` `ai` `ai-agents`
 
@@ -61,7 +61,7 @@ Composio cung cấp SDK và hơn 1000 toolkit đã xác thực sẵn để agent
 
 *Mô tả gốc:* Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 
-`TypeScript` · **30,534** stars · 13/10/2026
+`TypeScript` · **30,552** stars · 14/10/2026
 
 `agentic-ai` `agents` `ai` `ai-agents` `aiagents` `developer-tools`
 
@@ -69,7 +69,7 @@ Composio cung cấp SDK và hơn 1000 toolkit đã xác thực sẵn để agent
 
 The headless browser for AI agents and web scraping
 
-`Rust` · **28,861** stars · 13/10/2026
+`Rust` · **28,893** stars · 14/10/2026
 
 `antidetect` `antidetect-browser` `browser` `browser-automation` `cdp` `headless`
 
@@ -79,7 +79,7 @@ Công cụ gói toàn bộ codebase thành một file tối ưu cho AI, kèm đ�
 
 *Mô tả gốc:* 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
-`TypeScript` · **28,824** stars · 13/10/2026
+`TypeScript` · **28,838** stars · 14/10/2026
 
 `ai` `anthropic` `artificial-intelligence` `chatbot` `chatgpt` `claude`
 
@@ -89,7 +89,7 @@ Trợ lý AI tự chủ chạy 100% local: duyệt web, viết code và chia vi�
 
 *Mô tả gốc:* Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 
-`Python` · **27,483** stars · 13/10/2026
+`Python` · **27,487** stars · 14/10/2026
 
 `agentic-ai` `agents` `ai` `autonomous-agents` `deepseek-r1` `llm`
 
@@ -99,7 +99,7 @@ SDK điều khiển trình duyệt dành cho agent AI, API gần Playwright kèm
 
 *Mô tả gốc:* The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 
-`TypeScript` · **25,659** stars · 13/10/2026
+`TypeScript` · **25,668** stars · 14/10/2026
 
 `agents` `ai` `ai-agents` `browser-agent` `browser-automation` `cdp`
 
@@ -109,7 +109,7 @@ Nền tảng tự động hóa workflow mã nguồn mở kiểu Zapier, mở r�
 
 *Mô tả gốc:* AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
-`TypeScript` · **25,038** stars · 13/10/2026
+`TypeScript` · **25,056** stars · 14/10/2026
 
 `ai-agent` `ai-agent-tools` `ai-agents` `ai-agents-framework` `mcp` `mcp-server`
 
@@ -119,7 +119,7 @@ Nền tảng mã nguồn mở kết hợp AI và no-code để dựng hệ thố
 
 *Mô tả gốc:* NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
 
-`TypeScript` · **24,570** stars · 13/10/2026
+`TypeScript` · **24,581** stars · 14/10/2026
 
 `admin-dashboard` `ai-agent` `ai-agents` `ai-assistant` `ai-tools` `crm`
 
@@ -127,7 +127,7 @@ Nền tảng mã nguồn mở kết hợp AI và no-code để dựng hệ thố
 
 Fastest and cheapest web agent
 
-`Python` · **22,823** stars · 13/10/2026
+`Python` · **22,913** stars · 14/10/2026
 
 ### [google/adk-python](https://github.com/google/adk-python)
 
@@ -135,7 +135,7 @@ Framework Python mã nguồn mở, code-first để xây, đánh giá và triể
 
 *Mô tả gốc:* An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
-`Python` · **21,809** stars · 13/10/2026
+`Python` · **21,845** stars · 14/10/2026
 
 `agent` `agentic` `agentic-ai` `agents` `agents-sdk` `ai`
 
@@ -145,7 +145,7 @@ Framework đa agent (trên CAMEL-AI) cho cộng tác động và tự động h�
 
 *Mô tả gốc:* 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 
-`Python` · **20,150** stars · 13/10/2026
+`Python` · **20,155** stars · 14/10/2026
 
 `agent` `artificial-intelligence` `multi-agent-systems` `task-automation` `web-interaction`
 
@@ -155,7 +155,7 @@ Framework agent AI mã nguồn mở cho agent một môi trường Linux đầy 
 
 *Mô tả gốc:* Agent Zero AI framework
 
-`Python` · **19,456** stars · 13/10/2026
+`Python` · **19,473** stars · 14/10/2026
 
 `agent` `ai` `assistant` `autonomous` `linux` `zero`
 
@@ -165,7 +165,7 @@ Biến repo GitHub (công khai hoặc private) thành sơ đồ kiến trúc tư
 
 *Mô tả gốc:* Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 
-`TypeScript` · **18,172** stars · 13/10/2026
+`TypeScript` · **18,203** stars · 14/10/2026
 
 `ai` `architecture-diagram` `code` `code-visualization` `codebase-visualization` `developer-tools`
 
@@ -175,7 +175,7 @@ Nền tảng (đã archive) kiểu chợ công cụ MCP/API trả phí cho LLM, 
 
 *Mô tả gốc:* Your API ⇒ Paid MCP. Instantly.
 
-`TypeScript` · **18,090** stars · 13/10/2026 · **đã archive**
+`TypeScript` · **18,089** stars · 14/10/2026 · **đã archive**
 
 `agents` `ai` `llms` `openai`
 
@@ -185,7 +185,7 @@ Nền tảng (đã archive) kiểu chợ công cụ MCP/API trả phí cho LLM, 
 
 *Mô tả gốc:* AI coworker with memory and collaboration
 
-`TypeScript` · **18,013** stars · 13/10/2026
+`TypeScript` · **18,020** stars · 14/10/2026
 
 `agents` `agents-sdk` `ai` `ai-agents` `ai-agents-automation` `chatgpt`
 
@@ -195,7 +195,7 @@ Framework Python để dựng ứng dụng chat AI sẵn sàng production nhanh,
 
 *Mô tả gốc:* Build Conversational AI in minutes ⚡️
 
-`Python` · **12,516** stars · 13/10/2026
+`Python` · **12,518** stars · 14/10/2026
 
 `chatgpt` `langchain` `llm` `openai` `openai-chatgpt` `python`
 
@@ -205,7 +205,7 @@ Danh mục hơn 120 thư viện LLM được xếp theo nhóm như training, RAG
 
 *Mô tả gốc:* A curated list of  120+ LLM libraries category wise.
 
-`—` · **10,886** stars · 13/10/2026
+`—` · **10,889** stars · 14/10/2026
 
 `ai-engineer` `generative-ai` `large-language-models` `llm-engineer` `llms`
 
@@ -215,23 +215,23 @@ Framework điều phối nhiều agent AI: phân loại ý định, định tuy�
 
 *Mô tả gốc:* Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 
-`Python` · **7,793** stars · 13/10/2026
+`Python` · **7,791** stars · 14/10/2026
 
 `agentic-ai` `agents` `ai-agents` `ai-agents-framework` `anthropic` `anthropic-claude`
-
-### [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)
-
-面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
-
-`TypeScript` · **7,580** stars · 13/10/2026
 
 ### [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
 
 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 
-`TypeScript` · **7,505** stars · 13/10/2026
+`TypeScript` · **7,642** stars · 14/10/2026
 
 `ai` `chinese` `content-curation` `daily-digest` `docker-compose` `llm`
+
+### [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)
+
+面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
+
+`TypeScript` · **7,615** stars · 14/10/2026
 
 ### [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents)
 
@@ -247,7 +247,7 @@ Framework TypeScript điều phối multi-agent: đưa mục tiêu, tự lập D
 
 *Mô tả gốc:* Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.
 
-`TypeScript` · **6,997** stars · 13/10/2026
+`TypeScript` · **6,999** stars · 14/10/2026
 
 `agent-framework` `agent-orchestration` `agentic-ai` `ai-agents` `ai-governance` `anthropic`
 
@@ -257,15 +257,9 @@ Framework mã nguồn mở (AgentOS) để xây agent AI, gọi LLM/tool và đi
 
 *Mô tả gốc:* AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
 
-`Python` · **4,993** stars · 13/10/2026
+`Python` · **4,996** stars · 14/10/2026
 
 `a2a` `ag2` `agent-framework` `agentic` `agentic-ai` `ai`
-
-### [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)
-
-Riona Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution. It's lightweight, efficient, and still evolving, exciting new features coming soon!
-
-`HTML` · **4,216** stars · 10/10/2026
 
 ### [openai/openai-agents-js](https://github.com/openai/openai-agents-js)
 
@@ -273,7 +267,7 @@ SDK JavaScript/TypeScript nhẹ để dựng workflow đa agent với tool, guar
 
 *Mô tả gốc:* A lightweight, powerful framework for multi-agent workflows and voice agents
 
-`TypeScript` · **3,916** stars · 13/10/2026
+`TypeScript` · **3,919** stars · 14/10/2026
 
 `agents` `openai` `openai-api` `realtime-api` `typescript`
 
@@ -283,7 +277,7 @@ Bộ công cụ Python/TypeScript xây agent và hệ multi-agent sẵn sàng pr
 
 *Mô tả gốc:* Build production-ready AI agents in both Python and Typescript.
 
-`Python` · **3,432** stars · 13/10/2026
+`Python` · **3,433** stars · 14/10/2026
 
 `agents` `ai` `ai-agent` `beeai` `framework` `llm`
 
@@ -291,7 +285,7 @@ Bộ công cụ Python/TypeScript xây agent và hệ multi-agent sẵn sàng pr
 
 x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
 
-`Zig` · **2,488** stars · 13/10/2026
+`Zig` · **2,503** stars · 14/10/2026
 
 `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code` `malware-analysis`
 
@@ -299,7 +293,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 ✨多agent实现全自动AI小说生成
 
-`Go` · **2,159** stars · 13/10/2026
+`Go` · **2,164** stars · 14/10/2026
 
 `agents` `ai` `ai-agents` `go` `llm` `novel`
 
@@ -353,7 +347,7 @@ Framework JavaScript xây hệ multi-agent theo mô hình Kanban: tạo, điều
 
 【影策】面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。
 
-`TypeScript` · **1,270** stars · 13/10/2026
+`TypeScript` · **1,285** stars · 14/10/2026
 
 ### [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)
 
@@ -361,7 +355,7 @@ Template dựng nền tảng automation workflow kéo-thả (React Flow) với A
 
 *Mô tả gốc:* Visual AI workflow automation platform
 
-`TypeScript` · **1,223** stars · 11/10/2026
+`TypeScript` · **1,224** stars · 14/10/2026
 
 `agents` `ai` `workflows`
 
@@ -447,7 +441,7 @@ Mô phỏng chiến đấu xe tăng kiểu World of Tanks chạy trên trình du
 
 *Mô tả gốc:* A World of Tanks-style armored combat simulator built directly with Three.js and Vite: 220 vehicles, 33 destructible battlefields, and 13 modes, with plate-level armor, ballistics, modules, spotting, and physics. Play in your browser on desktop or mobile. Built end-to-end by a multi-agent Claude/Codex pipeline.
 
-`TypeScript` · **471** stars · 13/10/2026
+`TypeScript` · **473** stars · 14/10/2026
 
 `3d-game` `browser-game` `claude` `game` `gamedev` `javascript`
 
@@ -583,7 +577,7 @@ Framework agent AI nhẹ theo kiểu middleware Express, cho kiểm soát prompt
 
 *Mô tả gốc:* Liz is a lightweight framework for building AI agents
 
-`TypeScript` · **29** stars · 12/08/2026
+`TypeScript` · **30** stars · 14/10/2026
 
 ### [mrgoonie/seo-insights-mcp-server](https://github.com/mrgoonie/seo-insights-mcp-server)
 
@@ -615,7 +609,7 @@ Thư viện orchestration agent AI nhẹ cho môi trường Serverless, không v
 
 Plugin CKEditor 5 để gõ prompt trong editor và sinh/chỉnh HTML bằng nhiều model AI (kể cả Ollama), tối ưu theo toolbar đang bật. Dùng khi cần trải nghiệm viết nội dung kiểu ChatGPT ngay trong CKEditor.
 
-`TypeScript` · **13** stars · 13/10/2026
+`TypeScript` · **13** stars · 14/10/2026
 
 ### [engkimo/open-morphic](https://github.com/engkimo/open-morphic)
 
