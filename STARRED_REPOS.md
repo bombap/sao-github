@@ -1,7 +1,7 @@
 ---
 title: "Repo đã star của bombap"
 description: "Danh sách GitHub starred, tóm tắt tiếng Việt từ README."
-publishDate: 2026-10-14
+publishDate: 2026-10-15
 language: vi
 ---
 
@@ -9,13 +9,13 @@ language: vi
 
 Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI đọc README của từng repo.
 
-*Cập nhật: 2026-10-14T22:08:20Z*  
+*Cập nhật: 2026-10-15T22:01:34Z*  
 *370 repository · 11 nhóm · 303 đã có tóm tắt AI*
 
 | Nhóm | File Markdown | Số repo | Nội dung |
 | --- | --- | ---: | --- |
-| Video / Seedance / Shorts | [video-seedance.md](./src/content/stars/video-seedance.md) | 42 | Pipeline video, short drama, storyboard, editor. |
-| Agent Skills / Prompt | [skills-prompt.md](./src/content/stars/skills-prompt.md) | 56 | Skill, prompt, harness, anti-slop, viết tiếng người. |
+| Video / Seedance / Shorts | [video-seedance.md](./src/content/stars/video-seedance.md) | 43 | Pipeline video, short drama, storyboard, editor. |
+| Agent Skills / Prompt | [skills-prompt.md](./src/content/stars/skills-prompt.md) | 55 | Skill, prompt, harness, anti-slop, viết tiếng người. |
 | Ảnh / Design / Motion | [image-design.md](./src/content/stars/image-design.md) | 18 | Tạo ảnh, poster editorial, motion, design system. |
 | Cloudflare / Gateway | [cloud-workers.md](./src/content/stars/cloud-workers.md) | 30 | Workers, Hono, AI gateway, serverless. |
 | RAG / Search / Data | [rag-search.md](./src/content/stars/rag-search.md) | 40 | RAG, crawl, research, đọc tài liệu. |
