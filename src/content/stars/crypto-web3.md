@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-10-16
+publishDate: 2026-10-17
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -21,7 +21,7 @@ Ví dụ sandwich trên cặp Uniswap V2: đọc mempool, tính lãi/gas và b�
 
 *Mô tả gốc:* A practical example on how to perform sandwich attacks on Ethereum
 
-`Solidity` · **2,202** stars · 13/10/2026
+`Solidity` · **2,203** stars · 17/10/2026
 
 ### [mouseless0x/rusty-sando](https://github.com/mouseless0x/rusty-sando)
 
@@ -65,7 +65,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 Mẫu hợp đồng Jetton (token chuẩn TON) viết bằng Tact, kèm lưu ý TEP-74 và luồng transfer qua ví Jetton của người gửi. Dành cho dev bắt đầu phát hành hoặc tùy biến token trên TON.
 
-`TypeScript` · **116** stars · 14/10/2026
+`TypeScript` · **117** stars · 17/10/2026
 
 ### [cxcx-ai/solana-dex-parser](https://github.com/cxcx-ai/solana-dex-parser)
 
