@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-10-25
+publishDate: 2026-10-26
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -21,7 +21,7 @@ Ví dụ sandwich trên cặp Uniswap V2: đọc mempool, tính lãi/gas và b�
 
 *Mô tả gốc:* A practical example on how to perform sandwich attacks on Ethereum
 
-`Solidity` · **2,204** stars · 24/10/2026
+`Solidity` · **2,205** stars · 26/10/2026
 
 ### [mouseless0x/rusty-sando](https://github.com/mouseless0x/rusty-sando)
 
@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **703** stars · 25/10/2026
+`TypeScript` · **703** stars · 26/10/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
@@ -49,7 +49,7 @@ Triển khai cặp token ERC20–ERC721 liên kết (theo hướng ERC-7631): ch
 
 *Mô tả gốc:* Implementation of a co-joined ERC20 and ERC721 pair.
 
-`Solidity` · **553** stars · 06/10/2026
+`Solidity` · **554** stars · 26/10/2026
 
 ### [vybenetwork/solana-trades-api](https://github.com/vybenetwork/solana-trades-api)
 
@@ -79,7 +79,7 @@ Thư viện TypeScript parse giao dịch swap trên các DEX Solana như Jupiter
 
 两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
 
-`—` · **79** stars · 22/10/2026
+`—` · **80** stars · 26/10/2026
 
 ### [tetsuroba/uniswap-universal-decoder](https://github.com/tetsuroba/uniswap-universal-decoder)
 
