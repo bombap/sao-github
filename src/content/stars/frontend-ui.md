@@ -1,7 +1,7 @@
 ---
 title: "Frontend / UI kit"
 description: "React, Vue, shadcn, editor, canvas."
-publishDate: 2026-10-29
+publishDate: 2026-10-30
 language: vi
 category: "Frontend / UI kit"
 count: 43
@@ -21,7 +21,7 @@ Môi trường frontend để xây, xem và kiểm thử UI component/trang tác
 
 *Mô tả gốc:* Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
-`TypeScript` · **91,403** stars · 29/10/2026
+`TypeScript` · **91,413** stars · 30/10/2026
 
 `angular` `components` `design-systems` `documentation` `html` `javascript`
 
@@ -31,7 +31,7 @@ NextChat là ứng dụng chat AI gọn nhẹ, hỗ trợ Claude, DeepSeek, GPT-
 
 *Mô tả gốc:* ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 
-`TypeScript` · **88,918** stars · 29/10/2026
+`TypeScript` · **88,926** stars · 30/10/2026
 
 `calclaude` `claude` `cross-platform` `desktop` `fe` `gemini`
 
@@ -41,7 +41,7 @@ Framework Node.js/TypeScript theo kiến trúc kiểu Angular để xây API và
 
 *Mô tả gốc:* A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
-`TypeScript` · **76,942** stars · 29/10/2026
+`TypeScript` · **76,950** stars · 30/10/2026
 
 `framework` `hacktoberfest` `javascript` `javascript-framework` `microservices` `nest`
 
@@ -51,7 +51,7 @@ CRM mã nguồn mở thay Salesforce, cho phép định nghĩa đối tượng, 
 
 *Mô tả gốc:* The open alternative to Salesforce, designed for AI.
 
-`TypeScript` · **60,087** stars · 29/10/2026
+`TypeScript` · **60,173** stars · 30/10/2026
 
 `crm` `crm-system` `customer` `good-first-issue` `graphql` `hacktoberfest`
 
@@ -61,7 +61,7 @@ Framework kiểm thử end-to-end cho mọi thứ chạy trên trình duyệt, t
 
 *Mô tả gốc:* Fast, easy and reliable testing for anything that runs in a browser.
 
-`TypeScript` · **51,017** stars · 29/10/2026
+`TypeScript` · **51,018** stars · 30/10/2026
 
 `angular-testing-library` `component-testing` `cypress` `cypress-cloud` `cypress-schematic` `end-to-end-testing`
 
@@ -71,7 +71,7 @@ Công cụ mã nguồn mở biến JSON, YAML, XML, CSV thành đồ thị/cây 
 
 *Mô tả gốc:* ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 
-`TypeScript` · **44,576** stars · 29/10/2026
+`TypeScript` · **44,587** stars · 30/10/2026
 
 `csv` `diagrams` `graph` `json` `nextjs` `react`
 
@@ -81,7 +81,7 @@ Trình phát video HTML5 mã nguồn mở cho web, hỗ trợ HLS/DASH và hệ 
 
 *Mô tả gốc:* Video.js v10 - open source media player framework for HTML and React.
 
-`TypeScript` · **40,042** stars · 29/10/2026
+`TypeScript` · **40,049** stars · 30/10/2026
 
 `dash` `hls` `html` `html5` `html5-audio` `html5-video`
 
@@ -91,7 +91,7 @@ Backend headless bọc SQL thành REST/GraphQL, Studio quản lý trực quan v�
 
 *Mô tả gốc:* The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
-`TypeScript` · **38,739** stars · 29/10/2026
+`TypeScript` · **38,754** stars · 30/10/2026
 
 `api` `app` `cms` `composable` `data-visualization` `database`
 
@@ -101,7 +101,7 @@ Thư viện component React (trước là NextUI) kết hợp React Aria và Tai
 
 *Mô tả gốc:* 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
-`TypeScript` · **31,062** stars · 29/10/2026
+`TypeScript` · **31,073** stars · 30/10/2026
 
 `component-library` `components` `library` `reactjs`
 
@@ -111,7 +111,7 @@ Trình vẽ sơ đồ database trên web: import schema bằng một câu query,
 
 *Mô tả gốc:* Database diagrams editor that allows you to visualize and design your DB with a single query.
 
-`TypeScript` · **23,031** stars · 29/10/2026
+`TypeScript` · **23,033** stars · 30/10/2026
 
 `database` `db` `db-migration` `editor` `erd` `mariadb`
 
@@ -121,7 +121,7 @@ Danh sách chọn lọc thư viện, component và tài nguyên xoay quanh shadc
 
 *Mô tả gốc:* A curated list of awesome things related to shadcn/ui.
 
-`TypeScript` · **20,722** stars · 29/10/2026
+`TypeScript` · **20,727** stars · 30/10/2026
 
 `awesome` `awesome-list` `list` `open-source` `resources` `shad`
 
@@ -131,7 +131,7 @@ Framework Generative UI: AI sinh giao diện từ prompt nhưng chỉ trong cata
 
 *Mô tả gốc:* The Generative UI framework
 
-`TypeScript` · **18,844** stars · 29/10/2026
+`TypeScript` · **18,855** stars · 30/10/2026
 
 ### [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
 
@@ -139,7 +139,7 @@ Kho notebook hướng dẫn và ví dụ thực tế cho Gemini API, từ quicks
 
 *Mô tả gốc:* Examples and guides for using the Gemini API
 
-`Jupyter Notebook` · **17,880** stars · 29/10/2026
+`Jupyter Notebook` · **17,881** stars · 30/10/2026
 
 `gemini` `gemini-api`
 
@@ -149,7 +149,7 @@ Template SaaS Next.js có landing, pricing Stripe, auth JWT, dashboard team và 
 
 *Mô tả gốc:* Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 
-`TypeScript` · **16,237** stars · 29/10/2026
+`TypeScript` · **16,239** stars · 30/10/2026
 
 `nextjs` `postgres` `shadcn-ui` `stripe`
 
@@ -159,7 +159,7 @@ Trợ lý email AI mã nguồn mở: sắp hộp thư, soạn nháp theo giọng
 
 *Mô tả gốc:* The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
-`TypeScript` · **12,853** stars · 29/10/2026
+`TypeScript` · **12,862** stars · 30/10/2026
 
 `ai` `email` `gmail` `loops` `nextjs` `openai`
 
@@ -169,7 +169,7 @@ Thư viện React/TypeScript dựng giao diện chat AI kiểu ChatGPT với str
 
 *Mô tả gốc:* Typescript/React Library for AI Chat 💬🚀
 
-`TypeScript` · **12,818** stars · 29/10/2026
+`TypeScript` · **12,843** stars · 30/10/2026
 
 `ai-chatbot` `base-ui` `chatbot` `conversational-ai` `copilot` `radix-ui`
 
@@ -179,7 +179,7 @@ Thư viện React/TypeScript dựng giao diện chat AI kiểu ChatGPT với str
 
 *Mô tả gốc:* An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 
-`TypeScript` · **11,133** stars · 29/10/2026
+`TypeScript` · **11,141** stars · 30/10/2026
 
 `markdown` `memos` `nextjs` `notebook` `openai` `postgres`
 
@@ -187,7 +187,7 @@ Thư viện React/TypeScript dựng giao diện chat AI kiểu ChatGPT với str
 
 Vue port of shadcn-ui
 
-`TypeScript` · **10,752** stars · 29/10/2026
+`TypeScript` · **10,754** stars · 30/10/2026
 
 `accessible` `component-library` `radix-vue` `reka-ui` `shadcn` `shadcn-ui`
 
@@ -197,7 +197,7 @@ Trình chỉnh theme trực quan cho Tailwind CSS và shadcn/ui, kèm preset s�
 
 *Mô tả gốc:* A visual no-code theme editor for shadcn/ui components
 
-`TypeScript` · **10,497** stars · 29/10/2026
+`TypeScript` · **10,499** stars · 30/10/2026
 
 `shadcn` `shadcn-theme` `shadcn-theme-editor` `shadcn-ui` `tailwindcss` `tailwindcss-v4`
 
@@ -207,7 +207,7 @@ Trình chỉnh theme trực quan cho Tailwind CSS và shadcn/ui, kèm preset s�
 
 *Mô tả gốc:* Open source Claude Artifacts – built with Llama 3.1 405B
 
-`TypeScript` · **7,148** stars · 29/10/2026
+`TypeScript` · **7,148** stars · 30/10/2026
 
 ### [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
 
@@ -223,7 +223,7 @@ Giao diện quản lý dự án lấy cảm hứng Linear, xây bằng Next.js v
 
 *Mô tả gốc:* UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.
 
-`TypeScript` · **4,572** stars · 29/10/2026
+`TypeScript` · **4,570** stars · 30/10/2026
 
 `linear` `shadcn-ui` `template`
 
@@ -233,7 +233,7 @@ Thư viện component composable, accessible bổ sung cho shadcn/ui, bọc logi
 
 *Mô tả gốc:* A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 
-`TypeScript` · **3,971** stars · 29/10/2026
+`TypeScript` · **3,974** stars · 30/10/2026
 
 `accessible` `components` `composable` `react` `shadcn-ui` `typescript`
 
@@ -241,7 +241,7 @@ Thư viện component composable, accessible bổ sung cho shadcn/ui, bọc logi
 
 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 
-`Vue` · **3,579** stars · 29/10/2026
+`Vue` · **3,583** stars · 30/10/2026
 
 `ai` `gpt` `vibe-coding`
 
@@ -261,7 +261,7 @@ CLI trợ lý lập trình với DeepSeek: hội thoại terminal, hiện chain-
 
 *Mô tả gốc:* A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.
 
-`Python` · **2,227** stars · 27/10/2026
+`Python` · **2,228** stars · 30/10/2026
 
 ### [starc007/ui-components](https://github.com/starc007/ui-components)
 
@@ -269,7 +269,7 @@ Thư viện component chuyển động cho React/Next.js, copy mã nguồn vào 
 
 *Mô tả gốc:* Motion components for React.  Copy, paste, done.
 
-`TypeScript` · **1,898** stars · 29/10/2026
+`TypeScript` · **1,899** stars · 30/10/2026
 
 `framer-motion` `motion` `nextjs` `react` `react-19` `tailwindcss`
 
@@ -287,7 +287,7 @@ Công cụ mở trên trình duyệt đưa SVG phẳng thành vật thể 3D, ch
 
 ComfyUI MiniMax H3 Director workflow
 
-`—` · **1,388** stars · 29/10/2026
+`—` · **1,394** stars · 30/10/2026
 
 ### [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn)
 
@@ -303,7 +303,7 @@ Bộ component UI terminal cho React, dựng trên Ink và OpenTUI, tương thí
 
 High-performance React Native  and React components .
 
-`TypeScript` · **900** stars · 29/10/2026
+`TypeScript` · **903** stars · 30/10/2026
 
 `expo` `expo-ui` `react-native` `react-native-component` `shadcn-ui`
 
@@ -333,7 +333,7 @@ Ngôn ngữ component mới cho web app reactive, type-safe, biên dịch ra WAS
 
 *Mô tả gốc:* A type-safe, component-based language for building reactive WASM web apps.
 
-`C++` · **567** stars · 29/10/2026
+`C++` · **566** stars · 30/10/2026
 
 `coi` `coi-lang` `compiler` `deterministic-performance` `fine-grained-reactivity` `frontend`
 
@@ -351,7 +351,7 @@ Mã nguồn Drift Protocol v2 gồm SDK TypeScript, chương trình Solana và b
 
 A comprehensive 2D open-world survival game built with Typescript, React, Vite, and SpacetimeDB. Designed for developers who want to build real-time multiplayer survival games with persistent world state and rich survival mechanics.
 
-`TypeScript` · **181** stars · 29/10/2026
+`TypeScript` · **183** stars · 30/10/2026
 
 ### [reframe-oss/reframe](https://github.com/reframe-oss/reframe)
 

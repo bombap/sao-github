@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-10-29
+publishDate: 2026-10-30
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -57,7 +57,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 *Mô tả gốc:* Solana Trades API
 
-`TypeScript` · **176** stars · 29/10/2026
+`TypeScript` · **176** stars · 30/10/2026
 
 `api` `holders` `launchlab` `markets` `meteora` `pools`
 
@@ -79,7 +79,7 @@ Thư viện TypeScript parse giao dịch swap trên các DEX Solana như Jupiter
 
 两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
 
-`—` · **82** stars · 28/10/2026
+`—` · **83** stars · 30/10/2026
 
 ### [tetsuroba/uniswap-universal-decoder](https://github.com/tetsuroba/uniswap-universal-decoder)
 
