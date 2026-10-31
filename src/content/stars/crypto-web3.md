@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-10-30
+publishDate: 2026-10-31
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -21,7 +21,7 @@ Ví dụ sandwich trên cặp Uniswap V2: đọc mempool, tính lãi/gas và b�
 
 *Mô tả gốc:* A practical example on how to perform sandwich attacks on Ethereum
 
-`Solidity` · **2,205** stars · 26/10/2026
+`Solidity` · **2,206** stars · 31/10/2026
 
 ### [mouseless0x/rusty-sando](https://github.com/mouseless0x/rusty-sando)
 
