@@ -1,7 +1,7 @@
 ---
 title: "Self-host / DevOps / SaaS"
 description: "PaaS, ERP, CMS, automation, starter kit."
-publishDate: 2026-11-06
+publishDate: 2026-11-07
 language: vi
 category: "Self-host / DevOps / SaaS"
 count: 6
@@ -21,7 +21,7 @@ Danh sách chọn lọc phần mềm tự do để tự host trên server thay c
 
 *Mô tả gốc:* A list of Free Software network services and web applications which can be hosted on your own servers
 
-`—` · **334,509** stars · 06/11/2026
+`—` · **334,821** stars · 07/11/2026
 
 `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -31,7 +31,7 @@ Framework Node.js/TypeScript theo kiến trúc kiểu Angular để xây API và
 
 *Mô tả gốc:* A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 
-`TypeScript` · **76,988** stars · 06/11/2026
+`TypeScript` · **76,991** stars · 07/11/2026
 
 `framework` `hacktoberfest` `javascript` `javascript-framework` `microservices` `nest`
 
@@ -41,7 +41,7 @@ PaaS mã nguồn mở tự host, thay Heroku/Netlify/Vercel, quản lý server, 
 
 *Mô tả gốc:* An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 
-`PHP` · **65,729** stars · 06/11/2026
+`PHP` · **65,756** stars · 07/11/2026
 
 `coolify` `databases` `deployment` `docker` `docker-compose` `inertiajs`
 
@@ -51,7 +51,7 @@ Hệ ERP mã nguồn mở bao quát kế toán, đơn hàng, kho, sản xuất, 
 
 *Mô tả gốc:* Free and Open Source Enterprise Resource Planning (ERP)
 
-`Python` · **41,036** stars · 06/11/2026
+`Python` · **41,062** stars · 07/11/2026
 
 `accounting` `asset-management` `crm` `distribution` `erp` `erpnext`
 
