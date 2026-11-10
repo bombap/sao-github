@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-11-08
+publishDate: 2026-11-10
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **702** stars · 06/11/2026
+`TypeScript` · **702** stars · 09/11/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
@@ -65,7 +65,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 Mẫu hợp đồng Jetton (token chuẩn TON) viết bằng Tact, kèm lưu ý TEP-74 và luồng transfer qua ví Jetton của người gửi. Dành cho dev bắt đầu phát hành hoặc tùy biến token trên TON.
 
-`TypeScript` · **118** stars · 05/11/2026
+`TypeScript` · **117** stars · 09/11/2026
 
 ### [cxcx-ai/solana-dex-parser](https://github.com/cxcx-ai/solana-dex-parser)
 
@@ -79,7 +79,7 @@ Thư viện TypeScript parse giao dịch swap trên các DEX Solana như Jupiter
 
 两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
 
-`—` · **89** stars · 07/11/2026
+`—` · **91** stars · 10/11/2026
 
 ### [tetsuroba/uniswap-universal-decoder](https://github.com/tetsuroba/uniswap-universal-decoder)
 
