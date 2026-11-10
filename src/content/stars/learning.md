@@ -21,7 +21,7 @@ Danh sách chọn lọc plugin cộng đồng cho DeepSeek Harness (dsh), cài b
 
 *Mô tả gốc:* A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
-`JavaScript` · **24,053** stars · 10/11/2026
+`JavaScript` · **24,195** stars · 10/11/2026
 
 `awesome` `awesome-list` `deepseek-harness` `dsh` `dsh-plugin`
 
@@ -31,7 +31,7 @@ Bộ checklist 300+ mẹo bảo vệ đời sống số, kèm site lọc theo th
 
 *Mô tả gốc:* 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 
-`TypeScript` · **22,737** stars · 09/11/2026
+`TypeScript` · **22,755** stars · 10/11/2026
 
 `awesome` `awesome-list` `censorship` `checklist` `cybersecurity` `defense`
 

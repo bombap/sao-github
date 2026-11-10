@@ -29,7 +29,7 @@ Bot MEV sandwich viết bằng Rust/Huff, mô phỏng và gửi sandwich Uniswap
 
 *Mô tả gốc:* Implementation of a competitive v2/v3 multi-meat MEV sandwich bot written using Rust and Huff.
 
-`Rust` · **867** stars · 09/10/2026 · **đã archive**
+`Rust` · **868** stars · 10/11/2026 · **đã archive**
 
 `evm` `huff` `mev` `rust` `sandwich`
 
@@ -39,7 +39,7 @@ SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) �
 
 *Mô tả gốc:* Solana JavaScript SDK
 
-`TypeScript` · **702** stars · 09/11/2026
+`TypeScript` · **703** stars · 10/11/2026
 
 `blockchain` `sdk-js` `solana` `web3`
 
@@ -49,7 +49,7 @@ Triển khai cặp token ERC20–ERC721 liên kết (theo hướng ERC-7631): ch
 
 *Mô tả gốc:* Implementation of a co-joined ERC20 and ERC721 pair.
 
-`Solidity` · **556** stars · 06/11/2026
+`Solidity` · **557** stars · 10/11/2026
 
 ### [vybenetwork/solana-trades-api](https://github.com/vybenetwork/solana-trades-api)
 
@@ -79,7 +79,7 @@ Thư viện TypeScript parse giao dịch swap trên các DEX Solana như Jupiter
 
 两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
 
-`—` · **91** stars · 10/11/2026
+`—` · **92** stars · 10/11/2026
 
 ### [tetsuroba/uniswap-universal-decoder](https://github.com/tetsuroba/uniswap-universal-decoder)
 

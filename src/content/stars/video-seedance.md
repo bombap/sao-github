@@ -21,7 +21,7 @@ Công cụ một cửa sinh short video HD từ chủ đề hoặc từ khóa: t
 
 *Mô tả gốc:* 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
-`Python` · **141,638** stars · 10/11/2026
+`Python` · **141,975** stars · 10/11/2026
 
 `ai-video-generator` `content-creation` `ffmpeg` `instagram-reels` `llm` `python`
 
@@ -29,7 +29,7 @@ Công cụ một cửa sinh short video HD từ chủ đề hoặc từ khóa: t
 
 World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
-`Python` · **79,139** stars · 10/11/2026
+`Python` · **79,421** stars · 10/11/2026
 
 `agent` `agentic-ai` `ai` `claude` `copilot` `cursor`
 
@@ -39,7 +39,7 @@ Skill agent tìm kiếm song song Reddit, X, YouTube, HN, Polymarket… rồi ch
 
 *Mô tả gốc:* AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-`Python` · **67,136** stars · 10/11/2026
+`Python` · **67,239** stars · 10/11/2026
 
 `ai-prompts` `ai-skill` `bluesky` `claude` `claude-code` `clawhub`
 
@@ -47,7 +47,7 @@ Skill agent tìm kiếm song song Reddit, X, YouTube, HN, Polymarket… rồi ch
 
 best way to save what you love
 
-`Svelte` · **45,949** stars · 10/11/2026
+`Svelte` · **45,964** stars · 10/11/2026
 
 `collaboration` `downloader` `instagram` `javascript` `music` `reddit`
 
@@ -57,7 +57,7 @@ Công cụ Python tự động làm short video từ một chủ đề: viết l
 
 *Mô tả gốc:* 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 
-`Python` · **29,932** stars · 10/11/2026
+`Python` · **29,956** stars · 10/11/2026
 
 `aigc` `comfyui` `image-generation` `tts` `video-generation`
 
@@ -65,7 +65,7 @@ Công cụ Python tự động làm short video từ một chủ đề: viết l
 
 Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 
-`TypeScript` · **28,813** stars · 10/11/2026
+`TypeScript` · **29,086** stars · 10/11/2026
 
 `agentic-ai` `ai` `ai-agents` `ai-video` `compiler` `dsl`
 
@@ -75,7 +75,7 @@ Bàn làm việc AI làm short drama trọn chuỗi: kịch bản, nhân vật, 
 
 *Mô tả gốc:* 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted and extensible, with a canvas-based approach similar to LibTV and TapNow.
 
-`TypeScript` · **21,259** stars · 10/11/2026
+`TypeScript` · **21,370** stars · 10/11/2026
 
 `ai-agents` `ai-comic` `ai-content-creation` `ai-filmmaking` `ai-short-drama` `generative-ai`
 
@@ -85,7 +85,7 @@ Nền tảng full-stack tự động hóa short drama từ kịch bản, thiết
 
 *Mô tả gốc:* 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 
-`TypeScript` · **17,184** stars · 10/11/2026
+`TypeScript` · **17,220** stars · 10/11/2026
 
 ### [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo)
 
@@ -93,7 +93,7 @@ Nền tảng studio AI làm short drama/manga video: phân tích tiểu thuyết
 
 *Mô tả gốc:* 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
-`TypeScript` · **14,820** stars · 09/11/2026
+`TypeScript` · **14,828** stars · 10/11/2026
 
 `ai-agent` `ai-agents` `automation` `film-production` `generative-ai` `short-drama`
 
@@ -101,7 +101,7 @@ Nền tảng studio AI làm short drama/manga video: phân tích tiểu thuyết
 
 macOS video editor built for AI
 
-`Swift` · **14,714** stars · 10/11/2026
+`Swift` · **14,727** stars · 10/11/2026
 
 `ai-video` `claude` `macos` `mcp` `seedance2` `swift`
 
@@ -109,7 +109,7 @@ macOS video editor built for AI
 
 Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 
-`TypeScript` · **11,089** stars · 10/11/2026
+`TypeScript` · **11,108** stars · 10/11/2026
 
 `ai` `ai-agent` `ai-game` `ai-writing` `chinese-novel` `creative-writing-ai`
 
@@ -119,25 +119,15 @@ Pipeline/agent làm phim với Seedance 2.0: đọc cảnh (ý đồ, POV, block
 
 *Mô tả gốc:* Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 
-`Python` · **8,109** stars · 09/11/2026
+`Python` · **8,132** stars · 10/11/2026
 
 ### [yi1108/printfilm](https://github.com/yi1108/printfilm)
 
 PRINTFILM: AI short-video marketing and AI short-drama creation platform
 
-`Python` · **7,395** stars · 10/11/2026
+`Python` · **7,407** stars · 10/11/2026
 
 `ai` `ai-video` `short-drama` `short-video`
-
-### [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel)
-
-Bàn làm việc AI video tự host, biến tiểu thuyết, kịch bản hoặc素材 hàng hóa thành short video nhất quán nhân vật, có kiểm soát từng bước và theo dõi chi phí. Dùng cho AI manhua/đoản kịch, video thuyết minh và quảng cáo khi muốn pipeline có thể duyệt, làm lại và xuất sang Jianying.
-
-*Mô tả gốc:* AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
-
-`Python` · **6,369** stars · 10/11/2026
-
-`agentic-workflow` `ai-agent` `ai-animation` `ai-video-generator` `capcut` `claude-agent-sdk`
 
 ### [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)
 
@@ -145,7 +135,17 @@ Bộ skill cho agent AI (Claude Code, Codex) biến tiểu thuyết thành nguy�
 
 *Mô tả gốc:* AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
 
-`JavaScript` · **6,341** stars · 10/11/2026
+`JavaScript` · **6,424** stars · 10/11/2026
+
+### [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel)
+
+Bàn làm việc AI video tự host, biến tiểu thuyết, kịch bản hoặc素材 hàng hóa thành short video nhất quán nhân vật, có kiểm soát từng bước và theo dõi chi phí. Dùng cho AI manhua/đoản kịch, video thuyết minh và quảng cáo khi muốn pipeline có thể duyệt, làm lại và xuất sang Jianying.
+
+*Mô tả gốc:* AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
+
+`Python` · **6,405** stars · 10/11/2026
+
+`agentic-workflow` `ai-agent` `ai-animation` `ai-video-generator` `capcut` `claude-agent-sdk`
 
 ### [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory)
 
@@ -153,7 +153,7 @@ Bộ skill cho agent AI (Claude Code, Codex) biến tiểu thuyết thành nguy�
 
 *Mô tả gốc:* 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 
-`TypeScript` · **6,095** stars · 10/11/2026
+`TypeScript` · **6,114** stars · 10/11/2026
 
 `ai` `automatic` `automation` `clipping` `cross-platform` `desktop`
 
@@ -161,7 +161,7 @@ Bộ skill cho agent AI (Claude Code, Codex) biến tiểu thuyết thành nguy�
 
 Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。
 
-`TypeScript` · **5,823** stars · 09/11/2026
+`TypeScript` · **5,829** stars · 10/11/2026
 
 `ai-dubbing` `ai-video-translation` `bilibili` `demucs` `fastapi` `ffmpeg`
 
@@ -169,7 +169,7 @@ Open-source AI video localization and dubbing for YouTube/Bilibili: speech recog
 
 Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.
 
-`JavaScript` · **5,280** stars · 10/11/2026
+`JavaScript` · **5,450** stars · 10/11/2026
 
 `agent-skills-manager` `ai-animation-generator` `ai-video-production` `automated-video` `codex-skills` `content-creation`
 
@@ -177,7 +177,7 @@ Turn any script into viral, multi-style animated stickman videos for Faceless Yo
 
 AI 短剧与漫剧制作 skill 合集：小说改剧本、角色设定三视图、分镜脚本、生图/生视频提示词与成片审片，适配 Claude Code / Codex 等 ｜ Open-source agent skills for AI short dramas & motion comics
 
-`Python` · **4,009** stars · 10/11/2026
+`Python` · **4,062** stars · 10/11/2026
 
 `agent-skills` `ai-short-drama` `ai-video` `aigc` `claude-code` `claude-code-skills`
 
@@ -185,7 +185,7 @@ AI 短剧与漫剧制作 skill 合集：小说改剧本、角色设定三视图�
 
 Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.
 
-`TypeScript` · **3,021** stars · 09/11/2026
+`TypeScript` · **3,045** stars · 10/11/2026
 
 `agent-skills` `agentic-ai` `ai-agent` `ai-video-editor` `capcut` `chatcut`
 
@@ -195,7 +195,7 @@ Skill Claude Code biến ý tưởng thành prompt tiếng Trung có cấu trúc
 
 *Mô tả gốc:* Seedance 2.0 prompt skill，使用该Skill生成Seedance 2.0 视频提示词
 
-`—` · **2,993** stars · 09/11/2026
+`—` · **2,995** stars · 10/11/2026
 
 ### [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)
 
@@ -203,7 +203,7 @@ Skill giúp agent thiết kế chuyển động, sinh chuỗi khung hình rồi 
 
 *Mô tả gốc:* Web animation skill for Claude Code & Codex. 帮你做跟着滚动和鼠标动的网页动画。
 
-`Python` · **2,856** stars · 10/11/2026
+`Python` · **2,867** stars · 10/11/2026
 
 `agent-skill` `agent-skills` `ai-video` `animation` `claude-code` `claude-skills`
 
@@ -213,7 +213,7 @@ Quy trình làm video AI từ tiểu thuyết/câu chuyện sang kịch bản b�
 
 *Mô tả gốc:* 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧
 
-`—` · **2,817** stars · 10/11/2026
+`—` · **2,825** stars · 10/11/2026
 
 `agent` `skill` `skills`
 
@@ -221,7 +221,7 @@ Quy trình làm video AI từ tiểu thuyết/câu chuyện sang kịch bản b�
 
 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 840+ cases traced to original posts, 490+ cross-model retest runs, 27 copy-ready templates, 79 installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.
 
-`JavaScript` · **2,494** stars · 09/11/2026
+`JavaScript` · **2,503** stars · 10/11/2026
 
 `agent-skill` `ai-video` `ai-video-generation` `awesome` `awesome-list` `bytedance`
 
@@ -229,7 +229,7 @@ Quy trình làm video AI từ tiểu thuyết/câu chuyện sang kịch bản b�
 
 BigBanana AI Director是一个工业级一站式  AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
 
-`—` · **2,434** stars · 09/11/2026
+`—` · **2,439** stars · 10/11/2026
 
 `ai-comic-drama` `ai-short-drama` `ai-video`
 
@@ -239,7 +239,7 @@ Biến truyện chữ Trung hoặc dãy ảnh vẽ tay thành clip hoạt hình 
 
 *Mô tả gốc:* Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
 
-`HTML` · **2,399** stars · 09/11/2026
+`HTML` · **2,400** stars · 10/11/2026
 
 ### [xhongc/ai_story](https://github.com/xhongc/ai_story)
 
@@ -247,7 +247,7 @@ Nền tảng tự động hóa video kể chuyện: từ chủ đề sang kịch
 
 *Mô tả gốc:* AI视频, AI动漫,AI 短剧,AI漫剧自动化生成工具
 
-`Python` · **2,024** stars · 09/11/2026
+`Python` · **2,030** stars · 10/11/2026
 
 `ai` `ai-short-drama` `ai-video-generator`
 
@@ -255,7 +255,7 @@ Nền tảng tự động hóa video kể chuyện: từ chủ đề sang kịch
 
 Professional agent skills for screenwriting, television writing and dramaturgy
 
-`Python` · **2,011** stars · 10/11/2026
+`Python` · **2,023** stars · 10/11/2026
 
 `ai` `skills`
 
@@ -271,7 +271,7 @@ Công cụ lấy video Bilibili/Xiaohongshu, đánh dấu khung hình rồi nh�
 
 Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
 
-`JavaScript` · **1,639** stars · 10/11/2026
+`JavaScript` · **1,716** stars · 10/11/2026
 
 `3d` `3d-animation` `ai` `ai-video` `animation` `blender`
 
@@ -279,7 +279,7 @@ Open source previs software in the browser: block a scene, pose characters, auth
 
 Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
 
-`JavaScript` · **1,208** stars · 09/11/2026
+`JavaScript` · **1,210** stars · 10/11/2026
 
 `ai-video` `claude-skills` `ffmpeg` `shot-analysis` `video-analysis`
 
@@ -289,7 +289,7 @@ Trình dựng video AI chạy trên trình duyệt, ưu tiên xử lý cục b�
 
 *Mô tả gốc:* Open-source, local-first video editor where creators and AI agents edit the same real timeline.
 
-`JavaScript` · **958** stars · 10/11/2026
+`JavaScript` · **963** stars · 10/11/2026
 
 `agent-skills` `ai-music` `ai-video-editor` `ai-voiceover` `automatic-captions` `browser-ai`
 
@@ -307,7 +307,7 @@ Skill đạo diễn video cho Dreamina/即梦 Seedance 2.5: biến ý tưởng, 
 
 *Mô tả gốc:* Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导
 
-`Python` · **781** stars · 10/11/2026
+`Python` · **787** stars · 10/11/2026
 
 `ai-video` `codex-skill` `dreamina` `seedance` `video-prompt`
 
@@ -317,7 +317,7 @@ Trình dựng video NLE chạy trong trình duyệt, render WebGPU qua Rust/WASM
 
 *Mô tả gốc:* Professional video editing, right in your browser. Made with Rust, WebGPU, WASM, and Tanstack Start.
 
-`TypeScript` · **716** stars · 09/11/2026
+`TypeScript` · **717** stars · 10/11/2026
 
 ### [yanhua1010/self-media-content-workflow](https://github.com/yanhua1010/self-media-content-workflow)
 
@@ -325,7 +325,7 @@ Bộ skill agent mô-đun cho quy trình làm nội dung tự truyền thông: b
 
 *Mô tả gốc:* Modular, tool-agnostic agent skills for social media content: briefs, trend research, platform-native copy for Xiaohongshu, WeChat, X and YouTube, short video, publishing, and analytics.
 
-`JavaScript` · **655** stars · 09/11/2026
+`JavaScript` · **655** stars · 10/11/2026
 
 `agent-skills` `ai-agents` `claude-code` `claude-skills` `content-creation` `copywriting`
 
@@ -343,7 +343,7 @@ Workflow mã nguồn mở dùng ngôn ngữ tự nhiên với Codex để làm v
 
 *Mô tả gốc:* A natural-language workflow for creating atmospheric short book videos with AI-generated visuals, HyperFrames, GSAP animation, voiceover timing, subtitles, and BGM.
 
-`JavaScript` · **381** stars · 09/11/2026
+`JavaScript` · **382** stars · 10/11/2026
 
 ### [Ethanxwang/tvc-director](https://github.com/Ethanxwang/tvc-director)
 
@@ -351,13 +351,13 @@ Skill biến AI thành đạo diễn sáng tạo TVC: từ brief sản phẩm ra
 
 *Mô tả gốc:* TVC Advertising Creative Director — from product brief to Nano Banana Pro keyframe prompts and Seedance video scripts
 
-`—` · **357** stars · 09/11/2026
+`—` · **359** stars · 10/11/2026
 
 ### [GuiYi-Xi/monoform-previs-studio](https://github.com/GuiYi-Xi/monoform-previs-studio)
 
 Browser-based 3D previs workspace for storyboarding, camera blocking, character posing and keyframes
 
-`JavaScript` · **135** stars · 09/11/2026
+`JavaScript` · **136** stars · 10/11/2026
 
 `animation` `previsualization` `react` `storyboard` `threejs` `webgl`
 
@@ -367,7 +367,7 @@ Sàn nhảy 3D realtime cho TikTok LIVE: gift, chat, like, follow đưa viewer l
 
 *Mô tả gốc:* Biến phiên TikTok LIVE thành sàn nhảy 3D tương tác — Người xem gửi gift, chat, like, follow sẽ xuất hiện trên sàn nhảy với avatar TikTok thật, hiệu ứng ánh sáng, DJ booth và pháo hoa.
 
-`C#` · **126** stars · 09/11/2026
+`C#` · **127** stars · 10/11/2026
 
 ### [dav-niu474/huobao-drama-ai](https://github.com/dav-niu474/huobao-drama-ai)
 
@@ -375,7 +375,7 @@ Workbench Next.js làm short drama AI từ kịch bản đến thành phẩm: pa
 
 *Mô tả gốc:* 🎬 AI短剧创作平台 — 从剧本到成片，一站式AI短剧制作工作台。支持70+大模型(GLM5.1/DeepSeek V4/Qwen3.5等)、图片生成、视频生成(Seedance 2.0)、AI配音，多供应商配置，Next.js 16全栈构建
 
-`TypeScript` · **109** stars · 09/11/2026
+`TypeScript` · **109** stars · 10/11/2026
 
 `ai-creative` `ai-drama` `ai-image-generation` `ai-video-generation` `deepseek` `glm5`
 
@@ -385,7 +385,7 @@ Nền tảng open-source tạo overlay game HTML5 cho TikTok Live, gift điều 
 
 *Mô tả gốc:* An open-source platform that creates interactive game for TikTok Live streams. Viewers can play games by typing commands in chat!
 
-`JavaScript` · **75** stars · 09/11/2026
+`JavaScript` · **76** stars · 10/11/2026
 
 `nodejs` `socket-io` `tiktok-live-streams`
 
