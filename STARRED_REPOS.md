@@ -9,7 +9,7 @@ language: vi
 
 Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI đọc README của từng repo.
 
-*Cập nhật: 2026-11-14T00:15:28Z*  
+*Cập nhật: 2026-11-14T22:54:14Z*  
 *374 repository · 11 nhóm · 299 đã có tóm tắt AI*
 
 | Nhóm | File Markdown | Số repo | Nội dung |
