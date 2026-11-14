@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-11-13
+publishDate: 2026-11-14
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -49,7 +49,7 @@ Triển khai cặp token ERC20–ERC721 liên kết (theo hướng ERC-7631): ch
 
 *Mô tả gốc:* Implementation of a co-joined ERC20 and ERC721 pair.
 
-`Solidity` · **558** stars · 12/11/2026
+`Solidity` · **559** stars · 13/11/2026
 
 ### [vybenetwork/solana-trades-api](https://github.com/vybenetwork/solana-trades-api)
 
@@ -57,7 +57,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 *Mô tả gốc:* Solana Trades API
 
-`TypeScript` · **176** stars · 07/11/2026
+`TypeScript` · **176** stars · 13/11/2026
 
 `api` `holders` `launchlab` `markets` `meteora` `pools`
 
@@ -79,7 +79,7 @@ Thư viện TypeScript parse giao dịch swap trên các DEX Solana như Jupiter
 
 两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
 
-`—` · **93** stars · 12/11/2026
+`—` · **95** stars · 13/11/2026
 
 ### [tetsuroba/uniswap-universal-decoder](https://github.com/tetsuroba/uniswap-universal-decoder)
 
@@ -87,7 +87,7 @@ Giải mã hàm execute của Uniswap Universal Router về các lệnh swap V2/
 
 *Mô tả gốc:* Decode some of the most commonly used V2 and V3 swaps from the Uniswap Universal Execute function
 
-`JavaScript` · **41** stars · 02/09/2026
+`JavaScript` · **40** stars · 13/11/2026
 
 ### [dennohpeter/sandwicher](https://github.com/dennohpeter/sandwicher)
 

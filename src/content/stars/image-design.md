@@ -1,7 +1,7 @@
 ---
 title: "Ảnh / Design / Motion"
 description: "Tạo ảnh, poster editorial, motion, design system."
-publishDate: 2026-11-13
+publishDate: 2026-11-14
 language: vi
 category: "Ảnh / Design / Motion"
 count: 18
@@ -21,7 +21,7 @@ Bảng trắng ảo kiểu vẽ tay, mã mở, hỗ trợ cộng tác realtime v
 
 *Mô tả gốc:* Virtual whiteboard for sketching hand-drawn like diagrams
 
-`TypeScript` · **135,590** stars · 12/11/2026
+`TypeScript` · **135,641** stars · 13/11/2026
 
 `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest` `productivity`
 
@@ -29,7 +29,7 @@ Bảng trắng ảo kiểu vẽ tay, mã mở, hỗ trợ cộng tác realtime v
 
 Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 
-`TypeScript` · **51,395** stars · 12/11/2026
+`TypeScript` · **51,411** stars · 13/11/2026
 
 `canvas` `collaboration` `design` `diagram` `drawing` `infinite`
 
@@ -39,7 +39,7 @@ Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email,
 
 *Mô tả gốc:* Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
-`Ruby` · **39,736** stars · 12/11/2026
+`Ruby` · **39,818** stars · 14/11/2026
 
 `actioncable` `chat-widget` `conversation` `customer-support` `dashboard` `design`
 
@@ -49,7 +49,7 @@ Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email,
 
 *Mô tả gốc:* Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 
-`TypeScript` · **36,912** stars · 12/11/2026
+`TypeScript` · **36,932** stars · 13/11/2026
 
 `ai` `architecture-diagram` `claude-code` `deepseek-harness` `diagram-generator` `diagrams`
 
@@ -59,7 +59,7 @@ Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email,
 
 *Mô tả gốc:* 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image🏞️
 
-`Python` · **15,995** stars · 12/11/2026
+`Python` · **15,998** stars · 13/11/2026
 
 `ai-ppt-maker` `ai-slide-builder` `ai-slides` `editable-pptx` `llm` `nanobananapro`
 
@@ -69,7 +69,7 @@ Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email,
 
 *Mô tả gốc:* Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 
-`TypeScript` · **10,707** stars · 12/11/2026
+`TypeScript` · **10,719** stars · 13/11/2026
 
 `alternative` `converter` `data-manipulation` `developer-tools` `devtools` `frontend`
 
@@ -79,7 +79,7 @@ Catalog mã nguồn mở các component UI tương tác (ThreeUI Community), xem
 
 *Mô tả gốc:* Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 
-`HTML` · **7,253** stars · 12/11/2026
+`HTML` · **7,273** stars · 13/11/2026
 
 `react` `shaders` `threejs` `ui-components` `webgl`
 
@@ -87,7 +87,7 @@ Catalog mã nguồn mở các component UI tương tác (ThreeUI Community), xem
 
 Skill Codex biến một tấm ảnh thành layout dọc: giữ vùng ảnh gốc, thêm panel trừu tượng suy ra từ bố cục/màu, kèm tiêu đề tiếng Anh. Phù hợp làm tác phẩm biên tập cá nhân hoặc học tập, không phải filter hay vẽ lại ảnh.
 
-`—` · **6,118** stars · 12/11/2026
+`—` · **6,125** stars · 13/11/2026
 
 ### [501351981/vue-office](https://github.com/501351981/vue-office)
 
@@ -121,7 +121,7 @@ Studio workflow GenAI đa phương thức mã nguồn mở: nối chữ, ảnh, 
 
 *Mô tả gốc:* Agent-Human-Friendly, Modality-First, Enterprise-Level GenAI Workflow Platform
 
-`TypeScript` · **1,047** stars · 12/11/2026
+`TypeScript` · **1,048** stars · 13/11/2026
 
 `3d` `agent` `ai` `ai-tools` `aigc` `canvas`
 
@@ -129,7 +129,7 @@ Studio workflow GenAI đa phương thức mã nguồn mở: nối chữ, ảnh, 
 
 [NovaNova Studio] 一个 Agent 驱动的集 AI图片生成、AI视频生成、无限画布、自定义模型 API 、AI漫剧、AI短剧、小说解析剧本、小说转短剧、3D导演台、用户管理、积分管理于一体的全流程开源平台
 
-`Java` · **722** stars · 12/11/2026
+`Java` · **745** stars · 13/11/2026
 
 `agent` `agentscope-java` `image-generation-ai` `infinite-canvas` `open-source` `springboot`
 
@@ -137,7 +137,7 @@ Studio workflow GenAI đa phương thức mã nguồn mở: nối chữ, ảnh, 
 
 自托管的 AI 视频/图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，UI设计模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局
 
-`TypeScript` · **498** stars · 12/11/2026
+`TypeScript` · **504** stars · 13/11/2026
 
 `banana` `gpt-image` `gpt-image-2` `image-editing` `image-generation` `nano-banana`
 
