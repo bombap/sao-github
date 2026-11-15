@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-11-14
+publishDate: 2026-11-15
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
