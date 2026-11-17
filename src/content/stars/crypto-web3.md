@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-11-15
+publishDate: 2026-11-17
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -57,7 +57,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 *Mô tả gốc:* Solana Trades API
 
-`TypeScript` · **176** stars · 13/11/2026
+`TypeScript` · **177** stars · 16/11/2026
 
 `api` `holders` `launchlab` `markets` `meteora` `pools`
 
