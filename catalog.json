@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:31:42Z",
+  "updatedAt": "2026-11-19T01:01:27Z",
   "username": "bombap",
   "total": 375,
   "summarized": 299,
@@ -18,7 +18,7 @@
           "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
           "summaryVi": "Công cụ một cửa sinh short video HD từ chủ đề hoặc từ khóa: tự viết script, ghép素材, phụ đề và nhạc nền. Phù hợp làm nhanh video ngắn hàng loạt qua WebUI/API mà không dựng pipeline thủ công.",
           "language": "Python",
-          "stars": 144227,
+          "stars": 144501,
           "topics": [
             "ai-video-generator",
             "content-creation",
@@ -35,7 +35,7 @@
             "workflow-automation",
             "youtube-shorts"
           ],
-          "updatedAt": "2026-11-18T01:31:08Z",
+          "updatedAt": "2026-11-19T01:01:22Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -47,7 +47,7 @@
           "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
           "summaryVi": "",
           "language": "Python",
-          "stars": 81361,
+          "stars": 81573,
           "topics": [
             "agent",
             "agentic-ai",
@@ -69,7 +69,7 @@
             "video-generation",
             "video-production"
           ],
-          "updatedAt": "2026-11-18T01:21:03Z",
+          "updatedAt": "2026-11-19T01:01:01Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -81,7 +81,7 @@
           "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "summaryVi": "Skill agent tìm kiếm song song Reddit, X, YouTube, HN, Polymarket… rồi chấm theo tương tác thật và tóm tắt thành brief. Dùng khi cần nghiên cứu chủ đề theo tín hiệu cộng đồng thay vì kết quả biên tập của Google.",
           "language": "Python",
-          "stars": 69097,
+          "stars": 70013,
           "topics": [
             "ai-prompts",
             "ai-skill",
@@ -104,7 +104,7 @@
             "web-search",
             "youtube"
           ],
-          "updatedAt": "2026-11-18T01:31:17Z",
+          "updatedAt": "2026-11-19T01:01:01Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -116,7 +116,7 @@
           "description": "best way to save what you love",
           "summaryVi": "",
           "language": "Svelte",
-          "stars": 46290,
+          "stars": 46307,
           "topics": [
             "collaboration",
             "downloader",
@@ -137,7 +137,7 @@
             "youtube",
             "youtube-downloader"
           ],
-          "updatedAt": "2026-11-18T00:07:29Z",
+          "updatedAt": "2026-11-19T00:49:44Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -149,7 +149,7 @@
           "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 30451,
+          "stars": 30610,
           "topics": [
             "agentic-ai",
             "ai",
@@ -172,7 +172,7 @@
             "video-editing",
             "video-generation"
           ],
-          "updatedAt": "2026-11-18T01:27:38Z",
+          "updatedAt": "2026-11-19T00:25:45Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -184,7 +184,7 @@
           "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
           "summaryVi": "Công cụ Python tự động làm short video từ một chủ đề: viết lời, tạo ảnh/clip, lồng tiếng, nhạc nền rồi ghép thành phẩm. Dùng khi muốn ra video nhanh qua WebUI mà không cần kinh nghiệm dựng phim.",
           "language": "Python",
-          "stars": 30184,
+          "stars": 30223,
           "topics": [
             "aigc",
             "comfyui",
@@ -192,7 +192,7 @@
             "tts",
             "video-generation"
           ],
-          "updatedAt": "2026-11-18T00:44:48Z",
+          "updatedAt": "2026-11-19T00:44:37Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -204,7 +204,7 @@
           "description": "短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted and extensible, with a canvas-based approach similar to LibTV and TapNow.",
           "summaryVi": "Bàn làm việc AI làm short drama trọn chuỗi: kịch bản, nhân vật, phân cảnh đến video trên canvas vô hạn, có agent cộng tác. Dùng cho sáng tạo phim ngắn, chuyển thể nhanh hoặc prototype kịch bản.",
           "language": "TypeScript",
-          "stars": 22108,
+          "stars": 22203,
           "topics": [
             "ai-agents",
             "ai-comic",
@@ -227,7 +227,7 @@
             "video-generation",
             "workflow-automation"
           ],
-          "updatedAt": "2026-11-18T01:00:00Z",
+          "updatedAt": "2026-11-19T00:45:07Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -239,9 +239,9 @@
           "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
           "summaryVi": "Nền tảng full-stack tự động hóa short drama từ kịch bản, thiết kế nhân vật, phân cảnh đến ghép video và phụ đề. Dùng khi cần một workflow AI khép kín, có agent tách vai trò và hỗ trợ nhiều vendor text/ảnh/video.",
           "language": "TypeScript",
-          "stars": 17657,
+          "stars": 17702,
           "topics": [],
-          "updatedAt": "2026-11-18T01:08:50Z",
+          "updatedAt": "2026-11-19T00:55:39Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -253,7 +253,7 @@
           "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
           "summaryVi": "Nền tảng studio AI làm short drama/manga video: phân tích tiểu thuyết, sinh nhân vật–cảnh–phân cảnh, lồng tiếng rồi ghép thành phim. Hợp khi muốn dựng thử nghiệm end-to-end bằng Docker và tự cấu hình API các nhà cung cấp AI.",
           "language": "TypeScript",
-          "stars": 14866,
+          "stars": 14876,
           "topics": [
             "ai-agent",
             "ai-agents",
@@ -264,7 +264,7 @@
             "storyboard",
             "video-generation"
           ],
-          "updatedAt": "2026-11-17T16:38:56Z",
+          "updatedAt": "2026-11-18T14:06:33Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -276,7 +276,7 @@
           "description": "macOS video editor built for AI",
           "summaryVi": "",
           "language": "Swift",
-          "stars": 14776,
+          "stars": 14783,
           "topics": [
             "ai-video",
             "claude",
@@ -286,7 +286,7 @@
             "swift",
             "video-editor"
           ],
-          "updatedAt": "2026-11-18T01:02:02Z",
+          "updatedAt": "2026-11-18T21:41:27Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -298,7 +298,7 @@
           "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 11291,
+          "stars": 11310,
           "topics": [
             "ai",
             "ai-agent",
@@ -312,7 +312,7 @@
             "short-drama",
             "storyboard"
           ],
-          "updatedAt": "2026-11-18T01:27:19Z",
+          "updatedAt": "2026-11-19T00:41:05Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -324,9 +324,9 @@
           "description": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
           "summaryVi": "Pipeline/agent làm phim với Seedance 2.0: đọc cảnh (ý đồ, POV, blocking, ánh sáng, âm thanh) trước khi viết prompt, hỗ trợ text/ảnh/video và nhiều nền tảng. Phù hợp sản xuất narrative chuyên nghiệp thay vì chỉ chồng tính từ “cinematic”.",
           "language": "Python",
-          "stars": 8220,
+          "stars": 8225,
           "topics": [],
-          "updatedAt": "2026-11-18T00:20:34Z",
+          "updatedAt": "2026-11-18T17:09:58Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -338,14 +338,14 @@
           "description": "PRINTFILM: AI short-video marketing and AI short-drama creation platform",
           "summaryVi": "",
           "language": "Python",
-          "stars": 7471,
+          "stars": 7478,
           "topics": [
             "ai",
             "ai-video",
             "short-drama",
             "short-video"
           ],
-          "updatedAt": "2026-11-17T15:49:17Z",
+          "updatedAt": "2026-11-18T21:18:26Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -357,7 +357,7 @@
           "description": "Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 6783,
+          "stars": 6946,
           "topics": [
             "agent-skills-manager",
             "ai-animation-generator",
@@ -379,7 +379,7 @@
             "video-generation",
             "youtube-automation"
           ],
-          "updatedAt": "2026-11-18T01:26:52Z",
+          "updatedAt": "2026-11-19T00:45:14Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -391,9 +391,9 @@
           "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
           "summaryVi": "Bộ skill cho agent AI (Claude Code, Codex) biến tiểu thuyết thành nguyên liệu làm short drama:大纲, nhân vật, mỹ thuật, kịch bản và phân cảnh có cổng kiểm chất lượng. Dùng khi cần pipeline sản xuất AI short drama từ chữ sang gói sẵn sàng đưa vào công cụ sinh.",
           "language": "JavaScript",
-          "stars": 6773,
+          "stars": 6817,
           "topics": [],
-          "updatedAt": "2026-11-18T01:30:35Z",
+          "updatedAt": "2026-11-19T00:00:53Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -405,7 +405,7 @@
           "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
           "summaryVi": "Bàn làm việc AI video tự host, biến tiểu thuyết, kịch bản hoặc素材 hàng hóa thành short video nhất quán nhân vật, có kiểm soát từng bước và theo dõi chi phí. Dùng cho AI manhua/đoản kịch, video thuyết minh và quảng cáo khi muốn pipeline có thể duyệt, làm lại và xuất sang Jianying.",
           "language": "Python",
-          "stars": 6626,
+          "stars": 6636,
           "topics": [
             "agentic-workflow",
             "ai-agent",
@@ -428,7 +428,7 @@
             "text-to-video",
             "video-generation"
           ],
-          "updatedAt": "2026-11-18T00:54:00Z",
+          "updatedAt": "2026-11-18T20:25:54Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -440,7 +440,7 @@
           "description": "一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool",
           "summaryVi": "Ứng dụng desktop đa nền tảng để một-cách/batch cắt short video marketing và nội dung chung bằng AI (copy, TTS, phụ đề, ghép clip). Dùng khi có prompt và footage sẵn, muốn chạy local, xuất hàng loạt mà không phụ thuộc web SaaS.",
           "language": "TypeScript",
-          "stars": 6184,
+          "stars": 6198,
           "topics": [
             "ai",
             "automatic",
@@ -457,7 +457,7 @@
             "tiktok",
             "windows"
           ],
-          "updatedAt": "2026-11-18T01:20:14Z",
+          "updatedAt": "2026-11-19T00:10:46Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -469,7 +469,7 @@
           "description": "Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 5866,
+          "stars": 5869,
           "topics": [
             "ai-dubbing",
             "ai-video-translation",
@@ -492,7 +492,7 @@
             "youtube",
             "youtube-translator"
           ],
-          "updatedAt": "2026-11-18T00:37:54Z",
+          "updatedAt": "2026-11-18T16:07:40Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -504,7 +504,7 @@
           "description": "AI 短剧与漫剧制作 skill 合集：小说改剧本、角色设定三视图、分镜脚本、生图/生视频提示词与成片审片，适配 Claude Code / Codex 等 ｜ Open-source agent skills for AI short dramas & motion comics",
           "summaryVi": "",
           "language": "Python",
-          "stars": 4406,
+          "stars": 4467,
           "topics": [
             "agent-skills",
             "ai-short-drama",
@@ -525,7 +525,7 @@
             "video-prompts",
             "zenstory"
           ],
-          "updatedAt": "2026-11-18T01:13:18Z",
+          "updatedAt": "2026-11-19T00:35:25Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -537,7 +537,7 @@
           "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 3180,
+          "stars": 3202,
           "topics": [
             "agent-skills",
             "agentic-ai",
@@ -560,7 +560,7 @@
             "video-editing",
             "video-editor"
           ],
-          "updatedAt": "2026-11-18T01:11:12Z",
+          "updatedAt": "2026-11-18T23:59:05Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -572,9 +572,9 @@
           "description": "Seedance 2.0 prompt skill，使用该Skill生成Seedance 2.0 视频提示词",
           "summaryVi": "Skill Claude Code biến ý tưởng thành prompt tiếng Trung có cấu trúc cho Seedance 2.0 (即梦). Dùng khi muốn viết prompt video AI chuyên nghiệp để dán thẳng lên nền tảng tạo video.",
           "language": "",
-          "stars": 3012,
+          "stars": 3014,
           "topics": [],
-          "updatedAt": "2026-11-17T11:54:35Z",
+          "updatedAt": "2026-11-18T14:40:12Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -586,7 +586,7 @@
           "description": "Web animation skill for Claude Code & Codex. 帮你做跟着滚动和鼠标动的网页动画。",
           "summaryVi": "Skill giúp agent thiết kế chuyển động, sinh chuỗi khung hình rồi gắn animation web theo cuộn trang, chuột, kéo thả hoặc cảm ứng. Hợp khi làm intro sản phẩm, tương tác nhân vật hay demo thao tác trên trang.",
           "language": "Python",
-          "stars": 2929,
+          "stars": 2936,
           "topics": [
             "agent-skill",
             "agent-skills",
@@ -608,7 +608,7 @@
             "skills",
             "web-animation"
           ],
-          "updatedAt": "2026-11-17T23:56:08Z",
+          "updatedAt": "2026-11-18T23:56:38Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -620,13 +620,13 @@
           "description": "一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧",
           "summaryVi": "Quy trình làm video AI từ tiểu thuyết/câu chuyện sang kịch bản bốn màn, tài sản hình ảnh và phân cảnh định dạng Seedance 2.0. Phù hợp sản xuất series nhiều tập có nối cảnh bằng video kéo dài.",
           "language": "",
-          "stars": 2906,
+          "stars": 2915,
           "topics": [
             "agent",
             "skill",
             "skills"
           ],
-          "updatedAt": "2026-11-18T00:49:59Z",
+          "updatedAt": "2026-11-18T16:55:02Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -635,10 +635,10 @@
           "fullName": "LearnPrompt/awesome-seedance",
           "name": "awesome-seedance",
           "url": "https://github.com/LearnPrompt/awesome-seedance",
-          "description": "🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 840+ cases traced to original posts, 490+ cross-model retest runs, 27 copy-ready templates, 79 installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.",
+          "description": "🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 1000+ cases traced to original posts, 490+ cross-model retest runs, 27 copy-ready templates, 80+ installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 2571,
+          "stars": 2592,
           "topics": [
             "agent-skill",
             "ai-video",
@@ -654,13 +654,14 @@
             "prompt-library",
             "prompt-templates",
             "prompts",
+            "reproducibility",
             "seedance",
             "seedance-2-0",
             "seedance-2-5",
             "text-to-video",
             "video-generation"
           ],
-          "updatedAt": "2026-11-18T01:25:02Z",
+          "updatedAt": "2026-11-18T23:39:05Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -672,9 +673,9 @@
           "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
           "summaryVi": "Biến truyện chữ Trung hoặc dãy ảnh vẽ tay thành clip hoạt hình nhật ký/truyện tranh dọc 3:4 (Remotion), khoảng 20 phong cách vẽ. Dùng khi cần video kể chuyện im lặng để ghép lồng tiếng sau.",
           "language": "HTML",
-          "stars": 2501,
+          "stars": 2506,
           "topics": [],
-          "updatedAt": "2026-11-17T23:50:25Z",
+          "updatedAt": "2026-11-19T00:16:41Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -686,13 +687,13 @@
           "description": "BigBanana AI Director是一个工业级一站式  AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 \"Script-to-Asset-to-Keyframe\" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。",
           "summaryVi": "",
           "language": "",
-          "stars": 2464,
+          "stars": 2466,
           "topics": [
             "ai-comic-drama",
             "ai-short-drama",
             "ai-video"
           ],
-          "updatedAt": "2026-11-17T22:26:42Z",
+          "updatedAt": "2026-11-18T17:37:19Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -704,12 +705,12 @@
           "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
           "summaryVi": "",
           "language": "Python",
-          "stars": 2107,
+          "stars": 2114,
           "topics": [
             "ai",
             "skills"
           ],
-          "updatedAt": "2026-11-18T00:00:46Z",
+          "updatedAt": "2026-11-18T17:23:49Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -721,13 +722,13 @@
           "description": "AI视频, AI动漫,AI 短剧,AI漫剧自动化生成工具",
           "summaryVi": "Nền tảng tự động hóa video kể chuyện: từ chủ đề sang kịch bản, phân cảnh, sinh ảnh, lên kế hoạch camera rồi ghép video. Dùng khi cần sản xuất hàng loạt video ngắn/anime/phim ngắn với kiểm soát từng bước và Docker.",
           "language": "Python",
-          "stars": 2084,
+          "stars": 2089,
           "topics": [
             "ai",
             "ai-short-drama",
             "ai-video-generator"
           ],
-          "updatedAt": "2026-11-17T11:54:28Z",
+          "updatedAt": "2026-11-18T14:04:17Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -739,7 +740,7 @@
           "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 1952,
+          "stars": 2015,
           "topics": [
             "3d",
             "3d-animation",
@@ -761,7 +762,7 @@
             "virtual-production",
             "webgl"
           ],
-          "updatedAt": "2026-11-18T00:35:26Z",
+          "updatedAt": "2026-11-18T23:02:16Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -773,9 +774,9 @@
           "description": "将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories",
           "summaryVi": "Công cụ lấy video Bilibili/Xiaohongshu, đánh dấu khung hình rồi nhờ Gemini biến thành storyboard vẽ tay kèm caption mạng xã hội và cover. Dành cho creator, vận hành MXH và người làm nội dung/remix.",
           "language": "TypeScript",
-          "stars": 1880,
+          "stars": 1881,
           "topics": [],
-          "updatedAt": "2026-11-17T12:51:29Z",
+          "updatedAt": "2026-11-18T06:01:41Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -787,7 +788,7 @@
           "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 1228,
+          "stars": 1231,
           "topics": [
             "ai-video",
             "claude-skills",
@@ -795,7 +796,7 @@
             "shot-analysis",
             "video-analysis"
           ],
-          "updatedAt": "2026-11-17T15:43:01Z",
+          "updatedAt": "2026-11-18T12:45:39Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -807,7 +808,7 @@
           "description": "Open-source, local-first video editor where creators and AI agents edit the same real timeline.",
           "summaryVi": "Trình dựng video AI chạy trên trình duyệt, ưu tiên xử lý cục bộ với timeline, hiệu ứng và chấm màu. Phù hợp creator hoặc agent cần soạn/xuất video mà không phụ thuộc cloud.",
           "language": "JavaScript",
-          "stars": 989,
+          "stars": 996,
           "topics": [
             "agent-skills",
             "ai-music",
@@ -830,27 +831,7 @@
             "webcodecs",
             "webgpu"
           ],
-          "updatedAt": "2026-11-17T17:11:50Z",
-          "archived": false,
-          "category": "video-seedance"
-        },
-        {
-          "id": 1337931942,
-          "fullName": "liyue-aigc/seedance-2-5-video-director",
-          "name": "seedance-2-5-video-director",
-          "url": "https://github.com/liyue-aigc/seedance-2-5-video-director",
-          "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导",
-          "summaryVi": "Skill đạo diễn video cho Dreamina/即梦 Seedance 2.5: biến ý tưởng, ảnh nhân vật, phân cảnh thành kịch bản, chẩn đoán xung đột và prompt copy-paste; không gọi API tốn điểm. Dùng khi viết/sửa prompt video ngắn–dài, khóa nhân vật, âm thanh và chuyển cảnh trên Seedance 2.5.",
-          "language": "Python",
-          "stars": 805,
-          "topics": [
-            "ai-video",
-            "codex-skill",
-            "dreamina",
-            "seedance",
-            "video-prompt"
-          ],
-          "updatedAt": "2026-11-17T15:05:01Z",
+          "updatedAt": "2026-11-18T16:02:21Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -862,7 +843,7 @@
           "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
           "summaryVi": "",
           "language": "Python",
-          "stars": 804,
+          "stars": 806,
           "topics": [
             "ai-video",
             "chinese",
@@ -872,7 +853,27 @@
             "tts",
             "whiteboard-animation"
           ],
-          "updatedAt": "2026-11-17T14:30:29Z",
+          "updatedAt": "2026-11-18T13:55:01Z",
+          "archived": false,
+          "category": "video-seedance"
+        },
+        {
+          "id": 1337931942,
+          "fullName": "liyue-aigc/seedance-2-5-video-director",
+          "name": "seedance-2-5-video-director",
+          "url": "https://github.com/liyue-aigc/seedance-2-5-video-director",
+          "description": "Seedance 2.5 视频导演 Skill：提示词、脚本、诊断、人物锁定、续写、编辑、转场与首次使用指导",
+          "summaryVi": "Skill đạo diễn video cho Dreamina/即梦 Seedance 2.5: biến ý tưởng, ảnh nhân vật, phân cảnh thành kịch bản, chẩn đoán xung đột và prompt copy-paste; không gọi API tốn điểm. Dùng khi viết/sửa prompt video ngắn–dài, khóa nhân vật, âm thanh và chuyển cảnh trên Seedance 2.5.",
+          "language": "Python",
+          "stars": 806,
+          "topics": [
+            "ai-video",
+            "codex-skill",
+            "dreamina",
+            "seedance",
+            "video-prompt"
+          ],
+          "updatedAt": "2026-11-18T14:26:54Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -898,7 +899,7 @@
           "description": "Modular, tool-agnostic agent skills for social media content: briefs, trend research, platform-native copy for Xiaohongshu, WeChat, X and YouTube, short video, publishing, and analytics.",
           "summaryVi": "Bộ skill agent mô-đun cho quy trình làm nội dung tự truyền thông: brief, chiến lược, nghiên cứu, viết bản địa hóa nền tảng, short video, phân tích và đóng gói phát hành. Dùng khi cần quy trình có người duyệt, không gắn chết một công cụ cụ thể.",
           "language": "JavaScript",
-          "stars": 713,
+          "stars": 715,
           "topics": [
             "agent-skills",
             "ai-agents",
@@ -911,7 +912,7 @@
             "wechat",
             "xiaohongshu"
           ],
-          "updatedAt": "2026-11-17T05:20:28Z",
+          "updatedAt": "2026-11-18T17:40:17Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -986,7 +987,7 @@
           "description": "Browser-based 3D previs workspace for storyboarding, camera blocking, character posing and keyframes",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 139,
+          "stars": 142,
           "topics": [
             "animation",
             "previsualization",
@@ -995,7 +996,7 @@
             "threejs",
             "webgl"
           ],
-          "updatedAt": "2026-11-16T10:06:53Z",
+          "updatedAt": "2026-11-18T19:42:08Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -1021,7 +1022,7 @@
           "description": "🎬 AI短剧创作平台 — 从剧本到成片，一站式AI短剧制作工作台。支持70+大模型(GLM5.1/DeepSeek V4/Qwen3.5等)、图片生成、视频生成(Seedance 2.0)、AI配音，多供应商配置，Next.js 16全栈构建",
           "summaryVi": "Workbench Next.js làm short drama AI từ kịch bản đến thành phẩm: parse/viết kịch, tách phân cảnh, sinh ảnh–video–TTS và quản lý nhiều nhà cung cấp model. Hợp team hoặc cá nhân cần quy trình sản xuất ngắn tập có cấu trúc.",
           "language": "TypeScript",
-          "stars": 110,
+          "stars": 112,
           "topics": [
             "ai-creative",
             "ai-drama",
@@ -1039,7 +1040,7 @@
             "typescript",
             "vercel"
           ],
-          "updatedAt": "2026-11-16T15:08:34Z",
+          "updatedAt": "2026-11-18T20:37:08Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -1051,13 +1052,13 @@
           "description": "An open-source platform that creates interactive game for TikTok Live streams. Viewers can play games by typing commands in chat!",
           "summaryVi": "Nền tảng open-source tạo overlay game HTML5 cho TikTok Live, gift điều khiển gameplay theo thời gian thực. Phù hợp stream 24/7 qua OBS; có sẵn đua ngựa theo lane quốc gia và SDK bridge đa streamer.",
           "language": "JavaScript",
-          "stars": 77,
+          "stars": 78,
           "topics": [
             "nodejs",
             "socket-io",
             "tiktok-live-streams"
           ],
-          "updatedAt": "2026-11-17T13:00:37Z",
+          "updatedAt": "2026-11-18T08:06:01Z",
           "archived": false,
           "category": "video-seedance"
         },
@@ -1091,7 +1092,7 @@
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 466377,
+          "stars": 468304,
           "topics": [
             "agent-skills",
             "ai",
@@ -1114,7 +1115,7 @@
             "touhou",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T01:30:30Z",
+          "updatedAt": "2026-11-19T00:59:18Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1126,7 +1127,7 @@
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "summaryVi": "Thư viện prompt mã nguồn mở lớn cho ChatGPT, Claude, Gemini và các model chat khác, kèm sách tương tác và tùy chọn tự host. Dùng để tìm, chia sẻ hoặc triển khai kho prompt riêng cho việc prompt engineering.",
           "language": "MDX",
-          "stars": 177758,
+          "stars": 177809,
           "topics": [
             "ai",
             "artificial-intelligence",
@@ -1147,7 +1148,7 @@
             "prompts-chat",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T01:17:16Z",
+          "updatedAt": "2026-11-19T00:56:02Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1159,7 +1160,7 @@
           "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
           "summaryVi": "Dify là nền tảng open-source làm app LLM với workflow trực quan, RAG, agent và quản lý model. Dùng khi cần đưa ý tưởng AI từ prototype lên production, self-host hoặc cloud, có observability tích hợp.",
           "language": "Python",
-          "stars": 161379,
+          "stars": 161446,
           "topics": [
             "agent",
             "agentic-ai",
@@ -1181,7 +1182,7 @@
             "skills",
             "workflow"
           ],
-          "updatedAt": "2026-11-18T01:12:36Z",
+          "updatedAt": "2026-11-19T00:53:39Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1193,7 +1194,7 @@
           "description": "💫 Toolkit to help you get started with SDD or any other process!",
           "summaryVi": "Bộ công cụ mã nguồn mở cho quy trình phát triển theo đặc tả trước khi code, tích hợp nhiều AI coding agent. Phù hợp team muốn chuẩn hóa yêu cầu và mở rộng quy trình cho cả tổ chức.",
           "language": "Python",
-          "stars": 150298,
+          "stars": 150506,
           "topics": [
             "ai",
             "copilot",
@@ -1203,7 +1204,7 @@
             "spec",
             "spec-driven"
           ],
-          "updatedAt": "2026-11-18T01:28:45Z",
+          "updatedAt": "2026-11-19T00:53:35Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1215,14 +1216,14 @@
           "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
           "summaryVi": "Bộ sưu tập hơn 100 agent AI, skill cho coding agent và ứng dụng RAG mã nguồn mở, đã dựng sẵn và kiểm thử end-to-end. Phù hợp khi cần clone mẫu chạy ngay hoặc tùy biến agent/RAG với Claude, GPT, Gemini và các model open-source.",
           "language": "Python",
-          "stars": 144969,
+          "stars": 145032,
           "topics": [
             "agents",
             "llms",
             "python",
             "rag"
           ],
-          "updatedAt": "2026-11-18T01:20:57Z",
+          "updatedAt": "2026-11-19T00:47:59Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1234,7 +1235,7 @@
           "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
           "summaryVi": "Kho lưu system prompt và cấu hình model của nhiều công cụ AI coding. Dùng khi cần tham khảo, so sánh cách các assistant được thiết kế prompt.",
           "language": "",
-          "stars": 144734,
+          "stars": 144747,
           "topics": [
             "ai",
             "bolt",
@@ -1257,7 +1258,7 @@
             "windsurf",
             "windsurf-ai"
           ],
-          "updatedAt": "2026-11-18T00:57:57Z",
+          "updatedAt": "2026-11-19T00:52:38Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1269,7 +1270,7 @@
           "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
           "summaryVi": "Bộ skill cho agent AI giúp giao diện sinh ra có layout, typography và chuyển động chỉn chu hơn, tránh UI generic. Dùng với Cursor, Codex hay Claude Code khi muốn frontend do AI làm trông có gu thiết kế.",
           "language": "JavaScript",
-          "stars": 117760,
+          "stars": 118430,
           "topics": [
             "agent-skills",
             "ai-agents",
@@ -1283,7 +1284,7 @@
             "ui-design",
             "web-design"
           ],
-          "updatedAt": "2026-11-18T01:31:20Z",
+          "updatedAt": "2026-11-19T00:59:40Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1295,7 +1296,7 @@
           "description": "The open-source app everyone uses to manage agents at work",
           "summaryVi": "Nền tảng mã nguồn mở điều phối nhiều AI agent như một tổ chức: giao mục tiêu, ngân sách, theo dõi công việc và chi phí trên một dashboard. Dùng khi muốn vận hành nhóm agent tự chủ 24/7 thay vì quản lý từng phiên terminal rời rạc.",
           "language": "TypeScript",
-          "stars": 114582,
+          "stars": 114813,
           "topics": [
             "acpx",
             "agent-orchestration",
@@ -1318,7 +1319,7 @@
             "project-management",
             "workflow-automation"
           ],
-          "updatedAt": "2026-11-18T01:18:23Z",
+          "updatedAt": "2026-11-19T00:41:37Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1330,7 +1331,7 @@
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
           "summaryVi": "Bộ skill và lệnh thiết kế cho agent AI, kèm quy tắc kiểm tra giao diện sinh ra, giúp frontend tránh khuôn mẫu SaaS nhàm chán. Dùng khi muốn AI code UI có ngữ cảnh thương hiệu, màu chữ và phong cách nhất quán hơn.",
           "language": "Rust",
-          "stars": 112220,
+          "stars": 112906,
           "topics": [
             "agent-skills",
             "ai",
@@ -1338,7 +1339,7 @@
             "design",
             "slop"
           ],
-          "updatedAt": "2026-11-18T01:30:28Z",
+          "updatedAt": "2026-11-19T00:57:02Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1350,7 +1351,7 @@
           "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 97489,
+          "stars": 97748,
           "topics": [
             "agent-skills",
             "ai-agents",
@@ -1373,7 +1374,7 @@
             "system-design",
             "visualization"
           ],
-          "updatedAt": "2026-11-18T01:27:33Z",
+          "updatedAt": "2026-11-19T00:57:15Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1385,7 +1386,7 @@
           "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
           "summaryVi": "Bộ skill marketing cho AI coding agent (Claude Code, Cursor, Codex…): tối ưu chuyển đổi, copy, SEO, analytics và growth. Phù hợp marketer/founder kỹ thuật muốn agent hỗ trợ công việc marketing thay vì chỉ viết code.",
           "language": "JavaScript",
-          "stars": 61051,
+          "stars": 61264,
           "topics": [
             "agent-skills",
             "ai-agents",
@@ -1408,7 +1409,7 @@
             "seo",
             "skill-md"
           ],
-          "updatedAt": "2026-11-18T01:26:40Z",
+          "updatedAt": "2026-11-19T01:01:02Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1420,7 +1421,7 @@
           "description": "Skills for Designers and Engineers.",
           "summaryVi": "",
           "language": "Markdown",
-          "stars": 57801,
+          "stars": 57997,
           "topics": [
             "agent-skills",
             "animation",
@@ -1429,7 +1430,7 @@
             "cursor",
             "design-engineering"
           ],
-          "updatedAt": "2026-11-18T01:26:23Z",
+          "updatedAt": "2026-11-19T00:55:19Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1441,9 +1442,9 @@
           "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "summaryVi": "Skill thiết kế chống “AI slop” cho Claude Code, Cursor và Codex: chọn cấu trúc, theme và tự kiểm trước khi xuất UI. Dùng khi cần build, audit hoặc redesign giao diện sao cho mỗi brief ra một “vân tay” khác nhau.",
           "language": "CSS",
-          "stars": 56907,
+          "stars": 57538,
           "topics": [],
-          "updatedAt": "2026-11-18T01:31:29Z",
+          "updatedAt": "2026-11-19T00:57:40Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1455,7 +1456,7 @@
           "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 47270,
+          "stars": 47327,
           "topics": [
             "ai",
             "anthropic",
@@ -1478,7 +1479,7 @@
             "vision",
             "webui"
           ],
-          "updatedAt": "2026-11-18T01:29:55Z",
+          "updatedAt": "2026-11-18T23:56:26Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1490,9 +1491,9 @@
           "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
           "summaryVi": "Gói định tuyến kỹ năng cho agent AI khi gặp APK, binary, JS hay mục tiêu pentest/CTF: chọn playbook và kiểm tra tool sẵn có thay vì đoán lệnh. Dành cho luồng làm việc reverse/kiểm thử có cấu trúc.",
           "language": "PowerShell",
-          "stars": 44838,
+          "stars": 44887,
           "topics": [],
-          "updatedAt": "2026-11-18T01:25:32Z",
+          "updatedAt": "2026-11-18T23:56:23Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1504,7 +1505,7 @@
           "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
           "summaryVi": "Biến một phiên Claude Code thành studio làm game với hàng chục agent chuyên biệt (design, code, art, QA…) và skill theo từng giai đoạn. Dùng khi làm game một mình với AI nhưng cần quy trình, review và cổng chất lượng thay vì chat chung chung.",
           "language": "Shell",
-          "stars": 39943,
+          "stars": 40079,
           "topics": [
             "ai-agents",
             "ai-assisted-development",
@@ -1519,7 +1520,7 @@
             "unity",
             "unreal-engine"
           ],
-          "updatedAt": "2026-11-18T01:09:24Z",
+          "updatedAt": "2026-11-19T01:00:02Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1531,7 +1532,7 @@
           "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
           "summaryVi": "Thư viện prompt và template công nghiệp cho GPT-Image-2, kèm hàng trăm case đã reverse-engineer. Dùng khi muốn sinh ảnh AI theo phong cách/kịch bản cụ thể thay vì viết prompt từ đầu.",
           "language": "JavaScript",
-          "stars": 35910,
+          "stars": 35945,
           "topics": [
             "agents",
             "ai-image-generation",
@@ -1544,7 +1545,7 @@
             "skills",
             "workflow-automation"
           ],
-          "updatedAt": "2026-11-18T01:29:15Z",
+          "updatedAt": "2026-11-19T01:01:13Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1556,7 +1557,7 @@
           "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
           "summaryVi": "Skill thiết kế chạy bằng HTML thuần cho Claude Code và các agent tương tự: gõ một câu prompt là ra prototype bấm được, slide/PPT, animation hay infographic đạt mức giao hàng. Phù hợp khi cần ship tài liệu thiết kế nhanh trong agent mà không mở Figma hay AE.",
           "language": "HTML",
-          "stars": 29735,
+          "stars": 29822,
           "topics": [
             "agent-skills",
             "ai-design",
@@ -1579,7 +1580,7 @@
             "slides",
             "ui-design"
           ],
-          "updatedAt": "2026-11-18T00:41:16Z",
+          "updatedAt": "2026-11-19T01:00:29Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1591,7 +1592,7 @@
           "description": "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.",
           "summaryVi": "Hệ thống quản lý task cho quy trình dev nhờ AI, tích hợp Cursor/Claude qua MCP và CLI. Phù hợp khi cần bẻ việc lớn thành task có phụ thuộc, theo dõi và điều phối trong editor.",
           "language": "JavaScript",
-          "stars": 28367,
+          "stars": 28374,
           "topics": [
             "ai",
             "cursor",
@@ -1606,7 +1607,7 @@
             "windsurf",
             "windsurf-ai"
           ],
-          "updatedAt": "2026-11-18T01:07:28Z",
+          "updatedAt": "2026-11-18T15:17:44Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1618,14 +1619,14 @@
           "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 27877,
+          "stars": 28108,
           "topics": [
             "agent-skill",
             "open-source",
             "svg",
             "vizualization"
           ],
-          "updatedAt": "2026-11-18T01:29:04Z",
+          "updatedAt": "2026-11-19T00:55:52Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1637,7 +1638,7 @@
           "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
           "summaryVi": "CLI và thư viện đánh giá prompt, agent, RAG đồng thời red-team ứng dụng LLM. Phù hợp khi muốn so sánh model, quét lỗ hổng và tự động hóa kiểm tra trong CI/CD.",
           "language": "TypeScript",
-          "stars": 27393,
+          "stars": 27433,
           "topics": [
             "ci",
             "ci-cd",
@@ -1658,7 +1659,7 @@
             "testing",
             "vulnerability-scanners"
           ],
-          "updatedAt": "2026-11-18T01:07:58Z",
+          "updatedAt": "2026-11-19T00:51:20Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1670,7 +1671,7 @@
           "description": "NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.",
           "summaryVi": "Nền tảng mã nguồn mở kết hợp AI và no-code để dựng hệ thống nghiệp vụ trên hạ tầng đã ổn định, vừa kéo-thả WYSIWYG vừa để agent code hỗ trợ. Phù hợp khi cần ra mắt CRM, quy trình nội bộ hay app doanh nghiệp nhanh mà vẫn tùy biến được.",
           "language": "TypeScript",
-          "stars": 24953,
+          "stars": 24968,
           "topics": [
             "admin-dashboard",
             "agent-skills",
@@ -1693,7 +1694,7 @@
             "workflow-engine",
             "workflows"
           ],
-          "updatedAt": "2026-11-18T01:19:42Z",
+          "updatedAt": "2026-11-19T00:46:48Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1705,7 +1706,7 @@
           "description": "GPT-Image-2 API and Prompts",
           "summaryVi": "",
           "language": "Python",
-          "stars": 17419,
+          "stars": 17423,
           "topics": [
             "ai-art",
             "api",
@@ -1728,7 +1729,7 @@
             "text-to-image",
             "visual-ai"
           ],
-          "updatedAt": "2026-11-18T01:07:34Z",
+          "updatedAt": "2026-11-18T20:59:55Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1740,7 +1741,7 @@
           "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
           "summaryVi": "Boilerplate SaaS mã nguồn mở trên Wasp (React/Node/Prisma) kèm auth, thanh toán, email, analytics và admin. Phù hợp khi muốn dựng sản phẩm SaaS đầy đủ tính năng mà không phải ghép từng phần.",
           "language": "MDX",
-          "stars": 16348,
+          "stars": 16372,
           "topics": [
             "ai",
             "authentication",
@@ -1763,7 +1764,7 @@
             "typesafe",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T01:24:08Z",
+          "updatedAt": "2026-11-18T22:26:30Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1775,7 +1776,7 @@
           "description": "Your agent writes bad React. This catches it",
           "summaryVi": "Công cụ quét code React để bắt lỗi state/effect, perf, a11y, bảo mật và JSX phức tạp—kể cả code do agent viết. Chạy audit local, gắn agent hoặc CI để chặn issue mới trên PR.",
           "language": "TypeScript",
-          "stars": 15153,
+          "stars": 15158,
           "topics": [
             "agents",
             "code-review",
@@ -1783,7 +1784,7 @@
             "react",
             "skill"
           ],
-          "updatedAt": "2026-11-17T14:20:46Z",
+          "updatedAt": "2026-11-19T00:53:18Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1795,7 +1796,7 @@
           "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
           "summaryVi": "Nền tảng xây và triển khai chatbot/trợ lý LLM kèm hub tích hợp, CLI/SDK và bot viết bằng code. Phù hợp team muốn làm assistant hội thoại nhanh trên Botpress Cloud hoặc đóng góp integration/plugin.",
           "language": "TypeScript",
-          "stars": 15001,
+          "stars": 15004,
           "topics": [
             "agent",
             "ai",
@@ -1810,7 +1811,7 @@
             "openai",
             "prompt"
           ],
-          "updatedAt": "2026-11-17T22:32:33Z",
+          "updatedAt": "2026-11-18T17:03:12Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1822,7 +1823,7 @@
           "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）",
           "summaryVi": "Công cụ chắt lọc sách (và nội dung dài) thành bộ skill AI có thể gọi được. Phù hợp khi muốn biến kiến thức trong sách thành công cụ agent áp dụng trực tiếp thay vì chỉ đọc rồi quên.",
           "language": "Python",
-          "stars": 12949,
+          "stars": 13023,
           "topics": [
             "agent-workflows",
             "ai-skills",
@@ -1833,7 +1834,7 @@
             "skill-generator",
             "templates"
           ],
-          "updatedAt": "2026-11-18T01:29:48Z",
+          "updatedAt": "2026-11-19T00:18:43Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1845,9 +1846,9 @@
           "description": "A skill that turn any brand into a scrollable 3D world landing page",
           "summaryVi": "Skill cho coding agent tạo landing page 3D kiểu camera bay liên tục theo cuộn trang, nối từng cảnh thương hiệu/ngành không cắt cảnh. Dùng khi cần trang ra mắt immersive kiểu fly-through thay landing tĩnh thông thường.",
           "language": "JavaScript",
-          "stars": 11051,
+          "stars": 11061,
           "topics": [],
-          "updatedAt": "2026-11-18T00:59:24Z",
+          "updatedAt": "2026-11-18T22:25:58Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1859,13 +1860,13 @@
           "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 10516,
+          "stars": 10562,
           "topics": [
             "agent",
             "browser-use",
             "dsh-plugin"
           ],
-          "updatedAt": "2026-11-18T01:01:34Z",
+          "updatedAt": "2026-11-19T00:51:03Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1877,9 +1878,9 @@
           "description": "Codex skill for generating quiet minimal zine-style editorial poster prompts and images.",
           "summaryVi": "Skill Codex biến chủ đề, câu chữ hay ảnh tham chiếu thành poster editorial kiểu zine tối giản (giấy cũ, nhiều khoảng trống, một điểm nhấn màu). Dùng để ra prompt ảnh production-ready hoặc hệ hình ảnh tái sử dụng.",
           "language": "",
-          "stars": 7545,
+          "stars": 7543,
           "topics": [],
-          "updatedAt": "2026-11-17T15:05:38Z",
+          "updatedAt": "2026-11-18T08:54:08Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1891,7 +1892,7 @@
           "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
           "summaryVi": "Skill cho AI agent để tạo linh vật IP kiểu neo-skeuomorphic: hình bóng tròn đơn giản, dễ thương, sẵn sàng dùng làm logo thương hiệu. Phù hợp khi cần hàng loạt mascot tối giản, có thư viện logo miễn phí dùng thương mại nếu không chạy agent.",
           "language": "",
-          "stars": 6603,
+          "stars": 6624,
           "topics": [
             "codex",
             "codex-skill",
@@ -1899,7 +1900,7 @@
             "logo-design",
             "mascot-design"
           ],
-          "updatedAt": "2026-11-18T00:46:05Z",
+          "updatedAt": "2026-11-19T00:05:27Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1911,9 +1912,9 @@
           "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 6252,
+          "stars": 6366,
           "topics": [],
-          "updatedAt": "2026-11-18T01:21:09Z",
+          "updatedAt": "2026-11-19T00:51:59Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1925,7 +1926,7 @@
           "description": "将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。",
           "summaryVi": "Skill chuyển phụ đề SRT thành video whiteboard vẽ tay theo thứ tự tường thuật, có mask vùng và nét mực rồi tô màu. Phù hợp làm clip kiến thức, kể chuyện hoặc khóa học kiểu giấy vàng kem từ script có sẵn.",
           "language": "Python",
-          "stars": 5671,
+          "stars": 5686,
           "topics": [
             "ai-skill",
             "hand-drawn",
@@ -1935,7 +1936,7 @@
             "subtitle",
             "whiteboard-animation"
           ],
-          "updatedAt": "2026-11-18T00:59:01Z",
+          "updatedAt": "2026-11-18T21:49:18Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1947,9 +1948,9 @@
           "description": "",
           "summaryVi": "",
           "language": "Python",
-          "stars": 5285,
+          "stars": 5294,
           "topics": [],
-          "updatedAt": "2026-11-17T19:12:04Z",
+          "updatedAt": "2026-11-18T16:38:00Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1975,14 +1976,14 @@
           "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
           "summaryVi": "Bộ quy tắc và script kiểm tra giúp bài tiếng Trung do AI viết bớt giọng máy, có vật liệu, nhịp câu và cách nói giống người thật. Dùng cho trả lời mạng xã hội, bài blog, kể chuyện, khoa phổ hay kịch bản nói.",
           "language": "Python",
-          "stars": 4642,
+          "stars": 4649,
           "topics": [
             "agent-skills",
             "chinese-writing",
             "creative-writing",
             "writing-skill"
           ],
-          "updatedAt": "2026-11-18T00:52:33Z",
+          "updatedAt": "2026-11-18T16:47:00Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -1994,7 +1995,7 @@
           "description": "Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.",
           "summaryVi": "",
           "language": "Python",
-          "stars": 4134,
+          "stars": 4141,
           "topics": [
             "2d-game",
             "ai-tools",
@@ -2006,7 +2007,7 @@
             "sprite-generation",
             "sprite-sheet"
           ],
-          "updatedAt": "2026-11-18T01:26:31Z",
+          "updatedAt": "2026-11-18T10:50:52Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -2018,7 +2019,7 @@
           "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
           "summaryVi": "",
           "language": "Python",
-          "stars": 3867,
+          "stars": 3890,
           "topics": [
             "agent-skills",
             "ai-writing",
@@ -2033,7 +2034,7 @@
             "prompt-engineering",
             "writing-tools"
           ],
-          "updatedAt": "2026-11-18T00:44:54Z",
+          "updatedAt": "2026-11-18T23:01:47Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -2045,7 +2046,7 @@
           "description": "Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.",
           "summaryVi": "Bộ component UI dựng trên shadcn/ui dành cho ứng dụng AI: chat, agent, trợ lý tự động. Dùng khi cần ghép giao diện AI đẹp, tùy biến nhanh thay vì tự viết từ đầu.",
           "language": "TypeScript",
-          "stars": 3159,
+          "stars": 3160,
           "topics": [
             "ai",
             "components",
@@ -2056,7 +2057,7 @@
             "tailwindcss",
             "ui"
           ],
-          "updatedAt": "2026-11-17T09:48:39Z",
+          "updatedAt": "2026-11-18T15:54:22Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -2068,9 +2069,9 @@
           "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
           "summaryVi": "",
           "language": "Python",
-          "stars": 2843,
+          "stars": 2850,
           "topics": [],
-          "updatedAt": "2026-11-17T23:28:00Z",
+          "updatedAt": "2026-11-18T22:23:21Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -2082,9 +2083,9 @@
           "description": "Claude Code skill：把内容套进内置手绘画风配方,产出可直接复制的生图提示词。内置儿童涂色/极简线条/蜡笔童涂/吉卜力/小豆人涂鸦 5 种已验证画风。",
           "summaryVi": "",
           "language": "Python",
-          "stars": 2726,
+          "stars": 2730,
           "topics": [],
-          "updatedAt": "2026-11-17T19:50:58Z",
+          "updatedAt": "2026-11-18T21:38:07Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -2134,7 +2135,7 @@
           "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 1022,
+          "stars": 1026,
           "topics": [
             "agent-skills",
             "ai-design",
@@ -2150,7 +2151,7 @@
             "ui-design",
             "ux-design"
           ],
-          "updatedAt": "2026-11-17T22:56:54Z",
+          "updatedAt": "2026-11-18T20:38:14Z",
           "archived": false,
           "category": "skills-prompt"
         },
@@ -2351,7 +2352,7 @@
           "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
           "summaryVi": "Bảng trắng ảo kiểu vẽ tay, mã mở, hỗ trợ cộng tác realtime và mã hóa đầu cuối. Phù hợp vẽ sơ đồ, wireframe hay phác thảo trực quan, nhúng vào app hoặc dùng độc lập.",
           "language": "TypeScript",
-          "stars": 135879,
+          "stars": 135923,
           "topics": [
             "canvas",
             "collaboration",
@@ -2361,7 +2362,7 @@
             "productivity",
             "whiteboard"
           ],
-          "updatedAt": "2026-11-18T00:02:37Z",
+          "updatedAt": "2026-11-19T00:25:00Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2373,7 +2374,7 @@
           "description": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 51467,
+          "stars": 51482,
           "topics": [
             "canvas",
             "collaboration",
@@ -2388,7 +2389,7 @@
             "sync",
             "whiteboard"
           ],
-          "updatedAt": "2026-11-18T00:31:00Z",
+          "updatedAt": "2026-11-19T00:49:21Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2400,7 +2401,7 @@
           "description": "Convert PDF to markdown + JSON quickly with high accuracy",
           "summaryVi": "Marker chuyển PDF, ảnh và nhiều định dạng văn bản khác sang markdown, JSON hay HTML, giữ bảng biểu, công thức và hình ảnh. Phù hợp khi cần số hóa tài liệu hàng loạt hoặc đưa nội dung vào pipeline xử lý tiếp.",
           "language": "Python",
-          "stars": 40967,
+          "stars": 40981,
           "topics": [
             "deep-learning",
             "document-conversion",
@@ -2418,7 +2419,7 @@
             "python",
             "table-extraction"
           ],
-          "updatedAt": "2026-11-18T01:29:23Z",
+          "updatedAt": "2026-11-19T00:43:34Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2430,7 +2431,7 @@
           "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
           "summaryVi": "Nền tảng hỗ trợ khách hàng omnichannel tự host, gom chat web, email, mạng xã hội, WhatsApp… vào một inbox, có thêm AI agent và cổng knowledge base. Dùng khi muốn thay Intercom/Zendesk, kiểm soát dữ liệu và giảm tải trả lời lặp cho team CS.",
           "language": "Ruby",
-          "stars": 40055,
+          "stars": 40126,
           "topics": [
             "actioncable",
             "chat-widget",
@@ -2452,7 +2453,7 @@
             "whatsapp",
             "zendesk"
           ],
-          "updatedAt": "2026-11-18T01:20:09Z",
+          "updatedAt": "2026-11-18T23:55:46Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2464,7 +2465,7 @@
           "description": "Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.",
           "summaryVi": "Ứng dụng Next.js kết hợp AI với draw.io để tạo và chỉnh sơ đồ bằng ngôn ngữ tự nhiên. Hữu ích khi muốn vẽ kiến trúc, quy trình hay diagram mà không phải kéo thả thủ công.",
           "language": "TypeScript",
-          "stars": 37024,
+          "stars": 37053,
           "topics": [
             "ai",
             "architecture-diagram",
@@ -2483,7 +2484,7 @@
             "mcp-server",
             "nextjs"
           ],
-          "updatedAt": "2026-11-17T18:42:06Z",
+          "updatedAt": "2026-11-19T00:10:54Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2495,7 +2496,7 @@
           "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image🏞️",
           "summaryVi": "Ứng dụng AI tạo bài thuyết trình chỉnh sửa được từ ý tưởng, dàn ý, tài liệu, ảnh và template tùy chỉnh, có chat sửa slide và xuất PPTX. Phù hợp khi cần ra deck nhanh mà không xếp layout thủ công.",
           "language": "Python",
-          "stars": 16026,
+          "stars": 16030,
           "topics": [
             "ai-ppt-maker",
             "ai-slide-builder",
@@ -2508,7 +2509,7 @@
             "slides",
             "text2image"
           ],
-          "updatedAt": "2026-11-18T01:28:41Z",
+          "updatedAt": "2026-11-18T23:59:58Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2520,7 +2521,7 @@
           "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
           "summaryVi": "Ứng dụng web tự host gom nhiều tiện ích xử lý ảnh/video, PDF, văn bản, ngày giờ và dữ liệu, chạy hoàn toàn trên trình duyệt. Hợp khi cần bộ tool nhẹ, riêng tư, deploy bằng Docker.",
           "language": "TypeScript",
-          "stars": 10744,
+          "stars": 10749,
           "topics": [
             "alternative",
             "converter",
@@ -2543,7 +2544,7 @@
             "webapp",
             "website"
           ],
-          "updatedAt": "2026-11-17T21:54:29Z",
+          "updatedAt": "2026-11-18T23:33:13Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2555,7 +2556,7 @@
           "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
           "summaryVi": "Catalog mã nguồn mở các component UI tương tác (ThreeUI Community), xem live và dùng miễn phí không cần đăng nhập. Phù hợp khi cần thư viện component React có sẵn biến thể để dựng giao diện nhanh.",
           "language": "HTML",
-          "stars": 7330,
+          "stars": 7347,
           "topics": [
             "react",
             "shaders",
@@ -2563,7 +2564,7 @@
             "ui-components",
             "webgl"
           ],
-          "updatedAt": "2026-11-17T23:54:02Z",
+          "updatedAt": "2026-11-18T22:56:18Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2575,9 +2576,9 @@
           "description": "",
           "summaryVi": "Skill Codex biến một tấm ảnh thành layout dọc: giữ vùng ảnh gốc, thêm panel trừu tượng suy ra từ bố cục/màu, kèm tiêu đề tiếng Anh. Phù hợp làm tác phẩm biên tập cá nhân hoặc học tập, không phải filter hay vẽ lại ảnh.",
           "language": "",
-          "stars": 6137,
+          "stars": 6140,
           "topics": [],
-          "updatedAt": "2026-11-18T01:14:09Z",
+          "updatedAt": "2026-11-18T14:30:47Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2589,7 +2590,7 @@
           "description": "支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library",
           "summaryVi": "Bộ component Vue (hỗ trợ cả Vue 2/3 và dùng ngoài Vue) để xem trước docx, excel, pdf và pptx từ URL, ArrayBuffer hoặc Blob. Phù hợp khi app cần xem tài liệu Office trực tuyến mà không mở phần mềm ngoài.",
           "language": "JavaScript",
-          "stars": 5757,
+          "stars": 5759,
           "topics": [
             "docx",
             "docx-preview",
@@ -2601,7 +2602,7 @@
             "xlsx",
             "xlsx-preview"
           ],
-          "updatedAt": "2026-11-17T10:19:01Z",
+          "updatedAt": "2026-11-18T03:24:37Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2629,7 +2630,7 @@
           "language": "TypeScript",
           "stars": 1507,
           "topics": [],
-          "updatedAt": "2026-11-16T08:24:19Z",
+          "updatedAt": "2026-11-19T00:10:47Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2675,7 +2676,7 @@
           "description": "[NovaNova Studio] 一个 Agent 驱动的集 AI图片生成、AI视频生成、无限画布、自定义模型 API 、AI漫剧、AI短剧、小说解析剧本、小说转短剧、3D导演台、用户管理、积分管理于一体的全流程开源平台",
           "summaryVi": "",
           "language": "Java",
-          "stars": 853,
+          "stars": 901,
           "topics": [
             "agent",
             "agentscope-java",
@@ -2686,7 +2687,7 @@
             "video-generation",
             "workflow"
           ],
-          "updatedAt": "2026-11-18T01:15:49Z",
+          "updatedAt": "2026-11-18T23:21:22Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2712,7 +2713,7 @@
             "typescript",
             "vite"
           ],
-          "updatedAt": "2026-11-17T08:20:17Z",
+          "updatedAt": "2026-11-18T15:08:39Z",
           "archived": false,
           "category": "image-design"
         },
@@ -2802,9 +2803,9 @@
           "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "summaryVi": "",
           "language": "Python",
-          "stars": 36440,
+          "stars": 36528,
           "topics": [],
-          "updatedAt": "2026-11-18T01:27:10Z",
+          "updatedAt": "2026-11-19T00:56:04Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -2816,7 +2817,7 @@
           "description": "Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.",
           "summaryVi": "Template monorepo SaaS full-stack với React 19, tRPC, Drizzle/Neon, Better Auth và Stripe, deploy edge qua Cloudflare Workers. Phù hợp khởi tạo sản phẩm SaaS type-safe từ database tới UI, có sẵn auth và thanh toán.",
           "language": "TypeScript",
-          "stars": 23720,
+          "stars": 23723,
           "topics": [
             "better-auth",
             "boilerplate",
@@ -2839,7 +2840,7 @@
             "typescript",
             "vite"
           ],
-          "updatedAt": "2026-11-17T18:50:08Z",
+          "updatedAt": "2026-11-18T16:22:10Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -2851,7 +2852,7 @@
           "description": "⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.",
           "summaryVi": "Phần mềm quản lý dự án mã mở, giao diện gọn, tự host và ưu tiên tốc độ thay vì tính năng phình to. Phù hợp team muốn công cụ làm việc đơn giản, dữ liệu nằm trong tay mình.",
           "language": "TypeScript",
-          "stars": 9822,
+          "stars": 9837,
           "topics": [
             "hono",
             "issue-management",
@@ -2865,7 +2866,7 @@
             "self-hosted",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T00:44:18Z",
+          "updatedAt": "2026-11-19T00:59:54Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -2877,13 +2878,13 @@
           "description": "Email for professionals and teams",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 6890,
+          "stars": 7105,
           "topics": [
             "cloudflare",
             "cloudflare-workers",
             "email"
           ],
-          "updatedAt": "2026-11-18T01:25:25Z",
+          "updatedAt": "2026-11-19T00:51:29Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -2895,7 +2896,7 @@
           "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ",
           "summaryVi": "Nền tảng vibe coding mã mở trên Cloudflare: mô tả ý tưởng, agent AI lập kế hoạch, sửa code, xem preview và triển khai full-stack. Dùng khi muốn dựng và iterate ứng dụng end-to-end ngay trên hạ tầng Cloudflare.",
           "language": "TypeScript",
-          "stars": 5476,
+          "stars": 5477,
           "topics": [
             "ai",
             "cloudflare-workers",
@@ -2904,7 +2905,7 @@
             "text-to-app",
             "vibe-coding"
           ],
-          "updatedAt": "2026-11-17T20:52:10Z",
+          "updatedAt": "2026-11-18T15:42:43Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -2930,9 +2931,9 @@
           "description": "Docs for humans and agents, built on Astro",
           "summaryVi": "Bộ scaffold docs Astro đưa layout, component và content vào repo dưới dạng mã nguồn bạn sở hữu và chỉnh sửa được, phục vụ cả người đọc lẫn agent. Hợp khi muốn dựng site tài liệu tĩnh tự host, ưu tiên deploy Cloudflare.",
           "language": "TypeScript",
-          "stars": 1769,
+          "stars": 1771,
           "topics": [],
-          "updatedAt": "2026-11-17T08:35:04Z",
+          "updatedAt": "2026-11-18T15:40:54Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -2969,7 +2970,7 @@
           "description": "🍊☁️ Open-source* apps that replace SaaS product + tools, running in your own Cloudflare account",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 1275,
+          "stars": 1278,
           "topics": [
             "awesome",
             "awesome-list",
@@ -2977,7 +2978,7 @@
             "cloudflare-workers",
             "self-hosted"
           ],
-          "updatedAt": "2026-11-17T19:06:00Z",
+          "updatedAt": "2026-11-18T19:22:01Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -2989,7 +2990,7 @@
           "description": "Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 1196,
+          "stars": 1200,
           "topics": [
             "anti-bot",
             "anti-detection",
@@ -3012,7 +3013,7 @@
             "typescript",
             "web-scraping"
           ],
-          "updatedAt": "2026-11-17T23:51:55Z",
+          "updatedAt": "2026-11-18T22:52:33Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -3114,9 +3115,9 @@
           "description": "Octafuse Gateway是可自托管的开源 AI Gateway：把多供应商、多账号、多 API Key 收成一个 Base URL、一个 API Key，并带路由、预算、计费与审计。",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 326,
+          "stars": 327,
           "topics": [],
-          "updatedAt": "2026-11-16T19:25:11Z",
+          "updatedAt": "2026-11-18T15:29:08Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -3128,7 +3129,7 @@
           "description": "Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.",
           "summaryVi": "Dịch vụ CAPTCHA chạy trên Cloudflare Workers dùng Proof of Work SHA-256, phản hồi nhanh tại edge. Tích hợp khi cần chặn bot mà không theo dõi người dùng.",
           "language": "HTML",
-          "stars": 203,
+          "stars": 205,
           "topics": [
             "captcha",
             "cloudflare",
@@ -3137,7 +3138,7 @@
             "proof-of-work",
             "recapcha"
           ],
-          "updatedAt": "2026-11-17T10:26:39Z",
+          "updatedAt": "2026-11-18T23:24:04Z",
           "archived": false,
           "category": "cloud-workers"
         },
@@ -3458,7 +3459,7 @@
           "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
           "summaryVi": "API/open source để tìm kiếm, crawl và scrape web thành Markdown hoặc JSON sạch, xử lý trang JS nặng, proxy và tương tác trang. Phù hợp nạp ngữ cảnh web cho agent/LLM hoặc pipeline thu thập dữ liệu quy mô lớn mà không tự vận hành scraper.",
           "language": "TypeScript",
-          "stars": 202658,
+          "stars": 203199,
           "topics": [
             "ai",
             "ai-agents",
@@ -3480,7 +3481,7 @@
             "web-search",
             "webscraping"
           ],
-          "updatedAt": "2026-11-18T01:30:02Z",
+          "updatedAt": "2026-11-19T01:01:21Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3492,7 +3493,7 @@
           "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
           "summaryVi": "Langflow là nền tảng kéo-thả để thiết kế, thử và triển khai agent cùng workflow AI, có API và MCP server. Dùng khi muốn dựng luồng multi-agent nhanh trên giao diện, vẫn chỉnh được component bằng Python.",
           "language": "Python",
-          "stars": 156723,
+          "stars": 156755,
           "topics": [
             "agents",
             "chatgpt",
@@ -3501,7 +3502,7 @@
             "multiagent",
             "react-flow"
           ],
-          "updatedAt": "2026-11-18T00:53:28Z",
+          "updatedAt": "2026-11-19T00:48:44Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3513,7 +3514,7 @@
           "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
           "summaryVi": "Engine RAG mã nguồn mở kết hợp retrieval với agent để dựng lớp ngữ cảnh chất lượng cao cho LLM. Phù hợp khi cần quy trình RAG linh hoạt, đưa dữ liệu phức tạp thành hệ AI production cho doanh nghiệp mọi quy mô.",
           "language": "Go",
-          "stars": 94332,
+          "stars": 94400,
           "topics": [
             "agent-harness",
             "agent-native-database",
@@ -3532,7 +3533,7 @@
             "retrieval-harness",
             "search-harness"
           ],
-          "updatedAt": "2026-11-18T01:12:45Z",
+          "updatedAt": "2026-11-19T00:29:50Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3544,7 +3545,7 @@
           "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
           "summaryVi": "",
           "language": "Python",
-          "stars": 87485,
+          "stars": 87536,
           "topics": [
             "ai",
             "ai-agents",
@@ -3563,7 +3564,7 @@
             "web-crawling",
             "web-scraping"
           ],
-          "updatedAt": "2026-11-18T00:41:35Z",
+          "updatedAt": "2026-11-19T00:18:30Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3575,7 +3576,7 @@
           "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
           "summaryVi": "Lớp bộ nhớ phổ quát cho agent AI, trích xuất và truy hồi sự kiện/ngữ cảnh hiệu quả token với liên kết thực thể và lý luận thời gian. Gắn vào agent khi cần nhớ dài hạn qua nhiều lượt hội thoại mà không nhồi toàn bộ lịch sử vào prompt.",
           "language": "Python",
-          "stars": 69137,
+          "stars": 69203,
           "topics": [
             "agentic-memory",
             "agentic-memory-system",
@@ -3592,7 +3593,7 @@
             "rag",
             "state-management"
           ],
-          "updatedAt": "2026-11-18T01:29:20Z",
+          "updatedAt": "2026-11-19T00:39:48Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3604,7 +3605,7 @@
           "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
           "summaryVi": "Appwrite là nền tảng backend mã nguồn mở gộp auth, database, storage, functions và hosting. Phù hợp team cần dựng web/mobile/AI app nhanh, có thể dùng cloud hoặc tự host.",
           "language": "TypeScript",
-          "stars": 58261,
+          "stars": 58227,
           "topics": [
             "android",
             "appwrite",
@@ -3627,7 +3628,7 @@
             "swift",
             "web"
           ],
-          "updatedAt": "2026-11-18T01:11:14Z",
+          "updatedAt": "2026-11-19T00:56:41Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3639,7 +3640,7 @@
           "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
           "summaryVi": "Máy tính internet mã nguồn mở, tự host được, gom ứng dụng làm việc, sáng tạo và giải trí trong một môi trường giống desktop trên trình duyệt. Phù hợp người dùng muốn all-in-one và lập trình viên cần nền tảng xuất bản web app, game kèm lưu trữ, AI và serverless.",
           "language": "TypeScript",
-          "stars": 44198,
+          "stars": 44206,
           "topics": [
             "cloud",
             "cloud-os",
@@ -3662,7 +3663,7 @@
             "web-os",
             "webtop"
           ],
-          "updatedAt": "2026-11-17T22:47:43Z",
+          "updatedAt": "2026-11-18T22:29:15Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3674,7 +3675,7 @@
           "description": "Easily train a good VC model with voice data <= 10 mins!",
           "summaryVi": "Framework WebUI chuyển đổi/huấn luyện giọng nói dựa trên truy xuất đặc trưng, chỉ cần khoảng 10 phút audio sạch là có thể train. Dùng khi muốn clone giọng, làm AI cover hoặc biến giọng realtime với độ trễ thấp trên máy cá nhân.",
           "language": "Python",
-          "stars": 39313,
+          "stars": 39325,
           "topics": [
             "audio-analysis",
             "change",
@@ -3693,7 +3694,7 @@
             "voice-converter",
             "voiceconversion"
           ],
-          "updatedAt": "2026-11-18T01:11:38Z",
+          "updatedAt": "2026-11-18T21:27:15Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3705,7 +3706,7 @@
           "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
           "summaryVi": "Công cụ dịch PDF khoa học giữ layout, công thức, biểu đồ và chú thích, hỗ trợ CLI, UI và Docker. Phù hợp khi cần dịch paper/tài liệu kỹ thuật sang nhiều ngôn ngữ mà không phá cấu trúc bản gốc.",
           "language": "Python",
-          "stars": 38495,
+          "stars": 38519,
           "topics": [
             "chinese",
             "document",
@@ -3727,7 +3728,7 @@
             "translation",
             "zotero"
           ],
-          "updatedAt": "2026-11-17T18:04:24Z",
+          "updatedAt": "2026-11-19T00:18:47Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3739,7 +3740,7 @@
           "description": "Vane is an AI-powered answering engine.",
           "summaryVi": "Vane là máy trả lời AI chạy trên máy của bạn, kết hợp tìm kiếm web (SearxNG) với LLM local hoặc cloud và trích dẫn nguồn. Dùng khi cần tra cứu riêng tư, chọn chế độ tốc độ/chất lượng, tải file hỏi đáp hoặc giới hạn theo domain.",
           "language": "TypeScript",
-          "stars": 38237,
+          "stars": 38252,
           "topics": [
             "ai-agents",
             "ai-search-engine",
@@ -3756,7 +3757,7 @@
             "self-hosted-ai",
             "vane"
           ],
-          "updatedAt": "2026-11-18T01:06:30Z",
+          "updatedAt": "2026-11-19T00:56:27Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3768,7 +3769,7 @@
           "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
           "summaryVi": "Không gian làm việc để thiết kế, triển khai và theo dõi AI agent cùng workflow, tích hợp LLM và hàng nghìn dịch vụ. Phù hợp khi muốn dựng agent trực quan hoặc bằng code, quản lý file/knowledge và tự host hoặc dùng bản cloud.",
           "language": "TypeScript",
-          "stars": 30154,
+          "stars": 30158,
           "topics": [
             "agent-workflow",
             "agentic-workflow",
@@ -3789,7 +3790,7 @@
             "react",
             "typescript"
           ],
-          "updatedAt": "2026-11-17T23:20:06Z",
+          "updatedAt": "2026-11-18T23:53:13Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3801,7 +3802,7 @@
           "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
           "summaryVi": "Framework dựng giao diện kéo-thả để soạn HTML/CSS cho trang web, email hoặc template trong CMS. Dùng khi muốn nhúng trình thiết kế trực quan vào sản phẩm của mình.",
           "language": "TypeScript",
-          "stars": 26418,
+          "stars": 26426,
           "topics": [
             "drag-and-drop",
             "framework",
@@ -3816,7 +3817,7 @@
             "web-builder-framework",
             "website-builder"
           ],
-          "updatedAt": "2026-11-17T22:53:25Z",
+          "updatedAt": "2026-11-18T23:51:10Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3828,14 +3829,14 @@
           "description": "An open-source RAG-based tool for chatting with your documents.",
           "summaryVi": "Giao diện RAG mã nguồn mở để hỏi đáp trên tài liệu của bạn, hỗ trợ nhiều LLM (API và local) cùng pipeline truy xuất hybrid. Phù hợp người dùng cuối cần QA tài liệu và dev muốn tùy biến pipeline RAG.",
           "language": "Python",
-          "stars": 25914,
+          "stars": 25918,
           "topics": [
             "chatbot",
             "llms",
             "open-source",
             "rag"
           ],
-          "updatedAt": "2026-11-17T22:59:00Z",
+          "updatedAt": "2026-11-18T21:16:05Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3847,7 +3848,7 @@
           "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
           "summaryVi": "Kho hơn 50 tutorial Jupyter về xây dựng GenAI agent, từ chatbot đơn giản đến hệ đa agent và use case thực tế. Hợp người học/làm AI muốn có ví dụ tay và lộ trình từ demo tới hướng production.",
           "language": "Jupyter Notebook",
-          "stars": 25021,
+          "stars": 25062,
           "topics": [
             "agentic-ai",
             "agents",
@@ -3869,7 +3870,7 @@
             "rag",
             "tutorials"
           ],
-          "updatedAt": "2026-11-18T01:20:21Z",
+          "updatedAt": "2026-11-19T00:28:38Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3881,9 +3882,9 @@
           "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
           "summaryVi": "Thư viện Rust (kèm CLI, Node, Python, WASM) chuyển Word, PowerPoint, Excel, PDF và nhiều định dạng văn phòng sang Markdown thống nhất, sạch. Hợp khi cần đưa tài liệu vào LLM hoặc pipeline parse nhanh, chạy local.",
           "language": "Rust",
-          "stars": 23588,
+          "stars": 23606,
           "topics": [],
-          "updatedAt": "2026-11-17T20:11:13Z",
+          "updatedAt": "2026-11-19T00:45:41Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3895,7 +3896,7 @@
           "description": "open-source agentic AI data assistant for the next generation of AI + Data products.",
           "summaryVi": "Trợ lý AI agentic mã nguồn mở kết nối database, CSV/Excel và kho tri thức, tự viết SQL/code, chạy skill trong sandbox rồi xuất báo cáo, biểu đồ. Phù hợp team muốn hỏi dữ liệu bằng ngôn ngữ tự nhiên và dựng workflow phân tích an toàn.",
           "language": "Python",
-          "stars": 20305,
+          "stars": 20308,
           "topics": [
             "agents",
             "bgi",
@@ -3910,7 +3911,7 @@
             "security",
             "vicuna"
           ],
-          "updatedAt": "2026-11-18T00:32:59Z",
+          "updatedAt": "2026-11-18T17:04:17Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3922,7 +3923,7 @@
           "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
           "summaryVi": "Agent nghiên cứu sâu tối giản: lặp tìm kiếm, crawl web và dùng LLM, mỗi vòng dựa trên kết quả trước để đào sâu chủ đề rồi gộp thành báo cáo markdown có nguồn. Dùng khi muốn prototype deep research tự chạy, dễ fork và tùy biến.",
           "language": "TypeScript",
-          "stars": 19909,
+          "stars": 19910,
           "topics": [
             "agent",
             "ai",
@@ -3930,7 +3931,7 @@
             "o3-mini",
             "research"
           ],
-          "updatedAt": "2026-11-18T00:36:43Z",
+          "updatedAt": "2026-11-18T09:49:43Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3942,7 +3943,7 @@
           "description": "Turn any website into a structured API. Extract, automate, search and monitor the web.",
           "summaryVi": "Nền tảng no-code mã nguồn mở để scrape, crawl và trích xuất dữ liệu web thành API có cấu trúc. Phù hợp khi muốn biến trang web thành nguồn dữ liệu realtime mà ít phải viết code thu thập.",
           "language": "TypeScript",
-          "stars": 18502,
+          "stars": 18516,
           "topics": [
             "agents",
             "api",
@@ -3963,7 +3964,7 @@
             "web-search",
             "webscraping"
           ],
-          "updatedAt": "2026-11-18T01:08:50Z",
+          "updatedAt": "2026-11-18T21:53:58Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -3975,7 +3976,7 @@
           "description": "Store securely encrypted backups in the cloud!",
           "summaryVi": "Client sao lưu mã nguồn mở (C#) tạo bản backup mã hóa AES, incremental và nén lên S3, Drive, OneDrive, SFTP và nhiều dịch vụ đám mây khác. Dùng khi cần tự động backup an toàn trên Windows, macOS hoặc Linux.",
           "language": "C#",
-          "stars": 15216,
+          "stars": 15218,
           "topics": [
             "backup",
             "c-sharp",
@@ -3989,7 +3990,7 @@
             "trust-no-one-backup",
             "webdav"
           ],
-          "updatedAt": "2026-11-17T21:44:26Z",
+          "updatedAt": "2026-11-18T11:21:18Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4001,7 +4002,7 @@
           "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
           "summaryVi": "Bộ công cụ all-in-one giúp freelancer và solo entrepreneur quản lý vận hành: chấm công dự án, hóa đơn, khớp biên lai, lưu file và xuất dữ liệu kế toán. Dùng khi muốn gom tài chính, thời gian và trợ lý AI vào một chỗ thay vì rải rác nhiều app.",
           "language": "TypeScript",
-          "stars": 15124,
+          "stars": 15126,
           "topics": [
             "finance",
             "nextjs",
@@ -4009,7 +4010,7 @@
             "tailwind",
             "typescript"
           ],
-          "updatedAt": "2026-11-17T20:50:54Z",
+          "updatedAt": "2026-11-18T23:41:31Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4021,7 +4022,7 @@
           "description": "The visual editor for React.",
           "summaryVi": "Trình soạn thảo kéo-thả mã nguồn mở cho React, gắn component tự viết để dựng trang mà vẫn giữ dữ liệu trong tay bạn. Dùng khi cần CMS/editor trực quan nhúng vào Next.js hoặc app React, không bị khóa vendor.",
           "language": "TypeScript",
-          "stars": 13726,
+          "stars": 13735,
           "topics": [
             "ai",
             "builder",
@@ -4034,7 +4035,7 @@
             "react",
             "visual-editor"
           ],
-          "updatedAt": "2026-11-17T20:50:38Z",
+          "updatedAt": "2026-11-18T15:00:58Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4046,7 +4047,7 @@
           "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
           "summaryVi": "App Markdown local-first: ghi nhanh ý rời (chữ, giọng, ảnh, link) rồi nhờ AI gom thành note có cấu trúc. Dùng khi muốn capture không gián đoạn tư duy rồi tổ chức lại sau.",
           "language": "TypeScript",
-          "stars": 13028,
+          "stars": 13032,
           "topics": [
             "agent",
             "ai-notes",
@@ -4065,7 +4066,7 @@
             "tauri",
             "webdav"
           ],
-          "updatedAt": "2026-11-17T23:04:15Z",
+          "updatedAt": "2026-11-18T22:14:15Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4077,7 +4078,7 @@
           "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!",
           "summaryVi": "Công cụ tìm kiếm nghiên cứu dùng AI agent: phân rã câu hỏi, truy xuất nguồn trực tiếp và trả lời kèm trích dẫn. Phù hợp khi cần tra cứu nhanh có kiểm chứng thay vì chat thuần.",
           "language": "TypeScript",
-          "stars": 11948,
+          "stars": 11949,
           "topics": [
             "ai-search-engine",
             "minimalistic-ai-search-engine",
@@ -4085,7 +4086,7 @@
             "scira-ai",
             "search-engine"
           ],
-          "updatedAt": "2026-11-18T00:06:47Z",
+          "updatedAt": "2026-11-18T03:04:17Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4097,7 +4098,7 @@
           "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
           "summaryVi": "Nền tảng TypeScript mã nguồn mở để xây dựng agent AI có bộ nhớ, công cụ, RAG, workflow và hệ multi-agent có supervisor, kèm console quan sát và vận hành. Dùng khi cần viết agent kiểm soát bằng code rồi đưa lên môi trường production với khả năng theo dõi và triển khai.",
           "language": "TypeScript",
-          "stars": 10991,
+          "stars": 10995,
           "topics": [
             "agents",
             "ai",
@@ -4120,7 +4121,7 @@
             "tts",
             "typescript"
           ],
-          "updatedAt": "2026-11-17T15:27:47Z",
+          "updatedAt": "2026-11-19T00:39:18Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4132,12 +4133,12 @@
           "description": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
           "summaryVi": "Tổng hợp case, bài viết và tài nguyên về kiếm thêm thu nhập nhờ AI (nội dung, tool, độc lập phát triển, khởi nghiệp). Dùng khi cần ý tưởng và checklist thực tế cho side hustle thời AI, không phải bộ code chạy sẵn.",
           "language": "CSS",
-          "stars": 7328,
+          "stars": 7405,
           "topics": [
             "awesome",
             "jobleap"
           ],
-          "updatedAt": "2026-11-17T23:08:40Z",
+          "updatedAt": "2026-11-18T23:41:17Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4149,7 +4150,7 @@
           "description": "Turn any webpage into structured data using LLMs",
           "summaryVi": "Thư viện TypeScript dùng LLM và Playwright để bóc dữ liệu có cấu trúc từ mọi trang web theo schema Zod/JSON. Phù hợp khi cần scrape có kiểu an toàn, stream kết quả hoặc sinh script Playwright tái sử dụng.",
           "language": "TypeScript",
-          "stars": 6956,
+          "stars": 6955,
           "topics": [
             "ai",
             "artificial-intelligence",
@@ -4165,7 +4166,7 @@
             "puppeteer",
             "scraper"
           ],
-          "updatedAt": "2026-11-17T20:51:24Z",
+          "updatedAt": "2026-11-18T09:49:11Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4177,7 +4178,7 @@
           "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
           "summaryVi": "",
           "language": "JavaScript",
-          "stars": 6944,
+          "stars": 6943,
           "topics": [
             "ai-search-engine",
             "gpt",
@@ -4190,7 +4191,7 @@
             "transformer",
             "web-search"
           ],
-          "updatedAt": "2026-11-17T20:51:33Z",
+          "updatedAt": "2026-11-18T09:49:12Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4265,7 +4266,7 @@
           "description": "User Profile-Based Long-Term Memory for AI Chatbot Applications. ",
           "summaryVi": "Hệ thống bộ nhớ dài hạn theo hồ sơ và timeline sự kiện người dùng cho ứng dụng LLM, tối ưu chi phí và độ trễ truy xuất. Phù hợp chatbot/trợ lý cần nhớ và cá nhân hóa qua nhiều phiên hội thoại.",
           "language": "Python",
-          "stars": 2960,
+          "stars": 2961,
           "topics": [
             "ai-companion",
             "ai-memory",
@@ -4278,7 +4279,7 @@
             "retrieval",
             "user-memory"
           ],
-          "updatedAt": "2026-11-17T12:20:47Z",
+          "updatedAt": "2026-11-18T14:28:29Z",
           "archived": false,
           "category": "rag-search"
         },
@@ -4504,14 +4505,14 @@
           "description": "DeepSeek Harness: Everything is a Plugin.",
           "summaryVi": "Khung agent mã nguồn mở của DeepSeek: mọi thứ (model, tool, sandbox, UI, vòng lặp agent) đều là plugin, chạy Web UI hoặc headless. Phù hợp khi muốn tự chạy/tùy biến coding agent local và ghép plugin theo kiến trúc Cordis.",
           "language": "TypeScript",
-          "stars": 283020,
+          "stars": 283625,
           "topics": [
             "ai-agents",
             "cordis",
             "dsh",
             "dsh-plugin"
           ],
-          "updatedAt": "2026-11-18T01:30:11Z",
+          "updatedAt": "2026-11-19T00:58:13Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4523,7 +4524,7 @@
           "description": "📨 The ultimate agentic social media scheduling tool 🤖",
           "summaryVi": "Công cụ lên lịch và quản lý bài đăng mạng xã hội có AI, analytics và cộng tác nhóm, thay thế Buffer/Hypefury. Phù hợp team hoặc cá nhân muốn tự host hoặc tự động hóa đăng bài qua API.",
           "language": "TypeScript",
-          "stars": 41837,
+          "stars": 41915,
           "topics": [
             "nextjs",
             "open-source",
@@ -4536,7 +4537,7 @@
             "social-media-scheduling-tool",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T01:22:01Z",
+          "updatedAt": "2026-11-19T00:58:28Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4548,7 +4549,7 @@
           "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
           "summaryVi": "SDK full-stack để gắn agent vào giao diện người dùng: chat, Generative UI, shared state và human-in-the-loop trên React và nhiều framework, kể cả Slack/Teams. Dùng khi muốn cùng một agent điều khiển web, mobile hoặc workspace với UI sinh động theo tool call.",
           "language": "TypeScript",
-          "stars": 38776,
+          "stars": 38805,
           "topics": [
             "agent",
             "agent-native",
@@ -4571,7 +4572,31 @@
             "ts",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T01:24:57Z",
+          "updatedAt": "2026-11-19T00:31:14Z",
+          "archived": false,
+          "category": "agent-llm"
+        },
+        {
+          "id": 1209343409,
+          "fullName": "h4ckf0r0day/obscura",
+          "name": "obscura",
+          "url": "https://github.com/h4ckf0r0day/obscura",
+          "description": "The headless browser for AI agents and web scraping",
+          "summaryVi": "",
+          "language": "Rust",
+          "stars": 36405,
+          "topics": [
+            "antidetect",
+            "antidetect-browser",
+            "browser",
+            "browser-automation",
+            "cdp",
+            "headless",
+            "playwright",
+            "puppeteer",
+            "rust"
+          ],
+          "updatedAt": "2026-11-19T00:57:34Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4601,32 +4626,8 @@
             "t3",
             "t3-stack"
           ],
-          "updatedAt": "2026-11-17T21:14:43Z",
+          "updatedAt": "2026-11-18T23:53:39Z",
           "archived": true,
-          "category": "agent-llm"
-        },
-        {
-          "id": 1209343409,
-          "fullName": "h4ckf0r0day/obscura",
-          "name": "obscura",
-          "url": "https://github.com/h4ckf0r0day/obscura",
-          "description": "The headless browser for AI agents and web scraping",
-          "summaryVi": "",
-          "language": "Rust",
-          "stars": 36213,
-          "topics": [
-            "antidetect",
-            "antidetect-browser",
-            "browser",
-            "browser-automation",
-            "cdp",
-            "headless",
-            "playwright",
-            "puppeteer",
-            "rust"
-          ],
-          "updatedAt": "2026-11-18T01:22:54Z",
-          "archived": false,
           "category": "agent-llm"
         },
         {
@@ -4637,7 +4638,7 @@
           "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
           "summaryVi": "Composio cung cấp SDK và hơn 1000 toolkit đã xác thực sẵn để agent AI gọi được app bên ngoài theo từng user session. Phù hợp khi muốn agent thực thi hành động thật (không chỉ chat) qua TypeScript/Python, CLI hoặc MCP.",
           "language": "TypeScript",
-          "stars": 31150,
+          "stars": 31165,
           "topics": [
             "agentic-ai",
             "agents",
@@ -4657,7 +4658,7 @@
             "sse",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T01:29:04Z",
+          "updatedAt": "2026-11-18T23:31:17Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4669,7 +4670,7 @@
           "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
           "summaryVi": "Công cụ gói toàn bộ codebase thành một file tối ưu cho AI, kèm đếm token và tôn trọng .gitignore. Dùng khi cần đưa ngữ cảnh repo cho Claude, ChatGPT hay các LLM khác chỉ với một lệnh.",
           "language": "TypeScript",
-          "stars": 29305,
+          "stars": 29322,
           "topics": [
             "ai",
             "anthropic",
@@ -4692,7 +4693,7 @@
             "openai",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T01:28:03Z",
+          "updatedAt": "2026-11-18T23:53:12Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4704,7 +4705,7 @@
           "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
           "summaryVi": "Trợ lý AI tự chủ chạy 100% local: duyệt web, viết code và chia việc cho nhiều agent mà không phụ thuộc cloud. Dùng khi muốn thay Manus nhưng giữ dữ liệu và suy luận trên máy mình.",
           "language": "Python",
-          "stars": 27671,
+          "stars": 27675,
           "topics": [
             "agentic-ai",
             "agents",
@@ -4715,7 +4716,7 @@
             "llm-agents",
             "voice-assistant"
           ],
-          "updatedAt": "2026-11-18T01:26:30Z",
+          "updatedAt": "2026-11-19T00:56:50Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4727,7 +4728,7 @@
           "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
           "summaryVi": "SDK điều khiển trình duyệt dành cho agent AI, API gần Playwright kèm thao tác tự phục hồi và tối ưu ngữ cảnh trang. Dùng khi xây bot/agent cần duyệt web ổn định hơn so với automation thuần cho testing.",
           "language": "TypeScript",
-          "stars": 26081,
+          "stars": 26093,
           "topics": [
             "agents",
             "ai",
@@ -4744,7 +4745,7 @@
             "web-automation",
             "web-scraping"
           ],
-          "updatedAt": "2026-11-18T01:22:52Z",
+          "updatedAt": "2026-11-19T00:16:17Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4756,7 +4757,7 @@
           "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
           "summaryVi": "Nền tảng tự động hóa workflow mã nguồn mở kiểu Zapier, mở rộng bằng các piece TypeScript và tích hợp AI/MCP. Dùng khi cần self-host luồng tự động cho technical lẫn non-technical, có kiểm soát bảo mật và tùy biến doanh nghiệp.",
           "language": "TypeScript",
-          "stars": 25590,
+          "stars": 25612,
           "topics": [
             "ai-agent",
             "ai-agent-tools",
@@ -4772,7 +4773,7 @@
             "workflow-automation",
             "workflows"
           ],
-          "updatedAt": "2026-11-17T22:56:39Z",
+          "updatedAt": "2026-11-19T00:31:26Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4784,9 +4785,9 @@
           "description": "Fastest and cheapest web agent",
           "summaryVi": "",
           "language": "Python",
-          "stars": 24570,
+          "stars": 24648,
           "topics": [],
-          "updatedAt": "2026-11-18T00:44:43Z",
+          "updatedAt": "2026-11-19T00:38:04Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4798,7 +4799,7 @@
           "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
           "summaryVi": "Framework Python mã nguồn mở, code-first để xây, đánh giá và triển khai agent AI theo luồng workflow và hệ đa agent. Dùng khi muốn kiểm soát chặt logic agent, tool và orchestration thay vì chỉ gọi model đơn lẻ.",
           "language": "Python",
-          "stars": 22255,
+          "stars": 22265,
           "topics": [
             "agent",
             "agentic",
@@ -4817,7 +4818,7 @@
             "multi-agents",
             "multi-agents-collaboration"
           ],
-          "updatedAt": "2026-11-18T00:09:18Z",
+          "updatedAt": "2026-11-18T23:00:42Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4829,7 +4830,7 @@
           "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
           "summaryVi": "Framework đa agent (trên CAMEL-AI) cho cộng tác động và tự động hóa tác vụ thực tế, có điểm GAIA cao trong nhóm open-source. Phù hợp khi xây hệ trợ lý nhiều agent phối hợp xử lý việc phức tạp.",
           "language": "Python",
-          "stars": 20197,
+          "stars": 20198,
           "topics": [
             "agent",
             "artificial-intelligence",
@@ -4837,7 +4838,7 @@
             "task-automation",
             "web-interaction"
           ],
-          "updatedAt": "2026-11-18T00:33:43Z",
+          "updatedAt": "2026-11-18T23:53:14Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4849,7 +4850,7 @@
           "description": "Agent Zero AI framework",
           "summaryVi": "Framework agent AI mã nguồn mở cho agent một môi trường Linux đầy đủ trong Docker, kèm trình duyệt, soạn thảo tài liệu chung, plugin và cầu nối máy host. Phù hợp khi cần agent làm việc thực tế ngoài chat: GUI, terminal, dự án và phối hợp đa agent.",
           "language": "Python",
-          "stars": 19904,
+          "stars": 19918,
           "topics": [
             "agent",
             "ai",
@@ -4858,7 +4859,7 @@
             "linux",
             "zero"
           ],
-          "updatedAt": "2026-11-18T00:37:30Z",
+          "updatedAt": "2026-11-19T00:20:52Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4870,7 +4871,7 @@
           "description": "Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.",
           "summaryVi": "Biến repo GitHub (công khai hoặc private) thành sơ đồ kiến trúc tương tác, có link về file thật và xuất Mermaid/PNG. Hữu ích khi muốn nắm cấu trúc hệ thống nhanh thay vì chỉ xem cây thư mục.",
           "language": "TypeScript",
-          "stars": 18976,
+          "stars": 18996,
           "topics": [
             "ai",
             "architecture-diagram",
@@ -4889,7 +4890,7 @@
             "system-design",
             "video"
           ],
-          "updatedAt": "2026-11-18T00:47:06Z",
+          "updatedAt": "2026-11-19T00:40:35Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4901,7 +4902,7 @@
           "description": "Your agent team, in one group chat.",
           "summaryVi": "Ứng dụng desktop AI “đồng nghiệp” có bộ nhớ dạng knowledge graph, tích hợp email, ghi chú họp, trình duyệt và agent nền. Dùng khi muốn AI hiểu ngữ cảnh công việc và thao tác giúp trên máy local.",
           "language": "TypeScript",
-          "stars": 18290,
+          "stars": 18297,
           "topics": [
             "agents",
             "agents-sdk",
@@ -4919,7 +4920,7 @@
             "orchestration",
             "productivity"
           ],
-          "updatedAt": "2026-11-18T00:55:42Z",
+          "updatedAt": "2026-11-18T21:59:50Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4931,14 +4932,14 @@
           "description": "Your API ⇒ Paid MCP. Instantly.",
           "summaryVi": "Nền tảng (đã archive) kiểu chợ công cụ MCP/API trả phí cho LLM, curated kỹ và tích hợp SDK TypeScript. Dùng tham khảo khi cần cổng MCP có billing hoặc xuất bản tool thu phí cho agent, không còn phát triển tích cực.",
           "language": "TypeScript",
-          "stars": 18083,
+          "stars": 18084,
           "topics": [
             "agents",
             "ai",
             "llms",
             "openai"
           ],
-          "updatedAt": "2026-11-18T00:57:20Z",
+          "updatedAt": "2026-11-18T10:04:16Z",
           "archived": true,
           "category": "agent-llm"
         },
@@ -4960,7 +4961,7 @@
             "python",
             "ui"
           ],
-          "updatedAt": "2026-11-17T20:30:27Z",
+          "updatedAt": "2026-11-18T21:22:16Z",
           "archived": true,
           "category": "agent-llm"
         },
@@ -4972,7 +4973,7 @@
           "description": "A curated list of  120+ LLM libraries category wise. ",
           "summaryVi": "Danh mục hơn 120 thư viện LLM được xếp theo nhóm như training, RAG, agent, inference, eval và monitoring. Dùng khi cần định hướng stack hoặc tìm đúng công cụ cho từng khâu xây dựng hệ thống LLM.",
           "language": "",
-          "stars": 11090,
+          "stars": 11092,
           "topics": [
             "ai-engineer",
             "generative-ai",
@@ -4980,7 +4981,7 @@
             "llm-engineer",
             "llms"
           ],
-          "updatedAt": "2026-11-17T19:34:14Z",
+          "updatedAt": "2026-11-18T17:24:40Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -4992,7 +4993,7 @@
           "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 10915,
+          "stars": 10987,
           "topics": [
             "ai",
             "chinese",
@@ -5007,7 +5008,7 @@
             "self-hosted",
             "typescript"
           ],
-          "updatedAt": "2026-11-18T01:25:48Z",
+          "updatedAt": "2026-11-19T00:35:51Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5019,9 +5020,9 @@
           "description": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 10430,
+          "stars": 10469,
           "topics": [],
-          "updatedAt": "2026-11-18T01:29:41Z",
+          "updatedAt": "2026-11-19T00:39:20Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5033,7 +5034,7 @@
           "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
           "summaryVi": "Framework điều phối nhiều agent AI: phân loại ý định, định tuyến câu hỏi tới agent phù hợp và giữ ngữ cảnh hội thoại. Có bản Python/TypeScript trên cloud và Swift chạy on-device cho hệ Apple.",
           "language": "Python",
-          "stars": 7804,
+          "stars": 7805,
           "topics": [
             "agentic-ai",
             "agents",
@@ -5056,7 +5057,7 @@
             "serverless",
             "typescript"
           ],
-          "updatedAt": "2026-11-17T20:51:33Z",
+          "updatedAt": "2026-11-18T09:49:29Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5068,7 +5069,7 @@
           "description": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
           "summaryVi": "Framework TypeScript điều phối multi-agent: đưa mục tiêu, tự lập DAG nhiệm vụ rồi chạy có thể kiểm tra và replay. Dùng trong backend Node.js khi cần orchestration agent động thay vì hard-code luồng.",
           "language": "TypeScript",
-          "stars": 7065,
+          "stars": 7067,
           "topics": [
             "agent-framework",
             "agent-orchestration",
@@ -5090,7 +5091,7 @@
             "self-hosted",
             "typescript"
           ],
-          "updatedAt": "2026-11-17T19:49:09Z",
+          "updatedAt": "2026-11-18T22:57:02Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5104,7 +5105,7 @@
           "language": "TypeScript",
           "stars": 7020,
           "topics": [],
-          "updatedAt": "2026-11-17T04:04:35Z",
+          "updatedAt": "2026-11-18T16:55:47Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5116,7 +5117,7 @@
           "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
           "summaryVi": "Framework mã nguồn mở (AgentOS) để xây agent AI, gọi LLM/tool và điều phối hội thoại đa agent, có human-in-the-loop. Phù hợp nghiên cứu và triển khai workflow agentic thay cho stack classic cũ.",
           "language": "Python",
-          "stars": 5073,
+          "stars": 5076,
           "topics": [
             "a2a",
             "ag2",
@@ -5135,7 +5136,7 @@
             "open-source",
             "python"
           ],
-          "updatedAt": "2026-11-17T13:52:49Z",
+          "updatedAt": "2026-11-18T20:36:55Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5155,7 +5156,7 @@
             "realtime-api",
             "typescript"
           ],
-          "updatedAt": "2026-11-17T20:10:34Z",
+          "updatedAt": "2026-11-18T19:14:56Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5167,7 +5168,7 @@
           "description": "Build production-ready AI agents in both Python and Typescript.",
           "summaryVi": "Bộ công cụ Python/TypeScript xây agent và hệ multi-agent sẵn sàng production: lý luận, gọi tool, workflow và giao thức ACP/MCP. Dùng khi cần agent tự chủ, cộng tác giải bài phức tạp.",
           "language": "Python",
-          "stars": 3462,
+          "stars": 3461,
           "topics": [
             "agents",
             "ai",
@@ -5179,7 +5180,7 @@
             "python",
             "typescript"
           ],
-          "updatedAt": "2026-11-16T17:33:29Z",
+          "updatedAt": "2026-11-18T09:49:25Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5225,7 +5226,7 @@
           "description": "✨多agent实现全自动AI小说生成",
           "summaryVi": "",
           "language": "Go",
-          "stars": 2339,
+          "stars": 2347,
           "topics": [
             "agents",
             "ai",
@@ -5235,7 +5236,7 @@
             "novel",
             "openai"
           ],
-          "updatedAt": "2026-11-17T21:33:41Z",
+          "updatedAt": "2026-11-18T16:05:23Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5263,9 +5264,9 @@
           "description": "【影策】面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 1895,
+          "stars": 1913,
           "topics": [],
-          "updatedAt": "2026-11-17T18:18:00Z",
+          "updatedAt": "2026-11-19T00:18:16Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5353,13 +5354,13 @@
           "description": "Visual AI workflow automation platform",
           "summaryVi": "Template dựng nền tảng automation workflow kéo-thả (React Flow) với AI, tích hợp email/Linear/Slack/PostgreSQL, theo dõi chạy và sinh TypeScript. Dùng khi muốn tự host hệ thống workflow kiểu visual builder trên stack Vercel.",
           "language": "TypeScript",
-          "stars": 1241,
+          "stars": 1242,
           "topics": [
             "agents",
             "ai",
             "workflows"
           ],
-          "updatedAt": "2026-11-14T06:50:13Z",
+          "updatedAt": "2026-11-18T10:14:18Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5445,7 +5446,7 @@
           "description": "Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions",
           "summaryVi": "Ứng dụng Next.js kết hợp sandbox desktop E2B với OpenAI Computer Use để agent nhận lệnh tiếng tự nhiên, thao tác máy ảo và stream hành động realtime. Dùng khi cần demo hoặc xây agent “dùng máy tính” qua giao diện web.",
           "language": "TypeScript",
-          "stars": 882,
+          "stars": 881,
           "topics": [
             "ai",
             "automation",
@@ -5456,7 +5457,7 @@
             "sandbox",
             "virtual-desktop"
           ],
-          "updatedAt": "2026-11-16T05:28:57Z",
+          "updatedAt": "2026-11-18T09:49:13Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5528,7 +5529,7 @@
           "description": "A World of Tanks-style armored combat simulator built directly with Three.js and Vite: 311 vehicles, 33 destructible battlefields, and 14 modes, with plate-level armor, ballistics, modules, spotting, and physics. Play in your browser on desktop or mobile. Built end-to-end by a multi-agent Claude/Codex pipeline.",
           "summaryVi": "Mô phỏng chiến đấu xe tăng kiểu World of Tanks chạy trên trình duyệt bằng Three.js, có vật lý đạn, giáp theo tấm và nhiều map. Chơi solo/multiplayer, xem chi tiết xe trong gallery hoặc dựng cảnh trong Scene Studio.",
           "language": "TypeScript",
-          "stars": 543,
+          "stars": 546,
           "topics": [
             "3d-game",
             "browser-game",
@@ -5545,7 +5546,7 @@
             "webgl",
             "world-of-tanks"
           ],
-          "updatedAt": "2026-11-17T07:02:52Z",
+          "updatedAt": "2026-11-18T18:27:43Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5693,7 +5694,7 @@
           "description": "CollabAI is an open-source & self-hosted AI operation platform for small and medium-sized businesses. It’s a customizable & team-centric platform where you can have access to custom AI agents tailored to your business needs.",
           "summaryVi": "Nền tảng AI tự host tích hợp OpenAI/Gemini/Claude: quản lý team, phân quyền theo phòng ban, assistant tùy chỉnh và lưu chat. Dùng khi tổ chức muốn ChatGPT nội bộ trên cloud riêng với kiểm soát API và cộng tác.",
           "language": "JavaScript",
-          "stars": 125,
+          "stars": 126,
           "topics": [
             "ai-for-agency",
             "ai-for-non-profit",
@@ -5714,7 +5715,7 @@
             "openai-assistant-api",
             "selfhostedai"
           ],
-          "updatedAt": "2026-11-13T13:41:20Z",
+          "updatedAt": "2026-11-18T23:28:03Z",
           "archived": false,
           "category": "agent-llm"
         },
@@ -5993,7 +5994,7 @@
           "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
           "summaryVi": "Môi trường frontend để xây, xem và kiểm thử UI component/trang tách biệt khỏi app chính. Dùng cho phát triển component, tài liệu hóa và kiểm tra giao diện theo từng trạng thái.",
           "language": "TypeScript",
-          "stars": 91617,
+          "stars": 91638,
           "topics": [
             "angular",
             "components",
@@ -6016,7 +6017,7 @@
             "webpack",
             "workshop"
           ],
-          "updatedAt": "2026-11-18T00:13:28Z",
+          "updatedAt": "2026-11-19T00:50:45Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6028,7 +6029,7 @@
           "description": "✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.",
           "summaryVi": "NextChat là ứng dụng chat AI gọn nhẹ, hỗ trợ Claude, DeepSeek, GPT-4 và Gemini trên web lẫn desktop. Dùng khi muốn một giao diện thống nhất để gọi nhiều model mà không phụ thuộc một nhà cung cấp.",
           "language": "TypeScript",
-          "stars": 88970,
+          "stars": 88977,
           "topics": [
             "calclaude",
             "claude",
@@ -6049,7 +6050,7 @@
             "vercel",
             "webui"
           ],
-          "updatedAt": "2026-11-18T01:12:01Z",
+          "updatedAt": "2026-11-18T21:03:22Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6061,7 +6062,7 @@
           "description": "The open alternative to Salesforce, designed for AI.",
           "summaryVi": "CRM mã nguồn mở thay Salesforce, cho phép định nghĩa đối tượng, view, workflow và agent dưới dạng code rồi triển khai như phần còn lại của stack. Phù hợp team kỹ thuật cần CRM tùy biến sâu, version được và tự host hoặc dùng cloud.",
           "language": "TypeScript",
-          "stars": 61073,
+          "stars": 61182,
           "topics": [
             "crm",
             "crm-system",
@@ -6081,7 +6082,7 @@
             "typescript",
             "web"
           ],
-          "updatedAt": "2026-11-18T01:25:38Z",
+          "updatedAt": "2026-11-19T00:49:06Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6093,7 +6094,7 @@
           "description": "Fast, easy and reliable testing for anything that runs in a browser.",
           "summaryVi": "Framework kiểm thử end-to-end cho mọi thứ chạy trên trình duyệt, tập trung tốc độ và độ ổn định. Dùng khi cần viết và chạy test UI/web tự động trên Mac, Linux hoặc Windows.",
           "language": "TypeScript",
-          "stars": 51028,
+          "stars": 51030,
           "topics": [
             "angular-testing-library",
             "component-testing",
@@ -6109,7 +6110,7 @@
             "testing-tool",
             "vue-testing-library"
           ],
-          "updatedAt": "2026-11-17T20:00:30Z",
+          "updatedAt": "2026-11-18T17:21:58Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6133,7 +6134,7 @@
             "visualization",
             "yaml"
           ],
-          "updatedAt": "2026-11-17T17:36:59Z",
+          "updatedAt": "2026-11-18T02:09:10Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6145,7 +6146,7 @@
           "description": "Video.js v10 - open source media player framework for HTML and React.",
           "summaryVi": "Trình phát video HTML5 mã nguồn mở cho web, hỗ trợ HLS/DASH và hệ sinh thái plugin. Dùng khi cần nhúng và tùy biến video trên desktop, mobile hay Smart TV.",
           "language": "TypeScript",
-          "stars": 40214,
+          "stars": 40221,
           "topics": [
             "dash",
             "hls",
@@ -6162,7 +6163,7 @@
             "videojs",
             "vue"
           ],
-          "updatedAt": "2026-11-17T19:47:50Z",
+          "updatedAt": "2026-11-18T19:52:24Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6174,7 +6175,7 @@
           "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
           "summaryVi": "Backend headless bọc SQL thành REST/GraphQL, Studio quản lý trực quan và MCP cho agent AI, kèm phân quyền theo trường. Dùng khi team kỹ thuật và non-tech (kể cả AI) cùng làm việc trên dữ liệu live mà không viết boilerplate API.",
           "language": "TypeScript",
-          "stars": 38747,
+          "stars": 38763,
           "topics": [
             "api",
             "app",
@@ -6197,7 +6198,7 @@
             "typescript",
             "vue"
           ],
-          "updatedAt": "2026-11-18T01:09:18Z",
+          "updatedAt": "2026-11-18T21:36:33Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6209,14 +6210,14 @@
           "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
           "summaryVi": "Thư viện component React (trước là NextUI) kết hợp React Aria và Tailwind CSS v4, API dạng compound, không cần Provider. Phù hợp SaaS, dashboard, thương mại điện tử và landing trên React/Next.js khi cần UI accessible, gọn runtime.",
           "language": "TypeScript",
-          "stars": 31244,
+          "stars": 31257,
           "topics": [
             "component-library",
             "components",
             "library",
             "reactjs"
           ],
-          "updatedAt": "2026-11-18T01:08:27Z",
+          "updatedAt": "2026-11-19T00:48:55Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6228,7 +6229,7 @@
           "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
           "summaryVi": "Trình vẽ sơ đồ database trên web: import schema bằng một câu query, chỉnh sửa tương tác rồi xuất DDL/SQL. Dùng để trực quan hóa, tài liệu hóa hoặc hỗ trợ migrate schema mà không cần cài app hay đưa mật khẩu DB lên công cụ.",
           "language": "TypeScript",
-          "stars": 23134,
+          "stars": 23138,
           "topics": [
             "database",
             "db",
@@ -6248,7 +6249,7 @@
             "visualization",
             "xyflow"
           ],
-          "updatedAt": "2026-11-17T18:54:40Z",
+          "updatedAt": "2026-11-18T18:53:52Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6260,7 +6261,7 @@
           "description": "A curated list of awesome things related to shadcn/ui.",
           "summaryVi": "Danh sách chọn lọc thư viện, component và tài nguyên xoay quanh shadcn/ui. Hữu ích khi tìm UI có sẵn, registry hoặc ý tưởng mở rộng cho dự án React/Tailwind dùng shadcn.",
           "language": "TypeScript",
-          "stars": 20832,
+          "stars": 20837,
           "topics": [
             "awesome",
             "awesome-list",
@@ -6271,7 +6272,7 @@
             "shadcn",
             "shadcn-ui"
           ],
-          "updatedAt": "2026-11-17T20:13:19Z",
+          "updatedAt": "2026-11-19T00:18:50Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6283,9 +6284,9 @@
           "description": "The Generative UI framework",
           "summaryVi": "Framework Generative UI: AI sinh giao diện từ prompt nhưng chỉ trong catalog component và schema bạn định nghĩa sẵn. Dùng khi muốn UI động theo ngôn ngữ tự nhiên mà vẫn kiểm soát được thành phần, an toàn và nhất quán trên web/mobile.",
           "language": "TypeScript",
-          "stars": 19759,
+          "stars": 19772,
           "topics": [],
-          "updatedAt": "2026-11-18T00:39:42Z",
+          "updatedAt": "2026-11-18T21:47:26Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6297,12 +6298,12 @@
           "description": "Examples and guides for using the Gemini API",
           "summaryVi": "Kho notebook hướng dẫn và ví dụ thực tế cho Gemini API, từ quickstart đến agent, ảnh, video và nhạc. Tham khảo khi học hoặc prototype tính năng Gemini theo từng bài hands-on.",
           "language": "Jupyter Notebook",
-          "stars": 17956,
+          "stars": 17960,
           "topics": [
             "gemini",
             "gemini-api"
           ],
-          "updatedAt": "2026-11-18T00:59:38Z",
+          "updatedAt": "2026-11-19T00:10:57Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6314,14 +6315,14 @@
           "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
           "summaryVi": "Template SaaS Next.js có landing, pricing Stripe, auth JWT, dashboard team và RBAC cơ bản trên Postgres/Drizzle. Hợp khởi động sản phẩm thu phí nhanh thay vì dựng auth và thanh toán từ đầu.",
           "language": "TypeScript",
-          "stars": 16255,
+          "stars": 16259,
           "topics": [
             "nextjs",
             "postgres",
             "shadcn-ui",
             "stripe"
           ],
-          "updatedAt": "2026-11-18T01:25:07Z",
+          "updatedAt": "2026-11-18T17:27:50Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6333,7 +6334,7 @@
           "description": "Typescript/React Library for AI Chat 💬🚀",
           "summaryVi": "Thư viện React/TypeScript dựng giao diện chat AI kiểu ChatGPT với streaming, markdown, tool UI và nhiều runtime backend. Dùng khi cần chat production trong app React mà không tự viết lại toàn bộ UX.",
           "language": "TypeScript",
-          "stars": 13293,
+          "stars": 13314,
           "topics": [
             "ai-chatbot",
             "base-ui",
@@ -6346,7 +6347,7 @@
             "ui-components",
             "vercel-ai-sdk"
           ],
-          "updatedAt": "2026-11-18T01:03:08Z",
+          "updatedAt": "2026-11-19T00:30:50Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6358,7 +6359,7 @@
           "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
           "summaryVi": "Trợ lý email AI mã nguồn mở: sắp hộp thư, soạn nháp theo giọng bạn, chặn cold email, hủy đăng ký hàng loạt và tích hợp Slack/Telegram. Dùng khi muốn giảm thời gian xử lý email mà vẫn tùy biến và tự kiểm soát dữ liệu.",
           "language": "TypeScript",
-          "stars": 13059,
+          "stars": 13066,
           "topics": [
             "ai",
             "email",
@@ -6378,7 +6379,7 @@
             "typescript",
             "upstash"
           ],
-          "updatedAt": "2026-11-17T22:21:55Z",
+          "updatedAt": "2026-11-19T00:49:43Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6390,7 +6391,7 @@
           "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
           "summaryVi": "Ứng dụng ghi chú dạng thẻ, tự host, hỗ trợ Markdown và tìm kiếm bằng AI (RAG). Phù hợp người muốn ghi ý tưởng nhanh và giữ toàn bộ dữ liệu trên hạ tầng của mình.",
           "language": "TypeScript",
-          "stars": 11225,
+          "stars": 11230,
           "topics": [
             "markdown",
             "memos",
@@ -6401,7 +6402,7 @@
             "react",
             "self-hosted"
           ],
-          "updatedAt": "2026-11-17T23:22:44Z",
+          "updatedAt": "2026-11-19T00:58:35Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6413,7 +6414,7 @@
           "description": "Vue port of shadcn-ui",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 10822,
+          "stars": 10829,
           "topics": [
             "accessible",
             "component-library",
@@ -6426,7 +6427,7 @@
             "vue",
             "vue-ui-kit"
           ],
-          "updatedAt": "2026-11-17T13:21:57Z",
+          "updatedAt": "2026-11-18T21:24:06Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6438,7 +6439,7 @@
           "description": "A visual no-code theme editor for shadcn/ui components",
           "summaryVi": "Trình chỉnh theme trực quan cho Tailwind CSS và shadcn/ui, kèm preset sẵn để tùy biến màu sắc và giao diện component. Dùng khi muốn app shadcn trông khác biệt thay vì đồng phục mặc định.",
           "language": "TypeScript",
-          "stars": 10554,
+          "stars": 10556,
           "topics": [
             "shadcn",
             "shadcn-theme",
@@ -6447,7 +6448,7 @@
             "tailwindcss",
             "tailwindcss-v4"
           ],
-          "updatedAt": "2026-11-17T11:02:26Z",
+          "updatedAt": "2026-11-18T08:21:38Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6473,9 +6474,9 @@
           "description": "Chrome Extension Boilerplate with React + Vite + Typescript",
           "summaryVi": "Boilerplate React + TypeScript + Vite/Turborepo (Tailwind, MV3, HMR, i18n, WebdriverIO) để dựng extension Chrome/Firefox. Hợp khi bắt đầu extension mới và muốn cấu trúc monorepo sẵn, build nhanh.",
           "language": "TypeScript",
-          "stars": 4895,
+          "stars": 4893,
           "topics": [],
-          "updatedAt": "2026-11-17T19:54:30Z",
+          "updatedAt": "2026-11-18T17:14:32Z",
           "archived": true,
           "category": "frontend-ui"
         },
@@ -6487,13 +6488,13 @@
           "description": "UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.",
           "summaryVi": "Giao diện quản lý dự án lấy cảm hứng Linear, xây bằng Next.js và shadcn/ui. Phù hợp theo dõi issue, project và team với UI hiện đại, responsive.",
           "language": "TypeScript",
-          "stars": 4767,
+          "stars": 4770,
           "topics": [
             "linear",
             "shadcn-ui",
             "template"
           ],
-          "updatedAt": "2026-11-17T09:01:41Z",
+          "updatedAt": "2026-11-18T20:08:48Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6505,7 +6506,7 @@
           "description": "A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.",
           "summaryVi": "Thư viện component composable, accessible bổ sung cho shadcn/ui, bọc logic phức tạp từ các headless library. Dùng khi cần khối dựng UI cao cấp hơn primitive Radix để giảm boilerplate mà vẫn linh hoạt.",
           "language": "TypeScript",
-          "stars": 3988,
+          "stars": 3987,
           "topics": [
             "accessible",
             "components",
@@ -6515,7 +6516,7 @@
             "typescript",
             "ui"
           ],
-          "updatedAt": "2026-11-17T21:06:41Z",
+          "updatedAt": "2026-11-18T08:50:28Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6533,7 +6534,7 @@
             "gpt",
             "vibe-coding"
           ],
-          "updatedAt": "2026-11-17T15:38:10Z",
+          "updatedAt": "2026-11-18T11:00:45Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6586,7 +6587,7 @@
           "description": "beUI: free animated React components built on Framer Motion and Tailwind CSS. Install with the shadcn CLI, or copy the source.",
           "summaryVi": "Thư viện component chuyển động cho React/Next.js, copy mã nguồn vào app thay vì cài package. Dùng khi cần UI có animation sẵn, preview và lệnh cài kiểu shadcn.",
           "language": "TypeScript",
-          "stars": 1986,
+          "stars": 1989,
           "topics": [
             "animated-components",
             "animation",
@@ -6607,7 +6608,7 @@
             "ui",
             "ui-components"
           ],
-          "updatedAt": "2026-11-17T23:54:33Z",
+          "updatedAt": "2026-11-18T20:18:48Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6619,9 +6620,9 @@
           "description": "ComfyUI MiniMax H3 Director workflow",
           "summaryVi": "",
           "language": "",
-          "stars": 1550,
+          "stars": 1552,
           "topics": [],
-          "updatedAt": "2026-11-18T01:25:34Z",
+          "updatedAt": "2026-11-18T16:07:53Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6657,7 +6658,7 @@
           "description": "Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.",
           "summaryVi": "Bộ component UI terminal cho React, dựng trên Ink và OpenTUI, tương thích quy trình shadcn/ui, có chart, chat AI và điều hướng. Dùng khi làm TUI đẹp, theme-aware mà không tự viết từ đầu từng khối giao diện.",
           "language": "TypeScript",
-          "stars": 1235,
+          "stars": 1236,
           "topics": [
             "cli",
             "ink",
@@ -6666,7 +6667,7 @@
             "shadcn",
             "tui"
           ],
-          "updatedAt": "2026-11-17T09:22:48Z",
+          "updatedAt": "2026-11-18T11:07:03Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6678,7 +6679,7 @@
           "description": "High-performance React Native  and React components .",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 1004,
+          "stars": 1007,
           "topics": [
             "expo",
             "expo-ui",
@@ -6686,7 +6687,7 @@
             "react-native-component",
             "shadcn-ui"
           ],
-          "updatedAt": "2026-11-17T01:42:31Z",
+          "updatedAt": "2026-11-18T11:08:04Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6768,9 +6769,9 @@
           "description": "Small browser games as isometric pixel dioramas. No build step, no dependencies.",
           "summaryVi": "",
           "language": "HTML",
-          "stars": 528,
+          "stars": 535,
           "topics": [],
-          "updatedAt": "2026-11-17T20:53:59Z",
+          "updatedAt": "2026-11-18T22:09:42Z",
           "archived": false,
           "category": "frontend-ui"
         },
@@ -6972,7 +6973,7 @@
           "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
           "summaryVi": "Danh sách chọn lọc phần mềm tự do để tự host trên server thay cho dịch vụ SaaS, chia theo nhóm như email, CMS, backup, giao tiếp. Tham khảo khi tìm giải pháp self-hosted cho hạ tầng và ứng dụng web của mình.",
           "language": "",
-          "stars": 338117,
+          "stars": 338393,
           "topics": [
             "awesome",
             "awesome-list",
@@ -6983,7 +6984,7 @@
             "self-hosted",
             "selfhosted"
           ],
-          "updatedAt": "2026-11-18T01:26:28Z",
+          "updatedAt": "2026-11-19T00:58:44Z",
           "archived": false,
           "category": "selfhost-ops"
         },
@@ -6995,7 +6996,7 @@
           "description": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
           "summaryVi": "Framework Node.js/TypeScript theo kiến trúc kiểu Angular để xây API và ứng dụng server có cấu trúc, dễ test và mở rộng, chạy trên Express hoặc Fastify. Chọn khi cần nền tảng backend rõ ràng thay vì ghép ad-hoc các thư viện Node.",
           "language": "TypeScript",
-          "stars": 77278,
+          "stars": 77084,
           "topics": [
             "framework",
             "hacktoberfest",
@@ -7011,7 +7012,7 @@
             "typescript-framework",
             "websockets"
           ],
-          "updatedAt": "2026-11-18T01:05:43Z",
+          "updatedAt": "2026-11-19T00:51:37Z",
           "archived": false,
           "category": "selfhost-ops"
         },
@@ -7023,7 +7024,7 @@
           "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
           "summaryVi": "PaaS mã nguồn mở tự host, thay Heroku/Netlify/Vercel, quản lý server, app và database qua SSH trên máy của bạn. Hợp khi cần deploy như cloud nhưng tránh vendor lock-in và giữ toàn bộ cấu hình trên hạ tầng riêng.",
           "language": "PHP",
-          "stars": 66195,
+          "stars": 66227,
           "topics": [
             "coolify",
             "databases",
@@ -7046,7 +7047,7 @@
             "svelte",
             "svelte5"
           ],
-          "updatedAt": "2026-11-18T01:19:38Z",
+          "updatedAt": "2026-11-19T00:23:53Z",
           "archived": false,
           "category": "selfhost-ops"
         },
@@ -7058,7 +7059,7 @@
           "description": "Free and Open Source Enterprise Resource Planning (ERP)",
           "summaryVi": "Hệ ERP mã nguồn mở bao quát kế toán, đơn hàng, kho, sản xuất, tài sản và dự án trên nền Frappe. Dùng cho doanh nghiệp muốn quản lý vận hành tập trung mà không phụ thuộc phần mềm ERP trả phí.",
           "language": "Python",
-          "stars": 41394,
+          "stars": 41431,
           "topics": [
             "accounting",
             "asset-management",
@@ -7077,7 +7078,7 @@
             "retail",
             "support"
           ],
-          "updatedAt": "2026-11-18T01:19:55Z",
+          "updatedAt": "2026-11-18T23:37:56Z",
           "archived": false,
           "category": "selfhost-ops"
         },
@@ -7089,14 +7090,14 @@
           "description": "Open Source Next.js Saas Boilerplate",
           "summaryVi": "Boilerplate SaaS Next.js miễn phí (thay ShipFast) với auth, thanh toán, email, i18n và Postgres/Drizzle. Dùng để khởi động nhanh sản phẩm SaaS thay vì dựng lại phần nền từ đầu.",
           "language": "TypeScript",
-          "stars": 1714,
+          "stars": 1715,
           "topics": [
             "boilerplate",
             "nextjs",
             "saas",
             "typescript"
           ],
-          "updatedAt": "2026-11-12T20:43:49Z",
+          "updatedAt": "2026-11-18T13:53:17Z",
           "archived": false,
           "category": "selfhost-ops"
         },
@@ -7132,7 +7133,7 @@
           "language": "Solidity",
           "stars": 2207,
           "topics": [],
-          "updatedAt": "2026-11-11T12:32:02Z",
+          "updatedAt": "2026-11-18T14:58:44Z",
           "archived": false,
           "category": "crypto-web3"
         },
@@ -7164,14 +7165,14 @@
           "description": "Solana JavaScript SDK",
           "summaryVi": "SDK JavaScript/TypeScript chính thức (thế hệ kế tiếp của web3.js) để xây ứng dụng Solana trên Node, trình duyệt và React Native. Phù hợp khi cần API tree-shakable hiện đại để tạo, ký và gửi giao dịch trên Solana.",
           "language": "TypeScript",
-          "stars": 703,
+          "stars": 702,
           "topics": [
             "blockchain",
             "sdk-js",
             "solana",
             "web3"
           ],
-          "updatedAt": "2026-11-17T11:59:01Z",
+          "updatedAt": "2026-11-18T08:43:36Z",
           "archived": false,
           "category": "crypto-web3"
         },
@@ -7334,7 +7335,7 @@
           "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
           "summaryVi": "Danh sách chọn lọc plugin cộng đồng cho DeepSeek Harness (dsh), cài bằng dsh plugin add hoặc qua dsh-market. Dùng khi cần mở rộng agent coding, đổi model/tool/UI hoặc tìm plugin tương thích giao thức dsh.bundle.",
           "language": "JavaScript",
-          "stars": 25005,
+          "stars": 25103,
           "topics": [
             "awesome",
             "awesome-list",
@@ -7342,7 +7343,7 @@
             "dsh",
             "dsh-plugin"
           ],
-          "updatedAt": "2026-11-18T01:23:24Z",
+          "updatedAt": "2026-11-19T00:55:57Z",
           "archived": false,
           "category": "learning"
         },
@@ -7354,7 +7355,7 @@
           "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026",
           "summaryVi": "Bộ checklist 300+ mẹo bảo vệ đời sống số, kèm site lọc theo threat model và API dữ liệu. Dành cho ai muốn rà soát và theo dõi tiến độ siết an ninh cá nhân trên thiết bị, tài khoản và thói quen online.",
           "language": "TypeScript",
-          "stars": 22820,
+          "stars": 22830,
           "topics": [
             "awesome",
             "awesome-list",
@@ -7370,7 +7371,7 @@
             "security-tools",
             "surveillance"
           ],
-          "updatedAt": "2026-11-18T01:28:23Z",
+          "updatedAt": "2026-11-19T00:51:48Z",
           "archived": false,
           "category": "learning"
         }
@@ -7390,7 +7391,7 @@
           "description": "Collection of publicly available IPTV channels from all over the world",
           "summaryVi": "Kho playlist IPTV công khai từ khắp nơi trên thế giới, chỉ gồm link stream chứ không lưu video. Dùng khi cần mở kênh truyền hình trực tuyến bằng cách dán playlist vào trình phát hỗ trợ live stream.",
           "language": "TypeScript",
-          "stars": 144245,
+          "stars": 144308,
           "topics": [
             "iptv",
             "m3u",
@@ -7398,7 +7399,7 @@
             "streams",
             "tv"
           ],
-          "updatedAt": "2026-11-18T01:25:20Z",
+          "updatedAt": "2026-11-19T00:04:43Z",
           "archived": false,
           "category": "other"
         },
@@ -7410,7 +7411,7 @@
           "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
           "summaryVi": "Không gian làm việc all-in-one mã mở, ưu tiên local-first: gộp tài liệu, canvas và bảng như thay thế Notion/Miro. Phù hợp quản lý tri thức, viết, vẽ và lập kế hoạch trên một nền tảng.",
           "language": "TypeScript",
-          "stars": 74619,
+          "stars": 74705,
           "topics": [
             "app",
             "crdt",
@@ -7431,7 +7432,7 @@
             "wiki",
             "workspace"
           ],
-          "updatedAt": "2026-11-18T00:43:11Z",
+          "updatedAt": "2026-11-19T01:00:51Z",
           "archived": false,
           "category": "other"
         },
@@ -7443,9 +7444,9 @@
           "description": "An AI Hedge Fund Team",
           "summaryVi": "Dự án giáo dục mô phỏng quỹ đầu tư với các agent AI đưa ra quyết định giao dịch (backtest, paper trade), không thực hiện lệnh thật. Phù hợp khi muốn thử nghiệm ý tưởng alpha model và pipeline phân tích tài chính bằng LLM.",
           "language": "Python",
-          "stars": 64737,
+          "stars": 64749,
           "topics": [],
-          "updatedAt": "2026-11-18T00:40:53Z",
+          "updatedAt": "2026-11-19T00:31:16Z",
           "archived": false,
           "category": "other"
         },
@@ -7457,7 +7458,7 @@
           "description": "Pear 🍐 is extension for music player",
           "summaryVi": "Ứng dụng desktop (tiện ích mở rộng) mang giao diện native cho trải nghiệm nghe nhạc, không liên kết chính thức với YouTube/Google. Dùng khi muốn nghe nhạc trên máy với theme và plugin tùy biến trên macOS, Linux và Windows.",
           "language": "TypeScript",
-          "stars": 34081,
+          "stars": 34088,
           "topics": [
             "desktop-app",
             "electron",
@@ -7471,7 +7472,7 @@
             "node",
             "windows"
           ],
-          "updatedAt": "2026-11-18T01:20:12Z",
+          "updatedAt": "2026-11-18T22:03:10Z",
           "archived": false,
           "category": "other"
         },
@@ -7483,7 +7484,7 @@
           "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
           "summaryVi": "Nền tảng mã nguồn mở all-in-one cho quản lý dự án, chat, CRM, HRM, ATS; có thể tự host hoặc dùng làm framework phát triển ứng dụng nghiệp vụ. Nên cân nhắc self-host vì dịch vụ hosted đang ngừng.",
           "language": "TypeScript",
-          "stars": 28140,
+          "stars": 28145,
           "topics": [
             "applicant-tracking-system",
             "chat-application",
@@ -7501,7 +7502,7 @@
             "team-platform",
             "wiki"
           ],
-          "updatedAt": "2026-11-18T01:28:23Z",
+          "updatedAt": "2026-11-19T00:04:40Z",
           "archived": false,
           "category": "other"
         },
@@ -7513,12 +7514,12 @@
           "description": "Elegant reading of real-time and hottest news",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 22488,
+          "stars": 22505,
           "topics": [
             "elegant",
             "news"
           ],
-          "updatedAt": "2026-11-17T21:52:46Z",
+          "updatedAt": "2026-11-18T23:16:22Z",
           "archived": false,
           "category": "other"
         },
@@ -7530,9 +7531,9 @@
           "description": "The Bluesky Social application for Web, iOS, and Android",
           "summaryVi": "Mã nguồn ứng dụng Bluesky Social (React Native/TypeScript) cho web, iOS và Android, xây trên giao thức atproto. Dùng khi muốn chạy, tùy biến hoặc đóng góp client mạng xã hội phi tập trung Bluesky.",
           "language": "TypeScript",
-          "stars": 18396,
+          "stars": 18398,
           "topics": [],
-          "updatedAt": "2026-11-18T00:53:23Z",
+          "updatedAt": "2026-11-18T23:53:03Z",
           "archived": false,
           "category": "other"
         },
@@ -7544,9 +7545,9 @@
           "description": "Autonomous multi-session AI coding",
           "summaryVi": "Framework multi-agent tự lập kế hoạch, viết và kiểm thử phần mềm qua nhiều phiên coding tự động (desktop app 2.x, đang chuyển 3.0). Phù hợp khi muốn AI coding chạy end-to-end thay vì chat từng bước.",
           "language": "TypeScript",
-          "stars": 14619,
+          "stars": 14622,
           "topics": [],
-          "updatedAt": "2026-11-17T15:11:33Z",
+          "updatedAt": "2026-11-18T15:59:20Z",
           "archived": false,
           "category": "other"
         },
@@ -7558,7 +7559,7 @@
           "description": "The de facto GitHub star history graph.",
           "summaryVi": "Công cụ vẽ biểu đồ lịch sử star của repo GitHub theo thời gian, có thể nhúng vào README hoặc trang web. Dùng khi muốn theo dõi mức độ tăng trưởng và so sánh độ phổ biến giữa nhiều repo.",
           "language": "TypeScript",
-          "stars": 9745,
+          "stars": 9749,
           "topics": [
             "github",
             "github-star",
@@ -7569,7 +7570,7 @@
             "star",
             "star-history"
           ],
-          "updatedAt": "2026-11-17T21:40:32Z",
+          "updatedAt": "2026-11-18T19:35:26Z",
           "archived": false,
           "category": "other"
         },
@@ -7581,7 +7582,7 @@
           "description": "The modular and type safe schema library for validating structural data 🤖",
           "summaryVi": "Thư viện schema nhỏ gọn, type-safe để validate và suy luận kiểu dữ liệu lúc runtime trong mọi môi trường JavaScript. Dùng cho form, API payload hay cấu hình khi cần API modular và bundle siêu nhẹ thay cho giải pháp nặng hơn.",
           "language": "TypeScript",
-          "stars": 9074,
+          "stars": 9076,
           "topics": [
             "bundle-size",
             "form-validation",
@@ -7598,7 +7599,7 @@
             "validation",
             "validator"
           ],
-          "updatedAt": "2026-11-17T13:51:17Z",
+          "updatedAt": "2026-11-18T12:19:38Z",
           "archived": false,
           "category": "other"
         },
@@ -7610,7 +7611,7 @@
           "description": "Lighter web automation with Python",
           "summaryVi": "Helium là thư viện Python bọc Selenium, điều khiển Chrome/Firefox bằng nhãn người dùng thấy thay vì XPath/CSS. Hợp để viết script tự động hóa trình duyệt ngắn hơn, dễ đọc và vẫn trộn được với Selenium khi cần.",
           "language": "Python",
-          "stars": 8334,
+          "stars": 8335,
           "topics": [
             "chrome",
             "firefox",
@@ -7623,7 +7624,7 @@
             "web-scraping",
             "webdriver"
           ],
-          "updatedAt": "2026-11-17T12:38:54Z",
+          "updatedAt": "2026-11-19T00:12:46Z",
           "archived": false,
           "category": "other"
         },
@@ -7635,9 +7636,9 @@
           "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 7991,
+          "stars": 7998,
           "topics": [],
-          "updatedAt": "2026-11-17T14:58:44Z",
+          "updatedAt": "2026-11-18T23:44:30Z",
           "archived": false,
           "category": "other"
         },
@@ -7649,7 +7650,7 @@
           "description": "Effort free video editing!",
           "summaryVi": "",
           "language": "Nim",
-          "stars": 5967,
+          "stars": 5990,
           "topics": [
             "audio",
             "audio-editing",
@@ -7660,7 +7661,7 @@
             "video-editing",
             "video-processing"
           ],
-          "updatedAt": "2026-11-18T01:01:59Z",
+          "updatedAt": "2026-11-19T00:38:49Z",
           "archived": false,
           "category": "other"
         },
@@ -7672,9 +7673,9 @@
           "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 5686,
+          "stars": 5692,
           "topics": [],
-          "updatedAt": "2026-11-18T01:31:29Z",
+          "updatedAt": "2026-11-18T23:14:50Z",
           "archived": false,
           "category": "other"
         },
@@ -7686,9 +7687,9 @@
           "description": "Chat Demo",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 4539,
+          "stars": 4829,
           "topics": [],
-          "updatedAt": "2026-11-18T01:30:31Z",
+          "updatedAt": "2026-11-19T00:55:07Z",
           "archived": false,
           "category": "other"
         },
@@ -7700,12 +7701,12 @@
           "description": "OpenHealth, AI Health Assistant | Powered by Your Data",
           "summaryVi": "Trợ lý sức khỏe AI dùng dữ liệu cá nhân (xét nghiệm, khám, triệu chứng…) đã được parse có cấu trúc để tư vấn theo ngữ cảnh, có thể chạy local. Dùng khi muốn tập trung hồ sơ sức khỏe và hỏi đáp cá nhân hóa với nhiều model LLM.",
           "language": "TypeScript",
-          "stars": 3974,
+          "stars": 3976,
           "topics": [
             "ai",
             "healthcare"
           ],
-          "updatedAt": "2026-11-16T20:21:11Z",
+          "updatedAt": "2026-11-18T23:27:07Z",
           "archived": false,
           "category": "other"
         },
@@ -7717,7 +7718,7 @@
           "description": "Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt ",
           "summaryVi": "",
           "language": "Python",
-          "stars": 3457,
+          "stars": 3479,
           "topics": [
             "deep-learning",
             "on-device-ml",
@@ -7728,7 +7729,7 @@
             "vietnamese",
             "vietnamese-language"
           ],
-          "updatedAt": "2026-11-18T00:49:19Z",
+          "updatedAt": "2026-11-18T16:24:06Z",
           "archived": false,
           "category": "other"
         },
@@ -7740,9 +7741,9 @@
           "description": "LinkedIn -> personal site generator",
           "summaryVi": "Công cụ mã nguồn mở tạo trang cá nhân từ CV PDF nhờ LLM, có xác thực và lưu trữ đám mây. Dùng khi muốn nhanh chóng có site portfolio/publishable từ hồ sơ mà không tự code giao diện.",
           "language": "TypeScript",
-          "stars": 3112,
+          "stars": 3114,
           "topics": [],
-          "updatedAt": "2026-11-17T18:00:32Z",
+          "updatedAt": "2026-11-19T00:12:32Z",
           "archived": false,
           "category": "other"
         },
@@ -7754,9 +7755,9 @@
           "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
           "summaryVi": "Ứng dụng web giả lập bảng lật chữ kiểu sân bay/ga tàu, chạy toàn màn hình trên TV hoặc màn hình lớn. Dùng khi muốn trang trí không gian bằng bảng tin retro với hiệu ứng và âm thanh cơ học, không cần phần cứng đắt tiền.",
           "language": "JavaScript",
-          "stars": 3014,
+          "stars": 3013,
           "topics": [],
-          "updatedAt": "2026-11-17T23:02:00Z",
+          "updatedAt": "2026-11-18T07:16:25Z",
           "archived": false,
           "category": "other"
         },
@@ -7782,12 +7783,12 @@
           "description": "Docx rendering library",
           "summaryVi": "Thư viện TypeScript chuyển file DOCX sang HTML, ưu tiên giữ ngữ nghĩa HTML thay vì vẽ như ảnh. Dùng khi cần xem hoặc nhúng nội dung Word trên web mà vẫn đọc được cấu trúc văn bản.",
           "language": "TypeScript",
-          "stars": 2151,
+          "stars": 2152,
           "topics": [
             "docx",
             "javascript"
           ],
-          "updatedAt": "2026-11-17T01:47:31Z",
+          "updatedAt": "2026-11-18T03:16:45Z",
           "archived": false,
           "category": "other"
         },
@@ -7799,9 +7800,9 @@
           "description": "",
           "summaryVi": "Kho mẫu và hướng dẫn tạo wrap tùy chỉnh cho hình 3D xe Tesla trong Paint Shop. Dùng khi muốn thiết kế skin riêng rồi tải lên xe qua app hoặc USB.",
           "language": "",
-          "stars": 1989,
+          "stars": 1996,
           "topics": [],
-          "updatedAt": "2026-11-17T23:08:45Z",
+          "updatedAt": "2026-11-18T22:26:57Z",
           "archived": false,
           "category": "other"
         },
@@ -7813,7 +7814,7 @@
           "description": "Ergonomically designed, AI-powered homework solver. | 符合人体工程学设计、人工智能驱动的作业助手 | 平庸者的苦工到此为止，这是来自外星的效率补丁 (by Gemini)",
           "summaryVi": "Ứng dụng web giải bài tập bằng AI (Gemini/OpenAI), nhận ảnh hoặc PDF, tùy chỉnh phong cách đáp án và thao tác chủ yếu bằng bàn phím. Dùng khi cần hỗ trợ làm bài nhanh trên trình duyệt mà không cài phần mềm desktop.",
           "language": "TypeScript",
-          "stars": 1974,
+          "stars": 1978,
           "topics": [
             "ai",
             "gemini",
@@ -7824,7 +7825,7 @@
             "self-taught",
             "study"
           ],
-          "updatedAt": "2026-11-17T22:35:55Z",
+          "updatedAt": "2026-11-18T17:53:57Z",
           "archived": false,
           "category": "other"
         },
@@ -7836,12 +7837,12 @@
           "description": "AI Hero's open-source examples and course material. Learn AI Engineering with a single repo.",
           "summaryVi": "Kho ví dụ, bài tập và thư viện mã nguồn mở cho khóa AI Hero, hướng dev web/full-stack sang AI engineering. Chạy từng example (pnpm + .env) để học khái niệm và kỹ thuật theo bài viết đi kèm.",
           "language": "TypeScript",
-          "stars": 1934,
+          "stars": 1936,
           "topics": [
             "ai",
             "typescript"
           ],
-          "updatedAt": "2026-11-17T13:02:22Z",
+          "updatedAt": "2026-11-18T23:35:42Z",
           "archived": false,
           "category": "other"
         },
@@ -7853,9 +7854,9 @@
           "description": "AI机器人群聊",
           "summaryVi": "Ứng dụng chat nhóm nhiều nhân vật AI cùng lúc, hỗ trợ stream, tùy chỉnh persona và triển khai Cloudflare/Docker. Dùng khi cần trải nghiệm “phòng chat” với nhiều bot thay vì hội thoại một-một; bản web cũ đã ngừng bảo trì, hướng sang client desktop.",
           "language": "TypeScript",
-          "stars": 1712,
+          "stars": 1713,
           "topics": [],
-          "updatedAt": "2026-11-16T02:41:20Z",
+          "updatedAt": "2026-11-18T08:47:48Z",
           "archived": false,
           "category": "other"
         },
@@ -7881,9 +7882,9 @@
           "description": "AI-CanvasPro",
           "summaryVi": "",
           "language": "",
-          "stars": 1470,
+          "stars": 1471,
           "topics": [],
-          "updatedAt": "2026-11-17T11:16:59Z",
+          "updatedAt": "2026-11-18T15:38:44Z",
           "archived": false,
           "category": "other"
         },
@@ -7895,14 +7896,14 @@
           "description": "The TypeScript MCP framework",
           "summaryVi": "Framework TypeScript để dựng và triển khai MCP server, tự đăng ký tool/prompt theo thư mục, hot reload và middleware. Dùng khi cần xây công cụ trong hệ sinh thái Model Context Protocol và deploy linh hoạt (kể cả Vercel).",
           "language": "TypeScript",
-          "stars": 1351,
+          "stars": 1352,
           "topics": [
             "framework",
             "mcp",
             "modelcontextprotocol",
             "typescript"
           ],
-          "updatedAt": "2026-11-17T02:06:29Z",
+          "updatedAt": "2026-11-18T06:10:27Z",
           "archived": false,
           "category": "other"
         },
@@ -7914,9 +7915,9 @@
           "description": "AI 味去除 - 仅在 Gemini 2.5 Pro 上测试通过",
           "summaryVi": "Bộ prompt (chạy trên mô hình suy luận như Gemini 2.5 Pro) để mở rộng hoặc viết lại văn bản nhằm giảm dấu vết “AI viết”. Dùng khi biên tập bản thảo AI cho tự nhiên hơn trước khi đăng hoặc nộp.",
           "language": "",
-          "stars": 1205,
+          "stars": 1206,
           "topics": [],
-          "updatedAt": "2026-11-17T13:19:29Z",
+          "updatedAt": "2026-11-18T16:31:31Z",
           "archived": false,
           "category": "other"
         },
@@ -7942,9 +7943,9 @@
           "description": "The world's most powerful open-source financial AI assistant - Access institutional-grade financial data, run complex analyses, and create stunning visualizations, all through natural conversation.",
           "summaryVi": "Trợ lý tài chính mã nguồn mở: chat ngôn ngữ tự nhiên để tra dữ liệu thị trường, SEC, bằng sáng chế và nghiên cứu, kèm chạy code phân tích và vẽ biểu đồ. Phù hợp khi muốn nghiên cứu tài chính kiểu terminal nhưng giao tiếp bằng hội thoại.",
           "language": "TypeScript",
-          "stars": 915,
+          "stars": 916,
           "topics": [],
-          "updatedAt": "2026-11-17T16:02:38Z",
+          "updatedAt": "2026-11-18T14:22:43Z",
           "archived": false,
           "category": "other"
         },
@@ -7970,9 +7971,9 @@
           "description": "Gõ Nhanh - Bộ gõ tiếng Việt hiện đại, hiệu suất cao dành cho macOS.",
           "summaryVi": "Bộ gõ tiếng Việt miễn phí, nhẹ và ổn định cho macOS (có bản beta Linux/Windows), cài xong dùng ngay, không quảng cáo hay thu thập dữ liệu. Phù hợp ai cần gõ tiếng Việt nhanh, sửa dính chữ trên Chrome/Spotlight/IDE và tự khôi phục khi gõ lẫn Anh–Việt.",
           "language": "Rust",
-          "stars": 776,
+          "stars": 778,
           "topics": [],
-          "updatedAt": "2026-11-16T06:16:20Z",
+          "updatedAt": "2026-11-18T12:11:07Z",
           "archived": false,
           "category": "other"
         },
@@ -7984,7 +7985,7 @@
           "description": "🤖💬 AI SDK, extra small.",
           "summaryVi": "SDK AI cực nhẹ, tương thích OpenAI, chạy được trên browser, edge và tooling agent nhờ Fetch/ESM. Chọn khi chỉ cần generate/stream text và tool call mà không muốn kéo theo framework AI đầy đủ.",
           "language": "TypeScript",
-          "stars": 669,
+          "stars": 668,
           "topics": [
             "ai",
             "ollama",
@@ -7992,7 +7993,7 @@
             "typescript",
             "xsai"
           ],
-          "updatedAt": "2026-11-15T19:12:22Z",
+          "updatedAt": "2026-11-18T08:40:15Z",
           "archived": false,
           "category": "other"
         },
@@ -8058,9 +8059,9 @@
           "description": "Private, unlimited background removal that runs in your browser.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 496,
+          "stars": 497,
           "topics": [],
-          "updatedAt": "2026-11-17T17:59:57Z",
+          "updatedAt": "2026-11-18T23:20:14Z",
           "archived": false,
           "category": "other"
         },
@@ -8072,14 +8073,14 @@
           "description": "Sync screenplays with video. Evaluate AI-generated footage. Analyze script-to-screen fidelity.",
           "summaryVi": "",
           "language": "TypeScript",
-          "stars": 402,
+          "stars": 404,
           "topics": [
             "ai",
             "filmmaking",
             "screenplay",
             "screenwriting"
           ],
-          "updatedAt": "2026-11-17T11:41:56Z",
+          "updatedAt": "2026-11-18T11:26:29Z",
           "archived": false,
           "category": "other"
         },
@@ -8140,9 +8141,9 @@
           "description": "",
           "summaryVi": "Thư viện hàng nghìn icon hai tông màu (Lucide, Heroicons, Iconoir) có animation hover thuần CSS, xuất ra React, Vue, Svelte và nhiều định dạng khác. Phù hợp khi cần icon động nhẹ, không phụ thuộc thư viện animation JavaScript.",
           "language": "JavaScript",
-          "stars": 303,
+          "stars": 304,
           "topics": [],
-          "updatedAt": "2026-10-30T22:54:08Z",
+          "updatedAt": "2026-11-18T18:47:58Z",
           "archived": false,
           "category": "other"
         },
