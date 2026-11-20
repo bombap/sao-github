@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-11-19
+publishDate: 2026-11-20
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -21,7 +21,7 @@ Ví dụ sandwich trên cặp Uniswap V2: đọc mempool, tính lãi/gas và b�
 
 *Mô tả gốc:* A practical example on how to perform sandwich attacks on Ethereum
 
-`Solidity` · **2,207** stars · 18/11/2026
+`Solidity` · **2,206** stars · 19/11/2026
 
 ### [mouseless0x/rusty-sando](https://github.com/mouseless0x/rusty-sando)
 
@@ -29,7 +29,7 @@ Bot MEV sandwich viết bằng Rust/Huff, mô phỏng và gửi sandwich Uniswap
 
 *Mô tả gốc:* Implementation of a competitive v2/v3 multi-meat MEV sandwich bot written using Rust and Huff.
 
-`Rust` · **868** stars · 10/11/2026 · **đã archive**
+`Rust` · **867** stars · 19/11/2026 · **đã archive**
 
 `evm` `huff` `mev` `rust` `sandwich`
 
@@ -49,7 +49,7 @@ Triển khai cặp token ERC20–ERC721 liên kết (theo hướng ERC-7631): ch
 
 *Mô tả gốc:* Implementation of a co-joined ERC20 and ERC721 pair.
 
-`Solidity` · **559** stars · 13/11/2026
+`Solidity` · **558** stars · 19/11/2026
 
 ### [vybenetwork/solana-trades-api](https://github.com/vybenetwork/solana-trades-api)
 
@@ -57,7 +57,7 @@ Backend Node và frontend mẫu tích hợp API lịch sử giao dịch Solana c
 
 *Mô tả gốc:* Solana Trades API
 
-`TypeScript` · **177** stars · 16/11/2026
+`TypeScript` · **171** stars · 19/11/2026
 
 `api` `holders` `launchlab` `markets` `meteora` `pools`
 
@@ -79,7 +79,7 @@ Thư viện TypeScript parse giao dịch swap trên các DEX Solana như Jupiter
 
 两套 Codex + Blender 工作流：参考视频复刻与原创白模动画 → 提示词 → AI 视频生成
 
-`—` · **97** stars · 17/11/2026
+`—` · **96** stars · 19/11/2026
 
 ### [tetsuroba/uniswap-universal-decoder](https://github.com/tetsuroba/uniswap-universal-decoder)
 
