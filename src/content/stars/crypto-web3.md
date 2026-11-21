@@ -21,7 +21,7 @@ Ví dụ sandwich trên cặp Uniswap V2: đọc mempool, tính lãi/gas và b�
 
 *Mô tả gốc:* A practical example on how to perform sandwich attacks on Ethereum
 
-`Solidity` · **2,206** stars · 19/11/2026
+`Solidity` · **2,205** stars · 21/11/2026
 
 ### [mouseless0x/rusty-sando](https://github.com/mouseless0x/rusty-sando)
 
