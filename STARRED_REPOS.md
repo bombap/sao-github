@@ -1,7 +1,7 @@
 ---
 title: "Repo đã star của bombap"
 description: "Danh sách GitHub starred, tóm tắt tiếng Việt từ README."
-publishDate: 2026-11-23
+publishDate: 2026-11-24
 language: vi
 ---
 
@@ -9,7 +9,7 @@ language: vi
 
 Tổng hợp tự động bởi GitHub Actions. Tóm tắt tiếng Việt do AI đọc README của từng repo.
 
-*Cập nhật: 2026-11-23T00:06:25Z*  
+*Cập nhật: 2026-11-24T04:14:03Z*  
 *375 repository · 11 nhóm · 299 đã có tóm tắt AI*
 
 | Nhóm | File Markdown | Số repo | Nội dung |
