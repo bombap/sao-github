@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare / Gateway"
 description: "Workers, Hono, AI gateway, serverless."
-publishDate: 2026-11-24
+publishDate: 2026-11-25
 language: vi
 category: "Cloudflare / Gateway"
 count: 30
@@ -19,7 +19,7 @@ Workers, Hono, AI gateway, serverless.
 
 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
-`Python` · **36,743** stars · 24/11/2026
+`Python` · **36,811** stars · 25/11/2026
 
 ### [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 
@@ -27,7 +27,7 @@ Template monorepo SaaS full-stack với React 19, tRPC, Drizzle/Neon, Better Aut
 
 *Mô tả gốc:* Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 
-`TypeScript` · **23,727** stars · 23/11/2026
+`TypeScript` · **23,726** stars · 24/11/2026
 
 `better-auth` `boilerplate` `bun` `cloudflare` `cloudflare-workers` `drizzle-orm`
 
@@ -37,7 +37,7 @@ Phần mềm quản lý dự án mã mở, giao diện gọn, tự host và ưu 
 
 *Mô tả gốc:* ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 
-`TypeScript` · **9,880** stars · 24/11/2026
+`TypeScript` · **9,890** stars · 25/11/2026
 
 `hono` `issue-management` `issue-tracker` `jira-alternative` `kanban` `linear-alternative`
 
@@ -45,7 +45,7 @@ Phần mềm quản lý dự án mã mở, giao diện gọn, tự host và ưu 
 
 Email for professionals and teams
 
-`TypeScript` · **7,523** stars · 24/11/2026
+`TypeScript` · **7,604** stars · 25/11/2026
 
 `cloudflare` `cloudflare-workers` `email`
 
@@ -65,7 +65,7 @@ Backend trực quan nhẹ (dữ liệu, auth, media, workflow) theo Web Standard
 
 *Mô tả gốc:* Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 
-`TypeScript` · **3,798** stars · 20/11/2026
+`TypeScript` · **3,800** stars · 24/11/2026
 
 ### [cloudflare/nimbus](https://github.com/cloudflare/nimbus)
 
@@ -73,7 +73,7 @@ Bộ scaffold docs Astro đưa layout, component và content vào repo dưới d
 
 *Mô tả gốc:* Docs for humans and agents, built on Astro
 
-`TypeScript` · **1,778** stars · 24/11/2026
+`TypeScript` · **1,779** stars · 24/11/2026
 
 ### [tinylibs/tinypool](https://github.com/tinylibs/tinypool)
 
@@ -89,7 +89,7 @@ Thư viện worker pool Node.js siêu nhẹ (fork Piscina), hỗ trợ worker th
 
 🍊☁️ Open-source* apps that replace SaaS product + tools, running in your own Cloudflare account
 
-`JavaScript` · **1,301** stars · 24/11/2026
+`JavaScript` · **1,302** stars · 25/11/2026
 
 `awesome` `awesome-list` `cloudflare` `cloudflare-workers` `self-hosted`
 
@@ -97,7 +97,7 @@ Thư viện worker pool Node.js siêu nhẹ (fork Piscina), hỗ trợ worker th
 
 Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA, hCaptcha, GeeTest. FlareSolverr & Byparr alternative and drop-in replacement for your *arr stack.
 
-`TypeScript` · **1,214** stars · 23/11/2026
+`TypeScript` · **1,223** stars · 25/11/2026
 
 `anti-bot` `anti-detection` `arr` `bun` `byparr` `camoufox`
 
@@ -107,7 +107,7 @@ Công cụ Python quét các subreddit về AI, phân tích bài/ảnh/video/web
 
 *Mô tả gốc:* Stay ahead of AI trends with automated Reddit insights! 🚀 This tool scans AI-related Reddit communities in English & Chinese, using Reddit Official API, DeepSeek V4.1 by OpenRouter to analyze posts, summarize key discussions, and track trends. Daily rankings hot topics—catch emerging trends before they go mainstream! (Updated every 6 AM CDT)
 
-`Python` · **876** stars · 20/11/2026
+`Python` · **877** stars · 25/11/2026
 
 `ai` `deepseek-r1` `ranking` `reports` `trend`
 
@@ -117,7 +117,7 @@ Provider TypeScript nối Vercel AI SDK với OpenRouter để gọi chat/comple
 
 *Mô tả gốc:* The OpenRouter provider for the Vercel AI SDK contains support for hundreds of models through the OpenRouter chat and completion APIs.
 
-`TypeScript` · **697** stars · 19/11/2026
+`TypeScript` · **698** stars · 24/11/2026
 
 `ai` `vercel-ai-sdk`
 
@@ -127,7 +127,7 @@ Công cụ quản lý SSH chạy trên Cloudflare Workers/Edge, có dashboard k�
 
 *Mô tả gốc:* A web-based SSH solution that can be deployed on Cloudflare Workers.
 
-`TypeScript` · **650** stars · 21/11/2026
+`TypeScript` · **654** stars · 24/11/2026
 
 ### [supermemoryai/backend-api-kit](https://github.com/supermemoryai/backend-api-kit)
 
@@ -169,9 +169,9 @@ Dịch vụ CAPTCHA chạy trên Cloudflare Workers dùng Proof of Work SHA-256,
 
 Gateway API AI serverless (Vercel/Cloudflare) hoặc CLI local, một endpoint cho nhiều LLM với xoay key và circuit breaker. Chọn theo mức dùng: thử nhanh, coding nặng, hoặc agent/multimodal.
 
-*Mô tả gốc:* Open-source AI API Gateway | Serverless & VPS Self-hosted | Vercel, Cloudflare & Local | Multi-Provider, Smart Routing, Key Rotation & Failover
+*Mô tả gốc:* AI API Gateway | Serverless & VPS Self-hosted | Vercel, Cloudflare & Local | Multi-Provider, Smart Routing, Key Rotation & Failover
 
-`TypeScript` · **131** stars · 20/11/2026
+`TypeScript` · **131** stars · 25/11/2026
 
 `ai` `api-gateway` `api-relay` `edge-runtime` `llm` `llm-gateway`
 
