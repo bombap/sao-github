@@ -1,7 +1,7 @@
 ---
 title: "Crypto / Solana / Web3"
 description: "DEX, protocol, bot, SDK on-chain."
-publishDate: 2026-11-25
+publishDate: 2026-11-26
 language: vi
 category: "Crypto / Solana / Web3"
 count: 11
@@ -21,7 +21,7 @@ Ví dụ sandwich trên cặp Uniswap V2: đọc mempool, tính lãi/gas và b�
 
 *Mô tả gốc:* A practical example on how to perform sandwich attacks on Ethereum
 
-`Solidity` · **2,205** stars · 21/11/2026
+`Solidity` · **2,206** stars · 25/11/2026
 
 ### [mouseless0x/rusty-sando](https://github.com/mouseless0x/rusty-sando)
 
@@ -29,7 +29,7 @@ Bot MEV sandwich viết bằng Rust/Huff, mô phỏng và gửi sandwich Uniswap
 
 *Mô tả gốc:* Implementation of a competitive v2/v3 multi-meat MEV sandwich bot written using Rust and Huff.
 
-`Rust` · **867** stars · 19/11/2026 · **đã archive**
+`Rust` · **868** stars · 25/11/2026 · **đã archive**
 
 `evm` `huff` `mev` `rust` `sandwich`
 
@@ -49,7 +49,7 @@ Triển khai cặp token ERC20–ERC721 liên kết (theo hướng ERC-7631): ch
 
 *Mô tả gốc:* Implementation of a co-joined ERC20 and ERC721 pair.
 
-`Solidity` · **557** stars · 20/11/2026
+`Solidity` · **558** stars · 25/11/2026
 
 ### [vybenetwork/solana-trades-api](https://github.com/vybenetwork/solana-trades-api)
 
@@ -95,7 +95,7 @@ Bot sandwich trên BSC: theo mempool và chèn giao dịch quanh các swap để
 
 *Mô tả gốc:* This is a sandwiching bot that works on bsc chain
 
-`TypeScript` · **38** stars · 09/10/2026 · **đã archive**
+`TypeScript` · **39** stars · 25/11/2026 · **đã archive**
 
 `blockchain` `bscscan` `ethereum` `ethersjs` `evm` `sandwich`
 
